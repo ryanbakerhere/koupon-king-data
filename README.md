@@ -33,8 +33,9 @@ data/
 | `valid-offers.json` | Rolling recently-valid offer window (shim validation index) | SCHEMAS.md §9 |
 | `prices/{chain}.json` | Open longitudinal price series per chain (family-keyed) — feeds baseline inference | SCHEMAS.md §10 |
 
-Base URL: published from `data/published/` via GitHub Pages (final URL will be recorded
-here when Pages goes live). All files are JSON, gzip-served with ETags. Third parties
+Base URL: **`https://data.kouponking.app/`** (canonical, Sovereign-owned domain —
+goes live with the repo's public flip; published from `data/published/` via GitHub
+Pages). All files are JSON, gzip-served with ETags. Third parties
 consuming these files is a success condition of the project, not a leak — schema
 stability rules (SCHEMAS.md §8) exist partly for your benefit. Build things.
 
