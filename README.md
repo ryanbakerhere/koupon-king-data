@@ -60,6 +60,19 @@ a ≥ 2:1 positive ratio**; denials demote, and persistent denials blocklist. Th
 pipeline — thresholds included — is in `reduce/`, unit-tested, and runs in public via
 GitHub Actions. Audit it.
 
+## Kin — commons cite their ancestors
+
+Open data about grocery prices has honorable relatives, and this project stands
+gladly among them: [Open Prices](https://prices.openfoodfacts.org/) (Open Food
+Facts' crowdsourced price observations), [Project
+Hammer](https://jacobfilipp.com/hammer/) (Canadian grocer price scrapes for
+antitrust research), and the
+[Dominick's dataset](https://www.chicagobooth.edu/research/kilts/research-data/dominicks)
+(weekly store-level scanner data, 1989–1994 — the academic proof the shape was
+always possible). To our knowledge, the *deals/coupon metadata* layer here, and
+the community-verified match table it feeds, have no open counterpart — we'd
+love to be wrong; tell us and we'll cite them too.
+
 ## License
 
 The dataset is licensed under the **Open Database License (ODbL) 1.0** — the
