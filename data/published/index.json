@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-04T02:40:11Z",
+  "generated_at": "2026-07-04T03:38:47Z",
   "chains": [
+    {
+      "chain_id": "nob_hill",
+      "display_name": "Nob Hill Foods",
+      "stores": [
+        {
+          "store_id": "nob_hill-615",
+          "display_name": "Nob Hill Foods — Capitola (809 Bay Ave)",
+          "lat": 36.97993,
+          "lng": -121.95651,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/nob_hill/nob_hill-615.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 10481
+        },
+        {
+          "store_id": "nob_hill-617",
+          "display_name": "Nob Hill Foods — Watsonville (1912 Main St)",
+          "lat": 36.9193,
+          "lng": -121.78058,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/nob_hill/nob_hill-617.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 10482
+        },
+        {
+          "store_id": "nob_hill-620",
+          "display_name": "Nob Hill Foods — Scotts Valley (222 Mt Hermon Rd)",
+          "lat": 37.04719,
+          "lng": -122.02665,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/nob_hill/nob_hill-620.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 10483
+        }
+      ]
+    },
     {
       "chain_id": "safeway",
       "display_name": "Safeway",
