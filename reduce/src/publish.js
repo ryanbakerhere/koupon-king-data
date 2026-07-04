@@ -13,8 +13,10 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { gzipSync } from 'node:zlib';
 import { validateSnapshot, validateStoreDirectory } from './validate.js';
+import { updatePriceSeries, computeBaselines, loadPrices, isoWeekOf } from './prices.js';
 
-const OFFER_FIELD_ORDER = ['offer_id', 'offer_family', 'route', 'title', 'description', 'value', 'valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
+const OFFER_HEAD_FIELDS = ['offer_id', 'offer_family', 'route', 'title', 'description', 'value'];
+const OFFER_TAIL_FIELDS = ['valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
 const RETAIN_DAYS_PAST_VALID_TO = 21;
 const HINT_FIELD_ORDER = ['brands', 'category', 'size_min_oz', 'size_max_oz', 'keywords', 'excludes'];
 
@@ -39,8 +41,9 @@ function pick(obj, order) {
   return out;
 }
 
-// Rebuild the snapshot in canonical SCHEMAS §2 field order.
-function canonicalSnapshot(snapshot) {
+// Rebuild the snapshot in canonical SCHEMAS §2 field order, annotating
+// member-price offers with §10 baselines where the series is confident.
+function canonicalSnapshot(snapshot, baselines) {
   return {
     schema_version: snapshot.schema_version,
     chain_id: snapshot.chain_id,
@@ -48,7 +51,13 @@ function canonicalSnapshot(snapshot) {
     generated_at: snapshot.generated_at,
     valid_through_hint: snapshot.valid_through_hint,
     offers: snapshot.offers.map((offer) => {
-      const clean = pick(offer, OFFER_FIELD_ORDER);
+      const clean = pick(offer, OFFER_HEAD_FIELDS);
+      const baseline = offer.value.type === 'member_price' ? baselines.get(offer.offer_family) : undefined;
+      if (baseline) {
+        clean.baseline_price = baseline.baseline_price;
+        clean.baseline_confidence = { observations: baseline.observations, window_weeks: baseline.window_weeks };
+      }
+      Object.assign(clean, pick(offer, OFFER_TAIL_FIELDS));
       clean.hints = pick(offer.hints, HINT_FIELD_ORDER);
       return clean;
     }),
@@ -72,7 +81,7 @@ function sameIgnoringGeneratedAt(a, b) {
 }
 
 export function publishAll({ registryDir, publishedDir, nowIso }) {
-  const result = { published: [], rejected: [], removed: [], indexChanged: false, validOffersChanged: false };
+  const result = { published: [], rejected: [], removed: [], indexChanged: false, validOffersChanged: false, pricesChanged: [] };
   const storesDir = join(publishedDir, 'stores');
   const indexChains = [];
   const windowOffers = new Map(); // offer_id → { offer_family, valid_to }
@@ -96,7 +105,7 @@ export function publishAll({ registryDir, publishedDir, nowIso }) {
       continue;
     }
 
-    const indexStores = [];
+    const validated = [];
     for (const store of [...directory.stores].sort((a, b) => a.store_id.localeCompare(b.store_id))) {
       const snapshotPath = join(registryDir, chainId, `${store.store_id}.json`);
       if (!existsSync(snapshotPath)) continue; // store known, no scrape yet — not an error
@@ -119,8 +128,23 @@ export function publishAll({ registryDir, publishedDir, nowIso }) {
           windowOffers.set(offer.offer_id, { offer_family: offer.offer_family, valid_to: offer.valid_to });
         }
       }
+      validated.push({ store, snapshot });
+    }
 
-      const content = stringify(canonicalSnapshot(snapshot));
+    // §10: fold this week's observations into the chain price series, then
+    // annotate snapshots from whatever baselines the series can now support.
+    const seriesUpdate = updatePriceSeries({
+      publishedDir,
+      chainId,
+      snapshots: validated.map((v) => v.snapshot),
+      nowIso,
+    });
+    if (seriesUpdate.changed) result.pricesChanged.push(chainId);
+    const baselines = computeBaselines(loadPrices(publishedDir, chainId), isoWeekOf(nowIso.slice(0, 10)));
+
+    const indexStores = [];
+    for (const { store, snapshot } of validated) {
+      const content = stringify(canonicalSnapshot(snapshot, baselines));
       const outPath = join(storesDir, chainId, `${store.store_id}.json`);
       writeIfChanged(outPath, content);
       result.published.push(`${chainId}/${store.store_id}`);

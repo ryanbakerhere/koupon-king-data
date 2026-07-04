@@ -120,6 +120,41 @@ test('malformed snapshot is rejected; valid sibling still publishes', () => {
   assert.deepEqual(index.chains[0].stores.map((s) => s.store_id), ['demo_mart-0001']);
 });
 
+test('member-price offers gain baselines when the price series is confident (§10)', () => {
+  const dirs = setup('registry');
+  // Pre-seed three prior weeks of member-price history for the coffee family.
+  mkdirSync(join(dirs.publishedDir, 'prices'), { recursive: true });
+  writeFileSync(join(dirs.publishedDir, 'prices', 'demo_mart.json'), JSON.stringify({
+    schema_version: 1,
+    generated_at: '2026-06-22T09:00:00Z',
+    chain_id: 'demo_mart',
+    families: {
+      demo_roast_b2c3d4e5: {
+        series: [
+          { week: '2026-W24', price: 3.49, kind: 'member' },
+          { week: '2026-W25', price: 3.49, kind: 'member' },
+          { week: '2026-W26', price: 3.29, kind: 'member' },
+        ],
+      },
+    },
+  }, null, 2));
+
+  run(dirs);
+  const published = JSON.parse(readFileSync(join(dirs.publishedDir, 'stores', 'demo_mart', 'demo_mart-0001.json'), 'utf8'));
+  const coffee = published.offers.find((o) => o.offer_family === 'demo_roast_b2c3d4e5');
+  // Window now holds member obs for W24–W27 (2.99 joined this week): median 3.39.
+  assert.equal(coffee.baseline_price, 3.39);
+  assert.deepEqual(coffee.baseline_confidence, { observations: 4, window_weeks: 8 });
+  const keys = Object.keys(coffee);
+  assert.deepEqual(keys.slice(0, 8), ['offer_id', 'offer_family', 'route', 'title', 'description', 'value', 'baseline_price', 'baseline_confidence']);
+  // Non-member_price offers (amount-off cereal) must NOT carry baselines.
+  const cereal = published.offers.find((o) => o.offer_family === 'demo_crunch_a1b2c3d4');
+  assert.ok(!('baseline_price' in cereal));
+
+  const prices = JSON.parse(readFileSync(join(dirs.publishedDir, 'prices', 'demo_mart.json'), 'utf8'));
+  assert.equal(prices.families.demo_roast_b2c3d4e5.series.length, 5, 'W27 adds member + regular observations');
+});
+
 test('store removed from registry is removed from published (orphan cleanup)', () => {
   const dirs = setup('registry');
   run(dirs);

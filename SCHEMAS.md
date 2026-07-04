@@ -58,6 +58,10 @@ all JSON published to the CDN is gzip-served with ETags.
       "value": { "type": "amount_off", "amount": 0.75, "currency": "USD" },
       //        { "type": "percent_off", "percent": 50 }
       //        { "type": "member_price", "price": 2.99, "regular_price": 4.49 }
+      //          member_price.regular_price is number|null — flyers rarely disclose
+      //          the regular price (2026-07-03 amendment). When null, savings
+      //          magnitude is unknown to the flyer; clients grade via
+      //          baseline_price (below) or a neutral low tier.
       "valid_from": "2026-06-29",
       "valid_to": "2026-07-05",
       "deeplink": "https://<retailer offer URL>",   // clip/external only; null otherwise
@@ -71,7 +75,11 @@ all JSON published to the CDN is gzip-served with ETags.
         "excludes": ["single-serve", "cups"]
       },
       "upcs_verified": ["0001600027528"],  // from matches.json graduation; may be []
-      "insert_ref": null                    // external/paper: e.g. "SmartSource 2026-06-29"
+      "insert_ref": null,                   // external/paper: e.g. "SmartSource 2026-06-29"
+      // PUBLISHED-ONLY additive fields (absent in registry input; reduce adds them
+      // from the §10 price series when a confident baseline exists):
+      "baseline_price": 4.49,               // historical usual price for this family
+      "baseline_confidence": { "observations": 5, "window_weeks": 8 }
     }
   ]
 }
@@ -206,8 +214,47 @@ never bounce because its offer expired between the trip and the upload.
 }
 ```
 
+## 10. Price series & baselines — `prices/{chain}.json` (published)
+
+The longitudinal price commons: a forward-accumulating, family-keyed record of
+observed prices, updated by the nightly reduce from each week's registry. Purely a
+derived view on data already public (the registry's commit history remains the
+audit trail); no new collection. Published under the same ODbL as everything else —
+an open grocery price time series.
+
+```jsonc
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-04T02:30:00Z",
+  "chain_id": "safeway",
+  "families": {
+    "signal_a1b2c3d4": {
+      "series": [
+        { "week": "2026-W27", "price": 2.99, "kind": "member" },
+        { "week": "2026-W27", "price": 4.49, "kind": "regular" }
+      ]
+    }
+  }
+}
+```
+
+- `kind`: `member` (promo/member price observed) | `regular` (disclosed regular price).
+- One entry per (family, week, kind); same-week reruns replace, never duplicate.
+- **Baseline rule** (implemented in `reduce/`): `baseline_price` = median of
+  `regular`-kind observations in a trailing 8-week window when ≥ 3 exist; else
+  median of `member`-kind observations (≥ 3 distinct weeks) — an honest
+  promo-price baseline until shelf-tag observations (Phase 2+) enrich the series.
+  Emitted onto published §2 offers only with `baseline_confidence`
+  `{observations, window_weeks}` alongside. Client precedence: tag-observed >
+  baseline-inferred > unknown (neutral low tier).
+
 ## Amendments
 
+- **2026-07-03 (b)** (operator-approved, relayed via Designer dispatch #2;
+  `schema_version` unchanged — all additive): §2 `member_price.regular_price` is now
+  nullable (flyers disclose it for ~3% of items; Q4 in WORKLOG). §2 gains
+  published-only `baseline_price` + `baseline_confidence`. New §10 price-series
+  commons (`prices/{chain}.json`) and the baseline inference rule.
 - **2026-07-03** (operator-approved; `schema_version` unchanged — both changes are
   additive and forward-compatible per §8): §2 offers now carry `offer_family`
   (previously registry-internal), so client tuples inherit the scraper-assigned family

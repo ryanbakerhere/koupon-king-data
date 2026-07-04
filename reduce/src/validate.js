@@ -74,7 +74,10 @@ function validateValue(value, path, errors) {
     case 'member_price':
       checkKeys(value, ['type', 'price', 'regular_price'], path, errors);
       if (!(typeof value.price === 'number' && value.price > 0)) errors.push(`${path}.price: must be a positive number`);
-      if (!(typeof value.regular_price === 'number' && value.regular_price > value.price)) errors.push(`${path}.regular_price: must exceed price`);
+      // regular_price nullable per 2026-07-03(b) amendment — flyers rarely disclose it.
+      if (!(value.regular_price === null || (typeof value.regular_price === 'number' && value.regular_price > value.price))) {
+        errors.push(`${path}.regular_price: must be null or exceed price`);
+      }
       break;
     default:
       errors.push(`${path}.type: must be amount_off | percent_off | member_price`);

@@ -27,6 +27,12 @@ test('fixture store directory validates clean', () => {
   assert.deepEqual(result.errors, []);
 });
 
+test('member_price with null regular_price is valid (2026-07-03(b) amendment)', () => {
+  const s = goodSnapshot();
+  s.offers[1].value = { type: 'member_price', price: 2.99, regular_price: null };
+  assert.deepEqual(validateSnapshot(s, ctx).errors, []);
+});
+
 const snapshotRejections = [
   ['unknown offer field', (s) => { s.offers[0].bonus_field = 1; }],
   ['bad route', (s) => { s.offers[0].route = 'teleport'; }],

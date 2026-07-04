@@ -31,6 +31,7 @@ data/
 | `stores/{chain}/{store_id}.json` | Per-store deal snapshot | SCHEMAS.md §2 |
 | `matches.json` | Community-verified product↔offer match table | SCHEMAS.md §3 |
 | `valid-offers.json` | Rolling recently-valid offer window (shim validation index) | SCHEMAS.md §9 |
+| `prices/{chain}.json` | Open longitudinal price series per chain (family-keyed) — feeds baseline inference | SCHEMAS.md §10 |
 
 Base URL: published from `data/published/` via GitHub Pages (final URL will be recorded
 here when Pages goes live). All files are JSON, gzip-served with ETags. Third parties
