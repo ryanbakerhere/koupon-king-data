@@ -15,7 +15,7 @@ hard rules enforced in `reduce/src/validate.js`, in public, on every publish.
 
 ```
 SCHEMAS.md          the public data contract (mirrored from the code repo — identical by rule)
-LICENSE             open data license (being finalized pre-launch: ODbL or CC0)
+LICENSE             ODbL 1.0 — share-alike open data license (the OpenStreetMap model)
 reduce/             the refinery: validation + publication + (Phase 3) flywheel reduction
 data/
   registry/         per-chain scraper output (internal producer format, documented below)
@@ -60,5 +60,7 @@ GitHub Actions. Audit it.
 
 ## License
 
-Being finalized before public launch: **ODbL** (share-alike, the OpenStreetMap model) or
-**CC0**. Until the LICENSE file says otherwise, treat the data as all-rights-reserved.
+The dataset is licensed under the **Open Database License (ODbL) 1.0** — the
+OpenStreetMap model. Share and build on it freely, commercially or otherwise;
+improvements to the database must stay open under the same terms. Full text in
+`LICENSE`. The commons cannot be enclosed — that's the point.
