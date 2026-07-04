@@ -5,17 +5,22 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: nightly-reduce
 jobs:
   reduce:
     runs-on: ubuntu-latest
     steps:
+      # Publish jitter (SPEC §13.2): decouple publish timing from crawl patterns.
+      # Runs BEFORE checkout so the working copy is fresh when we commit; skipped
+      # on manual dispatch (jitter only matters for the scheduled pattern).
+      - name: Jitter
+        if: github.event_name == 'schedule'
+        run: sleep $((RANDOM % 900))
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      # Publish jitter (SPEC §13.2): decouple publish timing from crawl patterns.
-      - name: Jitter
-        run: sleep $((RANDOM % 900))
       - name: Publish snapshots
         id: publish
         continue-on-error: true
@@ -26,6 +31,11 @@ jobs:
           git config user.email "reduce-bot@users.noreply.github.com"
           git add data/published
           git diff --cached --quiet || git commit -m "reduce: nightly publish $(date -u +%F)"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+            sleep $((RANDOM % 20))
+          done
           git push
       - name: Fail the run if any snapshot was rejected
         if: steps.publish.outcome == 'failure'
