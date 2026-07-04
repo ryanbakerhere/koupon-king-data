@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "chain_id": "demo_mart",
+  "store_id": "demo_mart-0002",
+  "generated_at": "2026-07-03T08:44:00Z",
+  "valid_through_hint": "2026-07-08",
+  "offers": [
+    {
+      "offer_id": "demo_mart:2026w27:d4e5f6a1",
+      "route": "in_wallet_ref",
+      "title": "$1.00 off Demo Farms butter",
+      "description": "Demo Farms butter 16 oz, paper coupon from the 6/29 insert.",
+      "value": { "type": "amount_off", "amount": 1.0, "currency": "USD" },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": ["demo farms"],
+        "category": "dairy",
+        "size_min_oz": 16,
+        "size_max_oz": 16,
+        "keywords": ["butter"],
+        "excludes": ["spread", "margarine"]
+      },
+      "upcs_verified": [],
+      "insert_ref": "SmartSource 2026-06-29",
+      "offer_family": "demo_farms_d4e5f6a1"
+    }
+  ]
+}

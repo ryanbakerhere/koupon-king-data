@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "chain_id": "demo_mart",
+  "display_name": "Demo Mart",
+  "stores": [
+    {
+      "store_id": "demo_mart-0001",
+      "display_name": "Demo Mart — Elm St",
+      "lat": 45.5231,
+      "lng": -122.6765,
+      "geofence_radius_m": 800
+    },
+    {
+      "store_id": "demo_mart-0002",
+      "display_name": "Demo Mart — Oak Ave",
+      "lat": 45.512,
+      "lng": -122.658,
+      "geofence_radius_m": 800
+    }
+  ]
+}

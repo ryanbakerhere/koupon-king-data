@@ -1,0 +1,35 @@
+{
+  "_doc": "Golden test vectors for the SCHEMAS.md §7 normalization grammar. This file is the CANONICAL copy (SCHEMAS §7: reduce/test/normalize.vectors.json). Every implementation — reduce/src/normalize.js, scraper normalize/text.ts, and app/src/matching/normalize.ts (the future reference impl) — must produce byte-identical output for every case. Change vectors only alongside a SCHEMAS.md §7 change.",
+  "rules": [
+    "lowercase → NFKD unicode fold, combining marks stripped",
+    "apostrophes (' and U+2019) deleted (kellogg's → kelloggs)",
+    "all other punctuation → space, EXCEPT '.' between two digits (decimals survive: 10.8, 4.99)",
+    "whitespace collapsed, trimmed",
+    "size canonicalization joins a pure-number token to a following unit token: canonical suffixes oz, floz (from 'fl oz'), lb, l, ml, g, kg, ct, pk; word forms (ounces, pounds, liters, grams, count, pack) map to the canonical suffix; already-joined forms (10.8oz, 18ounces) are canonicalized in place",
+    "brand tokens first: brands are normalized through the same grammar, matched as a contiguous token subsequence; the FIRST brand in the provided dictionary order that matches is moved to the front (no-op if already at front); at most one brand moves",
+    "truncate to ≤ 80 chars at a token boundary (drop the token that would overflow); if the very first token exceeds 80 chars, hard-cut it at 80"
+  ],
+  "cases": [
+    { "name": "lowercase and whitespace collapse", "input": "  Cheerios   Honey Nut  ", "expected": "cheerios honey nut" },
+    { "name": "unicode fold strips accents", "input": "Nestlé Häagen-Dazs", "expected": "nestle haagen dazs" },
+    { "name": "apostrophe deleted not spaced", "input": "Kellogg's Froot Loops", "expected": "kelloggs froot loops" },
+    { "name": "punctuation becomes space", "input": "Chips/Ahoy! Cookies (Family Size)", "expected": "chips ahoy cookies family size" },
+    { "name": "decimal between digits survives", "input": "$4.99 each", "expected": "4.99 each" },
+    { "name": "non-decimal dots dropped", "input": "Great Value. Milk.", "expected": "great value milk" },
+    { "name": "size join oz", "input": "Honey Nut Cheerios 10.8 oz", "expected": "honey nut cheerios 10.8oz" },
+    { "name": "word-form ounces canonicalized", "input": "18 OUNCES", "expected": "18oz" },
+    { "name": "liters", "input": "Coca-Cola 2 L", "expected": "coca cola 2l" },
+    { "name": "grams", "input": "Yogurt 500 G", "expected": "yogurt 500g" },
+    { "name": "fluid ounces become floz", "input": "Juice 64 fl oz", "expected": "juice 64floz" },
+    { "name": "count", "input": "Eggs 12 ct", "expected": "eggs 12ct" },
+    { "name": "pounds plural", "input": "Bananas 3 lbs", "expected": "bananas 3lb" },
+    { "name": "already-joined size kept", "input": "10.8oz cereal", "expected": "10.8oz cereal" },
+    { "name": "already-joined word form canonicalized", "input": "Cereal 18ounces", "expected": "cereal 18oz" },
+    { "name": "ampersand quirk documented", "input": "M&M's Peanut 10.05 oz", "expected": "m ms peanut 10.05oz" },
+    { "name": "multiword brand moved to front", "input": "honey nut cheerios by General Mills 10.8 oz", "brands": ["general mills"], "expected": "general mills honey nut cheerios by 10.8oz" },
+    { "name": "brand already at front is no-op", "input": "cheerios honey nut 10.8oz", "brands": ["cheerios"], "expected": "cheerios honey nut 10.8oz" },
+    { "name": "first matching brand in dictionary order wins", "input": "chex and cheerios variety", "brands": ["cheerios", "chex"], "expected": "cheerios chex and variety" },
+    { "name": "truncate at token boundary at exactly 80", "input": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen", "expected": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen" },
+    { "name": "punctuation-only input is empty", "input": "!!!", "expected": "" }
+  ]
+}

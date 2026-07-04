@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "chain_id": "demo_mart",
+  "store_id": "demo_mart-0666",
+  "generated_at": "2026-07-03T08:41:00Z",
+  "valid_through_hint": "2026-07-08",
+  "offers": [
+    {
+      "offer_id": "demo_mart:2026w27:e5f6a1b2",
+      "route": "auto_apply",
+      "title": "Broken offer — deeplink on auto_apply and a barcode payload",
+      "description": "This snapshot must be rejected by validation, never published.",
+      "value": { "type": "amount_off", "amount": 0.5, "currency": "USD" },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-05",
+      "deeplink": "https://retailer.example/should-be-null",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": ["demo"],
+        "category": "test",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [],
+        "excludes": []
+      },
+      "upcs_verified": ["12345"],
+      "insert_ref": null,
+      "barcode_payload": "8110007750109001"
+    }
+  ]
+}

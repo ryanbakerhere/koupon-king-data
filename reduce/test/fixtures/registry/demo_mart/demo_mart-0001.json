@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "chain_id": "demo_mart",
+  "store_id": "demo_mart-0001",
+  "generated_at": "2026-07-03T08:41:00Z",
+  "valid_through_hint": "2026-07-08",
+  "offers": [
+    {
+      "offer_id": "demo_mart:2026w27:a1b2c3d4",
+      "route": "clip",
+      "title": "$0.75 off Demo Crunch cereal",
+      "description": "Any Demo Crunch cereal, 10.8 oz or larger. Limit 2.",
+      "value": { "type": "amount_off", "amount": 0.75, "currency": "USD" },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-05",
+      "deeplink": "https://coupons.demomart.example/offer/8842",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": ["demo crunch"],
+        "category": "cereal",
+        "size_min_oz": 10.8,
+        "size_max_oz": null,
+        "keywords": ["cereal", "crunch"],
+        "excludes": ["single-serve"]
+      },
+      "upcs_verified": ["000160002752"],
+      "insert_ref": null,
+      "offer_family": "demo_crunch_a1b2c3d4"
+    },
+    {
+      "offer_id": "demo_mart:2026w27:b2c3d4e5",
+      "route": "auto_apply",
+      "title": "Member Price $2.99 — Demo Roast coffee",
+      "description": "Demo Roast ground coffee 12 oz, member price.",
+      "value": { "type": "member_price", "price": 2.99, "regular_price": 4.49 },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-05",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": ["demo roast"],
+        "category": "coffee",
+        "size_min_oz": 12,
+        "size_max_oz": 12,
+        "keywords": ["coffee", "ground"],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "demo_roast_b2c3d4e5"
+    },
+    {
+      "offer_id": "demo_mart:2026w27:c3d4e5f6",
+      "route": "external",
+      "title": "50% off Demo Sparkle detergent",
+      "description": "Demo Sparkle laundry detergent, any size, printable coupon.",
+      "value": { "type": "percent_off", "percent": 50 },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-12",
+      "deeplink": "https://coupons.example/demo-sparkle-50",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": ["demo sparkle"],
+        "category": "laundry",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": ["detergent", "laundry"],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": "SmartSource 2026-06-29",
+      "offer_family": "demo_sparkle_c3d4e5f6"
+    }
+  ]
+}

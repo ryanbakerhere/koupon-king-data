@@ -1,0 +1,13 @@
+{
+  "name": "koupon-king-reduce",
+  "private": true,
+  "type": "module",
+  "description": "The refinery of the Koupon King commons: validates scraped registry data and bakes the published snapshots, index, and community match table. Zero dependencies by design — auditable with nothing but Node.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/",
+    "publish-snapshots": "node src/publish.js"
+  }
+}
