@@ -44,6 +44,7 @@ const snapshotRejections = [
   ['member_price not below regular', (s) => { s.offers[1].value = { type: 'member_price', price: 4.49, regular_price: 4.49 }; }],
   ['wrong schema_version', (s) => { s.schema_version = 2; }],
   ['empty title', (s) => { s.offers[0].title = '  '; }],
+  ['missing offer_family (required since 2026-07-03 amendment)', (s) => { delete s.offers[0].offer_family; }],
 ];
 
 for (const [name, mutate] of snapshotRejections) {

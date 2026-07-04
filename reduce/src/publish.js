@@ -3,6 +3,7 @@
 //   published/stores/{chain}/{store_id}.json   per-store snapshot (SCHEMAS §2)
 //   published/index.json                       store directory (SCHEMAS §1)
 //   published/matches.json                     match table (empty until Phase 3 baking)
+//   published/valid-offers.json                rolling shim-validation window (SCHEMAS §9)
 // Invalid snapshots are rejected and reported, never published; valid stores
 // still go out. Output is written only when content actually changed, so a
 // no-news night produces no commit churn.
@@ -11,9 +12,10 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync, existsSync
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { gzipSync } from 'node:zlib';
-import { validateSnapshot, validateStoreDirectory, REGISTRY_ONLY_OFFER_KEYS } from './validate.js';
+import { validateSnapshot, validateStoreDirectory } from './validate.js';
 
-const OFFER_FIELD_ORDER = ['offer_id', 'route', 'title', 'description', 'value', 'valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
+const OFFER_FIELD_ORDER = ['offer_id', 'offer_family', 'route', 'title', 'description', 'value', 'valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
+const RETAIN_DAYS_PAST_VALID_TO = 21;
 const HINT_FIELD_ORDER = ['brands', 'category', 'size_min_oz', 'size_max_oz', 'keywords', 'excludes'];
 
 function readJson(path) {
@@ -37,8 +39,7 @@ function pick(obj, order) {
   return out;
 }
 
-// Rebuild the snapshot in canonical SCHEMAS §2 field order and drop
-// registry-internal fields (e.g. offer_family) pending their SCHEMAS approval.
+// Rebuild the snapshot in canonical SCHEMAS §2 field order.
 function canonicalSnapshot(snapshot) {
   return {
     schema_version: snapshot.schema_version,
@@ -49,10 +50,14 @@ function canonicalSnapshot(snapshot) {
     offers: snapshot.offers.map((offer) => {
       const clean = pick(offer, OFFER_FIELD_ORDER);
       clean.hints = pick(offer.hints, HINT_FIELD_ORDER);
-      for (const k of REGISTRY_ONLY_OFFER_KEYS) delete clean[k];
       return clean;
     }),
   };
+}
+
+function plusDays(dateStr, days) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d + days)).toISOString().slice(0, 10);
 }
 
 function listChains(registryDir) {
@@ -67,9 +72,10 @@ function sameIgnoringGeneratedAt(a, b) {
 }
 
 export function publishAll({ registryDir, publishedDir, nowIso }) {
-  const result = { published: [], rejected: [], removed: [], indexChanged: false };
+  const result = { published: [], rejected: [], removed: [], indexChanged: false, validOffersChanged: false };
   const storesDir = join(publishedDir, 'stores');
   const indexChains = [];
+  const windowOffers = new Map(); // offer_id → { offer_family, valid_to }
 
   for (const chainId of listChains(registryDir)) {
     const directoryPath = join(registryDir, chainId, 'stores.json');
@@ -107,6 +113,13 @@ export function publishAll({ registryDir, publishedDir, nowIso }) {
         continue;
       }
 
+      for (const offer of snapshot.offers) {
+        const existing = windowOffers.get(offer.offer_id);
+        if (!existing || existing.valid_to < offer.valid_to) {
+          windowOffers.set(offer.offer_id, { offer_family: offer.offer_family, valid_to: offer.valid_to });
+        }
+      }
+
       const content = stringify(canonicalSnapshot(snapshot));
       const outPath = join(storesDir, chainId, `${store.store_id}.json`);
       writeIfChanged(outPath, content);
@@ -142,6 +155,33 @@ export function publishAll({ registryDir, publishedDir, nowIso }) {
       }
       if (readdirSync(join(storesDir, chainId)).length === 0) rmSync(join(storesDir, chainId), { recursive: true });
     }
+  }
+
+  // SCHEMAS §9: rolling shim-validation window. Offers no longer in the registry
+  // are retained until 21 days past valid_to, so jittered weekly tuple uploads
+  // survive weekly offer rotation.
+  const today = nowIso.slice(0, 10);
+  const validOffersPath = join(publishedDir, 'valid-offers.json');
+  if (existsSync(validOffersPath)) {
+    for (const entry of readJson(validOffersPath).offers) {
+      if (!windowOffers.has(entry.offer_id) && plusDays(entry.valid_to, RETAIN_DAYS_PAST_VALID_TO) >= today) {
+        windowOffers.set(entry.offer_id, { offer_family: entry.offer_family, valid_to: entry.valid_to });
+      }
+    }
+  }
+  const validOffers = {
+    schema_version: 1,
+    generated_at: nowIso,
+    retain_days_past_valid_to: RETAIN_DAYS_PAST_VALID_TO,
+    offers: [...windowOffers.entries()]
+      .filter(([, v]) => plusDays(v.valid_to, RETAIN_DAYS_PAST_VALID_TO) >= today)
+      .map(([offer_id, v]) => ({ offer_id, offer_family: v.offer_family, valid_to: v.valid_to }))
+      .sort((a, b) => a.offer_id.localeCompare(b.offer_id)),
+  };
+  const existingValidOffers = existsSync(validOffersPath) ? readJson(validOffersPath) : null;
+  if (!existingValidOffers || !sameIgnoringGeneratedAt(existingValidOffers, validOffers)) {
+    writeIfChanged(validOffersPath, stringify(validOffers));
+    result.validOffersChanged = true;
   }
 
   const matchesPath = join(publishedDir, 'matches.json');

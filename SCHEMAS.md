@@ -51,6 +51,7 @@ all JSON published to the CDN is gzip-served with ETags.
   "offers": [
     {
       "offer_id": "chain_a:2026w27:8842",  // stable within validity window; chain-scoped
+      "offer_family": "gm_cereal_075",      // stable across weekly rotation (§3); scraper-assigned
       "route": "clip",                      // auto_apply | clip | external | in_wallet_ref
       "title": "$0.75 off General Mills cereal",
       "description": "Any General Mills cereal, 10.8 oz or larger. Limit 2.",
@@ -147,8 +148,9 @@ timestamps, coordinates, store_id (chain only — store-level location is a priv
 at low volumes), free-text fields beyond `norm_text` (which is machine-normalized, §7).
 
 Shim validation (reject with 4xx): gzip JSON ≤ 32 KB, schema-valid, ≤ 200 tuples,
-every `offer_id`/`offer_family` present in current registry index, `norm_text` matches
-the normalization grammar (§7). Accepted batches are written verbatim to
+every `offer_id`/`offer_family` present in the recently-valid offer window (§9 —
+offers retained 21 days past `valid_to`, so jittered weekly uploads survive weekly
+offer rotation), `norm_text` matches the normalization grammar (§7). Accepted batches are written verbatim to
 `data/inbox/{yyyy-mm-dd}/{random}.json` and are immutable thereafter.
 
 ## 5. Local stash / trip state (on-device SQLite — never uploaded)
@@ -183,3 +185,32 @@ vectors (checked into `reduce/test/normalize.vectors.json`).
   cycle; never mutate meaning of an existing field.
 - The shim rejects tuple `v` values it doesn't know — old clients keep working, unknown
   future clients fail loudly.
+
+## 9. `valid-offers.json` — shim validation index (published)
+
+The rolling window of recently-valid offers that the shim validates tuple batches
+against. Rebuilt by the nightly reduce so the shim stays a dumb gate and the
+intelligence stays in `reduce/`: offers enter from the registry at publish time and
+are retained for **21 days past `valid_to`**, because tuples upload on a jittered
+weekly cadence (§4) while `offer_id`s rotate weekly — a receipt-verified tuple must
+never bounce because its offer expired between the trip and the upload.
+
+```jsonc
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T09:00:00Z",
+  "retain_days_past_valid_to": 21,
+  "offers": [
+    { "offer_id": "chain_a:2026w27:8842", "offer_family": "gm_cereal_075", "valid_to": "2026-07-05" }
+  ]
+}
+```
+
+## Amendments
+
+- **2026-07-03** (operator-approved; `schema_version` unchanged — both changes are
+  additive and forward-compatible per §8): §2 offers now carry `offer_family`
+  (previously registry-internal), so client tuples inherit the scraper-assigned family
+  from birth and `matches.json` continuity strengthens across weekly rotation. New §9
+  `valid-offers.json` published index; §4 shim validation checks the §9 rolling window
+  rather than the current registry only.

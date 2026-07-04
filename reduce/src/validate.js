@@ -15,11 +15,7 @@ const UPC_RE = /^\d{12,14}$/;
 const OFFER_FAMILY_RE = /^[a-z0-9_]+$/;
 
 const SNAPSHOT_KEYS = ['schema_version', 'chain_id', 'store_id', 'generated_at', 'valid_through_hint', 'offers'];
-const OFFER_KEYS = ['offer_id', 'route', 'title', 'description', 'value', 'valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
-// offer_family is registry-internal for now (scraper assigns it; tuples need it in
-// Phase 3). It is allowed on registry input and stripped at publish until the
-// operator approves adding it to SCHEMAS §2 (tracked in WORKLOG.md).
-const REGISTRY_ONLY_OFFER_KEYS = ['offer_family'];
+const OFFER_KEYS = ['offer_id', 'offer_family', 'route', 'title', 'description', 'value', 'valid_from', 'valid_to', 'deeplink', 'batch_clip_hint', 'hints', 'upcs_verified', 'insert_ref'];
 const HINT_KEYS = ['brands', 'category', 'size_min_oz', 'size_max_oz', 'keywords', 'excludes'];
 const DIRECTORY_KEYS = ['schema_version', 'chain_id', 'display_name', 'stores'];
 const STORE_KEYS = ['store_id', 'display_name', 'lat', 'lng', 'geofence_radius_m'];
@@ -114,11 +110,14 @@ function validateOffer(offer, chainId, index, errors) {
     errors.push(`${path}: must be an object`);
     return;
   }
-  checkKeys(offer, [...OFFER_KEYS, ...REGISTRY_ONLY_OFFER_KEYS], path, errors);
+  checkKeys(offer, OFFER_KEYS, path, errors);
 
   const offerIdRe = new RegExp(`^${chainId}:[a-z0-9]+:[a-z0-9-]+$`);
   if (typeof offer.offer_id !== 'string' || !offerIdRe.test(offer.offer_id)) {
     errors.push(`${path}.offer_id: must match ${chainId}:<window>:<id>`);
+  }
+  if (typeof offer.offer_family !== 'string' || !OFFER_FAMILY_RE.test(offer.offer_family)) {
+    errors.push(`${path}.offer_family: required, must match ${OFFER_FAMILY_RE} (SCHEMAS §2, 2026-07-03 amendment)`);
   }
   if (!ROUTES.includes(offer.route)) errors.push(`${path}.route: must be one of ${ROUTES.join(' | ')}`);
   if (!isNonEmptyString(offer.title) || offer.title.length > 200) errors.push(`${path}.title: non-empty string ≤ 200 chars`);
@@ -153,9 +152,6 @@ function validateOffer(offer, chainId, index, errors) {
     errors.push(`${path}.insert_ref: must be null, or a non-empty string on external/in_wallet_ref routes`);
   }
 
-  if ('offer_family' in offer && (typeof offer.offer_family !== 'string' || !OFFER_FAMILY_RE.test(offer.offer_family))) {
-    errors.push(`${path}.offer_family: must match ${OFFER_FAMILY_RE}`);
-  }
 }
 
 export function validateSnapshot(snapshot, { chainId, storeId }) {
@@ -230,5 +226,3 @@ export function validateStoreDirectory(directory, { chainId }) {
   scanForbiddenKeys(directory, 'directory', errors);
   return { ok: errors.length === 0, errors };
 }
-
-export { REGISTRY_ONLY_OFFER_KEYS };

@@ -30,6 +30,7 @@ data/
 | `index.json` | Store directory: chains, stores, geofence coords, snapshot versions | SCHEMAS.md §1 |
 | `stores/{chain}/{store_id}.json` | Per-store deal snapshot | SCHEMAS.md §2 |
 | `matches.json` | Community-verified product↔offer match table | SCHEMAS.md §3 |
+| `valid-offers.json` | Rolling recently-valid offer window (shim validation index) | SCHEMAS.md §9 |
 
 Base URL: published from `data/published/` via GitHub Pages (final URL will be recorded
 here when Pages goes live). All files are JSON, gzip-served with ETags. Third parties
@@ -42,9 +43,8 @@ stability rules (SCHEMAS.md §8) exist partly for your benefit. Build things.
 
 - `stores.json` — chain store directory: `{ schema_version, chain_id, display_name,
   stores: [{ store_id, display_name, lat, lng, geofence_radius_m }] }`
-- `{store_id}.json` — a SCHEMAS.md §2 snapshot, plus one registry-only field per offer:
-  `offer_family` (stable family key across weekly offer_id rotation), which is stripped
-  at publish time pending its addition to the public schema.
+- `{store_id}.json` — a SCHEMAS.md §2 snapshot. Every offer carries `offer_family`
+  (stable family key across weekly offer_id rotation — §2, 2026-07-03 amendment).
 
 The registry is written by the (private) scraper node and validated by `reduce/` before
 anything is published. Malformed input is rejected and reported, never published.
