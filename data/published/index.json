@@ -1,7 +1,84 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-04T01:55:48Z",
-  "chains": [],
+  "generated_at": "2026-07-04T02:22:22Z",
+  "chains": [
+    {
+      "chain_id": "safeway",
+      "display_name": "Safeway",
+      "stores": [
+        {
+          "store_id": "safeway-1929",
+          "display_name": "Safeway — Soquel (2720 41st Ave)",
+          "lat": 36.9861,
+          "lng": -121.96324,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-1929.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2901
+        },
+        {
+          "store_id": "safeway-2607",
+          "display_name": "Safeway — Santa Cruz (2203 Mission St)",
+          "lat": 36.962,
+          "lng": -122.04505,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-2607.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2902
+        },
+        {
+          "store_id": "safeway-2840",
+          "display_name": "Safeway — Freedom (2010 Freedom Blvd)",
+          "lat": 36.9401,
+          "lng": -121.77544,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-2840.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2901
+        },
+        {
+          "store_id": "safeway-300",
+          "display_name": "Safeway — Scotts Valley (253 Mt Hermon Rd)",
+          "lat": 37.04724,
+          "lng": -122.0314,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-300.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2900
+        },
+        {
+          "store_id": "safeway-640",
+          "display_name": "Safeway — Aptos (16 State Park Dr)",
+          "lat": 36.97858,
+          "lng": -121.90861,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-640.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2901
+        },
+        {
+          "store_id": "safeway-786",
+          "display_name": "Safeway — Felton (6255 Graham Hill Rd)",
+          "lat": 37.053,
+          "lng": -122.06873,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-786.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2901
+        },
+        {
+          "store_id": "safeway-799",
+          "display_name": "Safeway — Santa Cruz (117 Morrissey Blvd)",
+          "lat": 36.9821,
+          "lng": -122.00752,
+          "geofence_radius_m": 800,
+          "snapshot_url": "stores/safeway/safeway-799.json",
+          "snapshot_version": "2026-07-04",
+          "snapshot_bytes_gz": 2901
+        }
+      ]
+    }
+  ],
   "matches_url": "matches.json",
   "matches_version": "2026-07-04"
 }
