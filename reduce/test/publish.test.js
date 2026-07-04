@@ -144,7 +144,7 @@ test('member-price offers gain baselines when the price series is confident (§1
   const coffee = published.offers.find((o) => o.offer_family === 'demo_roast_b2c3d4e5');
   // Window now holds member obs for W24–W27 (2.99 joined this week): median 3.39.
   assert.equal(coffee.baseline_price, 3.39);
-  assert.deepEqual(coffee.baseline_confidence, { observations: 4, window_weeks: 8 });
+  assert.deepEqual(coffee.baseline_confidence, { kind: 'member', observations: 4, window_weeks: 8 });
   const keys = Object.keys(coffee);
   assert.deepEqual(keys.slice(0, 8), ['offer_id', 'offer_family', 'route', 'title', 'description', 'value', 'baseline_price', 'baseline_confidence']);
   // Non-member_price offers (amount-off cereal) must NOT carry baselines.

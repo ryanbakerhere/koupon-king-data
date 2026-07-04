@@ -114,8 +114,11 @@ export function computeBaselines(pricesDoc, currentWeek) {
       const obs = inWindow.filter((e) => e.kind === kind);
       const weeks = new Set(obs.map((e) => e.week));
       if (weeks.size >= BASELINE_MIN_OBSERVATIONS) {
+        // kind travels with the baseline: "regular" grades as true savings,
+        // "member" is deal-relative only (SCHEMAS §10 — one truth per pixel).
         out.set(family, {
           baseline_price: median(obs.map((e) => e.price)),
+          kind,
           observations: weeks.size,
           window_weeks: BASELINE_WINDOW_WEEKS,
         });

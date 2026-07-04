@@ -79,7 +79,12 @@ all JSON published to the CDN is gzip-served with ETags.
       // PUBLISHED-ONLY additive fields (absent in registry input; reduce adds them
       // from the §10 price series when a confident baseline exists):
       "baseline_price": 4.49,               // historical usual price for this family
-      "baseline_confidence": { "observations": 5, "window_weeks": 8 }
+      "baseline_confidence": { "kind": "regular", "observations": 5, "window_weeks": 8 }
+      // kind declares what the baseline IS: "regular" = derived from disclosed
+      // regular prices (true savings semantics); "member" = derived from the
+      // family's own promo history (deal-relative semantics — "below its usual
+      // deal"). One truth per pixel: clients must not paint member-kind
+      // baselines as savings-off-regular. See §10.
     }
   ]
 }
@@ -245,11 +250,24 @@ an open grocery price time series.
   median of `member`-kind observations (≥ 3 distinct weeks) — an honest
   promo-price baseline until shelf-tag observations (Phase 2+) enrich the series.
   Emitted onto published §2 offers only with `baseline_confidence`
-  `{observations, window_weeks}` alongside. Client precedence: tag-observed >
-  baseline-inferred > unknown (neutral low tier).
+  `{kind, observations, window_weeks}` alongside.
+- **Deal-relative semantics** (Designer ruling, 2026-07-03): a `member`-kind
+  baseline is the family's *usual deal price*, not its regular price. Clients
+  graduate such deals onto the value gradient only when this week's price
+  meaningfully beats its own baseline (starting threshold ≥ 10% below; tune
+  against real data), and the chip speaks in deal-relative terms ("below its
+  usual deal") — never as savings off regular. At-or-near-baseline deals stay
+  neutral with the honest price. Precedence: tag-observed regular >
+  baseline-inferred > unknown; when true regulars arrive, standard savings
+  semantics take over and deal-relative survives as a secondary signal if it
+  earns its keep.
 
 ## Amendments
 
+- **2026-07-03 (c)** (Designer ruling, carried by operator; additive):
+  `baseline_confidence` gains `kind` ("regular" | "member") so clients can honor
+  deal-relative semantics — a promo-derived baseline must never paint as
+  savings-off-regular. §10 gains the deal-relative graduation rule.
 - **2026-07-03 (b)** (operator-approved, relayed via Designer dispatch #2;
   `schema_version` unchanged — all additive): §2 `member_price.regular_price` is now
   nullable (flyers disclose it for ~3% of items; Q4 in WORKLOG). §2 gains

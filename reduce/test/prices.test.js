@@ -33,7 +33,7 @@ test('series accumulates across weeks; baseline appears at 3 observations', () =
   assert.equal(twoWeeks.get('fam_a'), undefined, 'only 2 obs inside window ending W26');
 
   const threeWeeks = computeBaselines(doc, '2026-W27');
-  assert.deepEqual(threeWeeks.get('fam_a'), { baseline_price: 3.49, observations: 3, window_weeks: 8 });
+  assert.deepEqual(threeWeeks.get('fam_a'), { baseline_price: 3.49, kind: 'member', observations: 3, window_weeks: 8 });
 });
 
 test('same-week rerun replaces, never duplicates (idempotent)', () => {
@@ -52,6 +52,7 @@ test('regular-kind observations are preferred for baselines when sufficient', ()
   }
   const baselines = computeBaselines(loadPrices(publishedDir, 'demo_mart'), '2026-W27');
   assert.equal(baselines.get('fam_a').baseline_price, 4.49, 'median of regular observations, not member');
+  assert.equal(baselines.get('fam_a').kind, 'regular');
 });
 
 test('observations older than the trailing window are excluded', () => {
@@ -61,7 +62,7 @@ test('observations older than the trailing window are excluded', () => {
     updatePriceSeries({ publishedDir, chainId: 'demo_mart', snapshots: [snapshotWith(date, price)], nowIso: `${date}T09:00:00Z` });
   }
   const baselines = computeBaselines(loadPrices(publishedDir, 'demo_mart'), '2026-W27');
-  assert.deepEqual(baselines.get('fam_a'), { baseline_price: 3.49, observations: 3, window_weeks: 8 });
+  assert.deepEqual(baselines.get('fam_a'), { baseline_price: 3.49, kind: 'member', observations: 3, window_weeks: 8 });
 });
 
 test('non-member_price offers contribute nothing to the series', () => {

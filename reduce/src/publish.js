@@ -55,7 +55,7 @@ function canonicalSnapshot(snapshot, baselines) {
       const baseline = offer.value.type === 'member_price' ? baselines.get(offer.offer_family) : undefined;
       if (baseline) {
         clean.baseline_price = baseline.baseline_price;
-        clean.baseline_confidence = { observations: baseline.observations, window_weeks: baseline.window_weeks };
+        clean.baseline_confidence = { kind: baseline.kind, observations: baseline.observations, window_weeks: baseline.window_weeks };
       }
       Object.assign(clean, pick(offer, OFFER_TAIL_FIELDS));
       clean.hints = pick(offer.hints, HINT_FIELD_ORDER);
