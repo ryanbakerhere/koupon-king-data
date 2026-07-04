@@ -4,6 +4,11 @@ on:
     branches: [main]
     paths:
       - 'data/published/**'
+  # Bot pushes (GITHUB_TOKEN) never trigger `push` workflows by GitHub design,
+  # so the nightly publish commit must chain the deploy via workflow_run.
+  workflow_run:
+    workflows: [nightly-reduce]
+    types: [completed]
   workflow_dispatch:
 permissions:
   contents: read
@@ -14,6 +19,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
