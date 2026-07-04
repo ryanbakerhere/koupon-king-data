@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-07-04T04:04:35Z",
+  "generated_at": "2026-07-04T04:55:30Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -2408,39 +2408,6 @@
       "offer_family": "gen_5074ad44"
     },
     {
-      "offer_id": "nob_hill:2026w27:a4bf9370",
-      "route": "auto_apply",
-      "title": "Member Price $0.03 (reg. $26.99) — Bulleit Bourbon Whiskey or Cazadores Reposado Tequila",
-      "description": "Bulleit Bourbon Whiskey or Cazadores Reposado Tequila. Member Price $0.03 (reg. $26.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.03,
-        "regular_price": 26.99
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "bulleit",
-          "bourbon",
-          "whiskey",
-          "cazadores",
-          "reposado",
-          "tequila"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_19aac157"
-    },
-    {
       "offer_id": "nob_hill:2026w27:a71a961f",
       "route": "auto_apply",
       "title": "Member Price $5.99/ea — Raley’s or Alfaro’s Buns, Ball Park Tailgaters or Cheez-It Crackers",
@@ -2937,38 +2904,6 @@
       "offer_family": "gen_0b8c25cd"
     },
     {
-      "offer_id": "nob_hill:2026w27:be47af26",
-      "route": "auto_apply",
-      "title": "Member Price $0.46/ea (reg. $5.99) — Post Cereal or Kellogg’s Pop Tarts",
-      "description": "Post Cereal or Kellogg’s Pop Tarts. Member Price $0.46/ea (reg. $5.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.46,
-        "regular_price": 5.99
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "post",
-          "cereal",
-          "kellogg",
-          "pop",
-          "tarts"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_af178564"
-    },
-    {
       "offer_id": "nob_hill:2026w27:bec32b96",
       "route": "auto_apply",
       "title": "Member Price $5.49/ea (reg. $6.49) — Tate’s Bake Shop Cookies or Nabisco Honey Maid Graham Crackers",
@@ -3099,39 +3034,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_e7f554cd"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:c958d3cb",
-      "route": "auto_apply",
-      "title": "Member Price $0.15/ea (reg. $5.29) — Vanity Fair Napkins or Dixie Plates or Bowls",
-      "description": "Vanity Fair Napkins or Dixie Plates or Bowls. Member Price $0.15/ea (reg. $5.29). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.15,
-        "regular_price": 5.29
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "vanity",
-          "fair",
-          "napkins",
-          "dixie",
-          "plates",
-          "bowls"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_0f1dc6e9"
     },
     {
       "offer_id": "nob_hill:2026w27:c96f1844",
