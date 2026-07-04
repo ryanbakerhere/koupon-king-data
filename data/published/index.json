@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-04T03:38:47Z",
+  "generated_at": "2026-07-04T04:04:59Z",
   "chains": [
     {
       "chain_id": "nob_hill",
@@ -14,7 +14,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-615.json",
           "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 10481
+          "snapshot_bytes_gz": 10420
         },
         {
           "store_id": "nob_hill-617",
@@ -24,7 +24,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-617.json",
           "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 10482
+          "snapshot_bytes_gz": 10420
         },
         {
           "store_id": "nob_hill-620",
@@ -34,7 +34,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-620.json",
           "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 10483
+          "snapshot_bytes_gz": 10420
         }
       ]
     },
