@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "safeway",
   "store_id": "safeway-1929",
-  "generated_at": "2026-07-05T00:46:02Z",
+  "generated_at": "2026-07-05T00:50:33Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -690,6 +690,43 @@
       "offer_family": "huggies_065f5aa2"
     },
     {
+      "offer_id": "safeway:2026w26:10add2e7",
+      "route": "clip",
+      "title": "$5.00 OFF — Pampers (Boxed Pampers Baby Wipes $17.99 value or more)",
+      "description": "Pampers · $5.00 OFF when you buy ONE(1) Boxed Pampers Baby Wipes $17.99 value or more. Valid on 336 ct to 1008 ct. Excludes Baby Clean Fresh Scent 432 ct, 1X, 2X, 3X, 4X Wipes Packs, and trial/travel size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-06-25",
+      "valid_to": "2026-07-29",
+      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
+      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
+      "hints": {
+        "brands": [
+          "pampers"
+        ],
+        "category": "baby wipes",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pampers",
+          "boxed",
+          "baby",
+          "wipes",
+          "value",
+          "more"
+        ],
+        "excludes": [
+          "baby clean fresh scent 432 ct, 1x, 2x, 3x, 4x wipes packs, and trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pampers_1aa9dd9f"
+    },
+    {
       "offer_id": "safeway:2026w26:1739c9dc",
       "route": "clip",
       "title": "$1.50 OFF — Gold Bond",
@@ -963,43 +1000,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "band_aid_953a3642"
-    },
-    {
-      "offer_id": "safeway:2026w26:77fe394f",
-      "route": "clip",
-      "title": "$5.00 OFF — Pampers",
-      "description": "Pampers · $5.00 OFF when you buy ONE(1) Boxed Pampers Baby Wipes $17.99 value or more. Valid on 336 ct to 1008 ct. Excludes Baby Clean Fresh Scent 432 ct, 1X, 2X, 3X, 4X Wipes Packs, and trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-25",
-      "valid_to": "2026-07-29",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "baby wipes",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "boxed",
-          "baby",
-          "wipes",
-          "value",
-          "more"
-        ],
-        "excludes": [
-          "baby clean fresh scent 432 ct, 1x, 2x, 3x, 4x wipes packs, and trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_30143590"
     },
     {
       "offer_id": "safeway:2026w26:7cb2babf",
@@ -1438,6 +1438,43 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "signature_select_1e4c6ead"
+    },
+    {
+      "offer_id": "safeway:2026w27:0148fe3b",
+      "route": "clip",
+      "title": "$5.00 OFF — Pampers (Pampers Cruisers 360 Diapers Enormous Pack . Any variety)",
+      "description": "Pampers · $5.00 OFF when you buy ONE(1) Pampers Cruisers 360 Diapers Enormous Pack . Any variety. Excludes trial/travel size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-13",
+      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
+      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
+      "hints": {
+        "brands": [
+          "pampers"
+        ],
+        "category": "diaper",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pampers",
+          "cruisers",
+          "diapers",
+          "enormous",
+          "pack",
+          "any"
+        ],
+        "excludes": [
+          "trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pampers_53bffb30"
     },
     {
       "offer_id": "safeway:2026w27:01c77a0d",
@@ -3724,43 +3761,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "crest_c9583bd6"
-    },
-    {
-      "offer_id": "safeway:2026w27:4339bc21",
-      "route": "clip",
-      "title": "$5.00 OFF — Pampers",
-      "description": "Pampers · $5.00 OFF when you buy ONE(1) Pampers Cruisers 360 Diapers Enormous Pack . Any variety. Excludes trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-29",
-      "valid_to": "2026-07-13",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "diaper",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "cruisers",
-          "diapers",
-          "enormous",
-          "pack",
-          "any"
-        ],
-        "excludes": [
-          "trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_30143590"
     },
     {
       "offer_id": "safeway:2026w27:4661db93",
