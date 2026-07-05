@@ -1,0 +1,3957 @@
+{
+  "schema_version": 1,
+  "chain_id": "cvs",
+  "store_id": "cvs-9960",
+  "generated_at": "2026-07-05T20:54:55Z",
+  "valid_through_hint": null,
+  "offers": [
+    {
+      "offer_id": "cvs:2026w27:02721c09",
+      "offer_family": "total_home_0d84b117",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — ALL Total Home trash bags",
+      "description": "MIX & MATCH · Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "total home"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "total",
+          "home",
+          "trash",
+          "bags"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:0bd05cb4",
+      "offer_family": "one_other_e2e63991",
+      "route": "auto_apply",
+      "title": "Buy 2 Get 1 Free — ALL one+other cotton, nail, beauty tools, polish remover or Pop-arazzi nail care",
+      "description": "Buy 2 get 3rd FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 33
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "one+other"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "one",
+          "other",
+          "cotton",
+          "nail",
+          "beauty"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:0c547bd9",
+      "offer_family": "dove_e97f6151",
+      "route": "auto_apply",
+      "title": "$10.99 with card — ALL Dove body wash pumps 30-30.6 oz.",
+      "description": "Also get savings with Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 10.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "skin & sun care",
+        "size_min_oz": 30,
+        "size_max_oz": 30.6,
+        "keywords": [
+          "all",
+          "dove",
+          "body",
+          "wash",
+          "pumps"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:0f19b369",
+      "offer_family": "dove_711309d1",
+      "route": "auto_apply",
+      "title": "$7.99 with card — Dove women's body wash",
+      "description": "Available in 20 varieties Selected varieties contain extra strength cleaners. · Also get savings with $5.00 on 2 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "women",
+          "body",
+          "wash"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:14223ff5",
+      "offer_family": "cvs_04ce61ee",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — ALL CVS Brand adult care underwear",
+      "description": "Buy 1 get 1 40% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "feminine & adult care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "adult",
+          "care",
+          "underwear"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:166c1d06",
+      "offer_family": "gen_0a4124fd",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — ALL Prime Bites, Pure Protein, MET-Rx, BUILT, FULFIL, Barebells, TRUBAR, Promax protein bar singles or Honey Stinger waffle",
+      "description": "Buy 1 get 1 40% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "prime",
+          "bites",
+          "pure",
+          "protein",
+          "met"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:1bd7ace1",
+      "offer_family": "cvs_4c17973e",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — CVS Brand adult pain relievers 72 ct. or larger, or sleep aids",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cvs",
+          "brand",
+          "adult",
+          "pain",
+          "relievers",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:1d8a1601",
+      "offer_family": "one_a_day_citrac_69c4c137",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL One A Day, Citracal, Phillips' colon health or Flintstones",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "one a day │ citracal │ phillips'"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "one",
+          "day",
+          "citracal",
+          "phillips",
+          "colon"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:1fd33d7e",
+      "offer_family": "dove_91fac10c",
+      "route": "auto_apply",
+      "title": "$7.99 with card — Dove women's body wash 20 oz.",
+      "description": "Also get savings with $5.00 on 2 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "personal care",
+        "size_min_oz": 20,
+        "size_max_oz": 20,
+        "keywords": [
+          "dove",
+          "women",
+          "body",
+          "wash"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:22eee6f0",
+      "offer_family": "sunchips_smartfo_85c36e55",
+      "route": "auto_apply",
+      "title": "2 for $6.00 with card — Sunchips 7 oz or Smartfood popcorn 5-8.5 oz (excludes Simply)",
+      "description": "or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sunchips | smartfood"
+        ],
+        "category": "grocery",
+        "size_min_oz": 7,
+        "size_max_oz": 7,
+        "keywords": [
+          "sunchips",
+          "smartfood",
+          "popcorn",
+          "excludes",
+          "simply"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:2398d97f",
+      "offer_family": "life_savers_m_ms_605320b7",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Life Savers bags 2.75-7 oz., Skittles 5.7-9 oz., M&M's 4.5-5 oz or Altoids 1.76 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "life savers │ m&m's"
+        ],
+        "category": "grocery",
+        "size_min_oz": 2.75,
+        "size_max_oz": 7,
+        "keywords": [
+          "life",
+          "savers",
+          "bags",
+          "skittles",
+          "altoids"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:25459986",
+      "offer_family": "flonase_sensimis_ea1f0a9f",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — ALL adult Flonase or Sensimist allergy relief",
+      "description": "Buy 1 get 1 40% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "flonase │ sensimist"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "adult",
+          "flonase",
+          "sensimist",
+          "allergy",
+          "relief"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:28314c18",
+      "offer_family": "playtex_carefree_2864093a",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ANY Playtex or Carefree",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD Also get savings Buy 2 get $2 ExtraBucks Rewards®⧫ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "playtex | carefree"
+        ],
+        "category": "feminine & adult care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "playtex",
+          "carefree"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:28deceb1",
+      "offer_family": "monday_a9f11822",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — ALL MONDAY hair care",
+      "description": "Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "monday"
+        ],
+        "category": "hair care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "monday",
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:2c562c70",
+      "offer_family": "gen_0418a6ca",
+      "route": "auto_apply",
+      "title": "$7.99 with card — Kind bars 6 ct., minis, thins 10 ct., granola 17 oz or Protein Max bars 4 ct. (excludes breakfast bars).",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": 17,
+        "size_max_oz": 17,
+        "keywords": [
+          "kind",
+          "bars",
+          "minis",
+          "thins",
+          "granola",
+          "protein"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:2df1fd18",
+      "offer_family": "hersheys_5611017b",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Hershey's 6-9 oz, popped snack mix, dipped pretzels 8-8.5 oz, Turtles Bites 6.3 oz, barkThins 4.7 oz or Sanders 7 oz pouches.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "hershey's"
+        ],
+        "category": "grocery",
+        "size_min_oz": 6,
+        "size_max_oz": 9,
+        "keywords": [
+          "hershey",
+          "popped",
+          "snack",
+          "mix",
+          "dipped",
+          "pretzels"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:3499ee84",
+      "offer_family": "cvs_8e967b77",
+      "route": "auto_apply",
+      "title": "20% Off — ALL CVS Brand adult digestive health",
+      "description": "NEW at CVS COMPARE TO Pepcid Complete · 20% OFF WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "adult",
+          "digestive",
+          "health"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:363dc13f",
+      "offer_family": "cvs_7f48a6e8",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — CVS Brand stop smoking aids (excludes gum and lozenges 10-20 ct.).††",
+      "description": "COMPARE TO NICORETTE · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cvs",
+          "brand",
+          "stop",
+          "smoking",
+          "aids",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:37d437ac",
+      "offer_family": "gen_26489bb7",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — Nerds, SweetTarts, Laffy Taffy, Lemonhead 4.5-6 oz, Trolli 6.3-7.2 oz, Brach's or WarHeads 3.25 oz",
+      "description": "Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": 4.5,
+        "size_max_oz": 6,
+        "keywords": [
+          "nerds",
+          "sweettarts",
+          "laffy",
+          "taffy",
+          "lemonhead",
+          "trolli"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:39487a44",
+      "offer_family": "l_a_girl_bcbdfe52",
+      "route": "auto_apply",
+      "title": "2 for $8.00 with card — L.A. Girl PRO.conceal",
+      "description": "or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 4,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "l.a. girl"
+        ],
+        "category": "makeup & nails",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "girl",
+          "pro",
+          "conceal"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:39c9e8a9",
+      "offer_family": "tampax_u_by_kote_a6a1598e",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Tampax, U by Kotex, Uqora, Rael, O Positiv Health or Summer's Eve",
+      "description": "MIX & MATCH NEW at CVS · Buy 1 get 1 50% OFF* WITH CARD. $1.00 Digital mfr coupon",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tampax | u by kotex | uqora | rael | o positiv | summer's eve"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "tampax",
+          "kotex",
+          "uqora",
+          "rael",
+          "positiv"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:3b0ebf90",
+      "offer_family": "excedrin_ff0c547f",
+      "route": "auto_apply",
+      "title": "$12.29 with card — ANY Excedrin 80 or 100 ct.",
+      "description": "NEW at CVS · Also get savings with $1.50 Digital mfr coupon + Buy 2 get $5 ExtraBucks Rewards®◆ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "excedrin"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "excedrin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:3cf45234",
+      "offer_family": "colgate_0e792f71",
+      "route": "auto_apply",
+      "title": "$5.99 with card — Colgate Optic White Advanced 3.2 oz, Charcoal, Purple, Sensitive 3.8-4.2 oz, Total 3 oz or hello adult toothpaste",
+      "description": "Also get savings with $6.00 on 2 Digital mfr coupon Buy 2 get $5 ExtraBucks Rewards®⧫ WITH CARD · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate"
+        ],
+        "category": "oral care",
+        "size_min_oz": 3.2,
+        "size_max_oz": 3.2,
+        "keywords": [
+          "colgate",
+          "optic",
+          "white",
+          "advanced",
+          "charcoal",
+          "purple"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:3d5810c6",
+      "offer_family": "well_market_d3bcd218",
+      "route": "auto_apply",
+      "title": "2 for $7.00 with card — Well Market or Gold Emblem purified water 24 pk., 16.9 oz bottles",
+      "description": "or reg retail ea.✧ WITH CARD +CRV",
+      "value": {
+        "type": "member_price",
+        "price": 3.5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 16.9,
+        "size_max_oz": 16.9,
+        "keywords": [
+          "well",
+          "market",
+          "gold",
+          "emblem",
+          "purified",
+          "water"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:3ebd537d",
+      "offer_family": "pampers_d20674ac",
+      "route": "auto_apply",
+      "title": "$9.99 with card — Pampers Splashers",
+      "description": "Also get savings with Spend $25 get $8 ExtraBucks Rewards®♦ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 9.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "pampers"
+        ],
+        "category": "baby",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pampers",
+          "splashers"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:40c7c4fd",
+      "offer_family": "powerade_jarrito_cc034b45",
+      "route": "auto_apply",
+      "title": "$11.99 with card — Powerade variety pack 18 pk., 12 oz or Jarritos variety pk. 12.5 oz bottles.",
+      "description": "WITH CARD +CRV",
+      "value": {
+        "type": "member_price",
+        "price": 11.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "powerade │ jarritos"
+        ],
+        "category": "grocery",
+        "size_min_oz": 12,
+        "size_max_oz": 12,
+        "keywords": [
+          "powerade",
+          "variety",
+          "pack",
+          "jarritos",
+          "bottles"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:41de41c6",
+      "offer_family": "gen_ce7fc5b6",
+      "route": "auto_apply",
+      "title": "$19.99 with card — ANY designer fragrances",
+      "description": "Buy 1 get $5 ExtraBucks Rewards®⧫ · and up WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 19.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "designer",
+          "fragrances"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:45671fdd",
+      "offer_family": "cvs_46469624",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL CVS Brand Azelastine allergy relief",
+      "description": "COMPARE TO ASTEPRO ALLERGY NEW at CVS · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "azelastine",
+          "allergy",
+          "relief"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:47a702de",
+      "offer_family": "colgate_b53fb97c",
+      "route": "auto_apply",
+      "title": "$3.99 with card — Colgate Optic White Stain Fighter 3.8-4.2 oz, Max 6.3 oz, Total 3.3 oz or 2in1 4.6 oz toothpaste",
+      "description": "Also get savings with $3.00 on 2 Digital mfr coupon + Buy 2 get $4 ExtraBucks® Rewards® WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate"
+        ],
+        "category": "personal care",
+        "size_min_oz": 3.8,
+        "size_max_oz": 4.2,
+        "keywords": [
+          "colgate",
+          "optic",
+          "white",
+          "stain",
+          "fighter",
+          "max"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:48a748f2",
+      "offer_family": "oreo_7f107b32",
+      "route": "auto_apply",
+      "title": "2 for $9.00 with card — Oreo 10.1-15.35 oz.",
+      "description": "or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 4.5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "oreo"
+        ],
+        "category": "grocery",
+        "size_min_oz": 10.1,
+        "size_max_oz": 15.35,
+        "keywords": [
+          "oreo"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:49ef25ef",
+      "offer_family": "tide_gain_bounce_db58b0d7",
+      "route": "auto_apply",
+      "title": "$12.99 with card — Tide PODS, Gain flings! 18-42 ct., Downy 88 oz, rinse 36.7-48 oz, Beads 10.7-13.4 oz, Gain fabric softener 72 oz, sheets 240 ct. or Bounce sheets 240 ct.",
+      "description": "Also get savings with $3.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide │ gain │ bounce"
+        ],
+        "category": "household",
+        "size_min_oz": 88,
+        "size_max_oz": 88,
+        "keywords": [
+          "tide",
+          "pods",
+          "gain",
+          "flings",
+          "downy",
+          "rinse"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:4a4774ba",
+      "offer_family": "gen_b85219e5",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — Nerds, SweetTarts, Taffy Latte, Lemonhead 4.5-6 oz; Trolli 6.3-7.2 oz; Brach's or Warheads 3.25 oz.",
+      "description": "MIX & MATCH · Buy 1 get 1 FREE*",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": 4.5,
+        "size_max_oz": 6,
+        "keywords": [
+          "nerds",
+          "sweettarts",
+          "taffy",
+          "latte",
+          "lemonhead",
+          "trolli"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:4c5c3abf",
+      "offer_family": "gen_6e36b1bc",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Natural spring water 24-28 pk., 16.9 oz bottles. Brands may vary by store.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD +CRV",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": 16.9,
+        "size_max_oz": 16.9,
+        "keywords": [
+          "natural",
+          "spring",
+          "water",
+          "bottles",
+          "brands",
+          "may"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:4c90af61",
+      "offer_family": "aussie_native_16d216dc",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — ALL Aussie or Native hair care",
+      "description": "Buy 1 get 1 40% OFF* Also get savings with $3.00 on 2 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "aussie | native"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "aussie",
+          "native",
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:52e385ba",
+      "offer_family": "well_market_80dffba8",
+      "route": "auto_apply",
+      "title": "$2.99 with card — Well Market popcorn 5 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 2.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 5,
+        "size_max_oz": 5,
+        "keywords": [
+          "well",
+          "market",
+          "popcorn"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:53a04fa9",
+      "offer_family": "toms_of_maine_5d337696",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ANY Tom's of Maine or hello deodorant",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with Buy 2 get $6 ExtraBucks Rewards®⧫ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tom's of maine"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "tom",
+          "maine",
+          "hello",
+          "deodorant"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:58976f21",
+      "offer_family": "cvs_e1a70b49",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL CVS Brand external pain relief",
+      "description": "COMPARE TO Salonpas · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "external",
+          "pain",
+          "relief"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:5a48aeb8",
+      "offer_family": "well_market_0ebece02",
+      "route": "auto_apply",
+      "title": "$11.99 with card — Well Market cashews 16 oz, pistachios 12 or 24 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 11.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 16,
+        "size_max_oz": 16,
+        "keywords": [
+          "well",
+          "market",
+          "cashews",
+          "pistachios"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:5b597c62",
+      "offer_family": "crest_d9bcca71",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Crest 3D White, Pro-Health or Plus toothpaste 2 pk.",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $5.00 on 2 Digital mfr coupon WITH CARD PLUS Spend $25 Get $8 ExtraBucks Rewards",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "white",
+          "pro",
+          "health",
+          "plus",
+          "toothpaste"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:5ef95a2d",
+      "offer_family": "nature_made_0fb37162",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Nature Made vitamins",
+      "description": "MIX & MATCH · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nature made"
+        ],
+        "category": "vitamins & nutrition",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "nature",
+          "made",
+          "vitamins"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:606e39eb",
+      "offer_family": "banana_boat_hawa_aa54fa1d",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ANY Banana Boat or Hawaiian Tropic sun care",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with Buy 2 get $3 ExtraBucks Rewards®✦ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "banana boat | hawaiian tropic"
+        ],
+        "category": "skin & sun care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "banana",
+          "boat",
+          "hawaiian",
+          "tropic",
+          "sun"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:62e35dd3",
+      "offer_family": "post_8cd2ee8e",
+      "route": "auto_apply",
+      "title": "$3.49 with card — Post 11-12.5 oz or Grape-Nuts cereal 20.5 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "post"
+        ],
+        "category": "grocery",
+        "size_min_oz": 11,
+        "size_max_oz": 12.5,
+        "keywords": [
+          "post",
+          "grape",
+          "nuts",
+          "cereal"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:669c95a7",
+      "offer_family": "tide_gain_94670895",
+      "route": "auto_apply",
+      "title": "$12.99 with card — Tide 73-84 oz or Gain 60-81 oz",
+      "description": "Also get savings with Spend $25 get $8 ExtraBucks Rewards®◆ WITH CARD, $3.00 Digital mfr coupon, $2.00 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide │ gain"
+        ],
+        "category": "grocery",
+        "size_min_oz": 73,
+        "size_max_oz": 84,
+        "keywords": [
+          "tide",
+          "gain"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:67f8ea0c",
+      "offer_family": "blue_buffalo_ped_d54a141c",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Blue Buffalo, Pedigree dog treats, Rachael Ray dog treats 12 oz or Milo's Kitchen home-style dog treats 10 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "blue buffalo | pedigree | rachael ray | milo's kitchen"
+        ],
+        "category": "general merchandise",
+        "size_min_oz": 12,
+        "size_max_oz": 12,
+        "keywords": [
+          "blue",
+          "buffalo",
+          "pedigree",
+          "dog",
+          "treats",
+          "rachael"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:6a15d8cb",
+      "offer_family": "degree_101f7b10",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Degree deodorant or dry sprays (excludes twin pk. and whole body).",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $3.00 on 2 Digital mfr coupon + Buy 2 get $3 ExtraBucks Rewards®◆ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "degree"
+        ],
+        "category": "shave & deodorant",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "degree",
+          "deodorant",
+          "dry",
+          "sprays",
+          "excludes",
+          "twin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:6b89e265",
+      "offer_family": "gain_downy_45facd7c",
+      "route": "auto_apply",
+      "title": "$15.99 with card — Gain 99-144 oz. flings! 60 ct., beads 24 oz or Downy beads 21.1-24 oz.",
+      "description": "Also get savings with $3.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks® Rewards®",
+      "value": {
+        "type": "member_price",
+        "price": 15.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain | downy"
+        ],
+        "category": "household",
+        "size_min_oz": 99,
+        "size_max_oz": 144,
+        "keywords": [
+          "gain",
+          "flings",
+          "beads",
+          "downy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:6bdaf3b8",
+      "offer_family": "one_faa615f4",
+      "route": "auto_apply",
+      "title": "$7.99 with card — ALL ONE protein bars 4 ct.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "one"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "one",
+          "protein",
+          "bars"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:6c1a8ee3",
+      "offer_family": "hersheys_werther_16fbc615",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Hershey's, Werther's, Red Vines sugar free, 2.75-5 oz, Jolly Rancher, Twizzlers, Shaq-A-Licious 6-7 oz, Sour Patch Kids or Swedish Fish 11.03-12 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "hershey's | werther's | red vines | olly rancher, twizzlers, shaq-a-licious | sour patch | swedish"
+        ],
+        "category": "grocery",
+        "size_min_oz": 2.75,
+        "size_max_oz": 5,
+        "keywords": [
+          "hershey",
+          "werther",
+          "red",
+          "vines",
+          "sugar",
+          "free"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:70b6b278",
+      "offer_family": "crest_c2f02521",
+      "route": "auto_apply",
+      "title": "$4.99 with card — ANY Scope/Crest Pro-Health Clean Mint, Intense 1L or Advanced 500mL",
+      "description": "Also get savings $1.00 Digital mfr coupon + Buy 1 get $2 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest"
+        ],
+        "category": "oral care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "scope",
+          "crest",
+          "pro",
+          "health",
+          "clean"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:73a5c712",
+      "offer_family": "dove_men_care_1ff0e338",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Dove MEN+ CARE deodorant or dry sprays",
+      "description": "MIX & MATCH · Buy 1 get 1 50% OFF*, Also get savings with Digital mfr coupon + Buy 2 get $4 ExtraBucks Rewards®◆",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove men+care"
+        ],
+        "category": "shave & deodorant",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "deodorant",
+          "dry",
+          "sprays"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:77e299bd",
+      "offer_family": "claritin_e59f1596",
+      "route": "auto_apply",
+      "title": "$44.99 with card — Claritin adult allergy relief 100 ct.",
+      "description": "Also get savings with $10.00 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 44.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "claritin"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "claritin",
+          "adult",
+          "allergy",
+          "relief"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:78a7252a",
+      "offer_family": "sharpie_expo_elm_376e94b2",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Sharpie, Expo, Elmer's or Papermate.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sharpie | expo | elmer's | papermate"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "sharpie",
+          "expo",
+          "elmer",
+          "papermate"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:798894c1",
+      "offer_family": "febreze_43a56632",
+      "route": "auto_apply",
+      "title": "20% Off — Febreze spray 8.1-8.8 oz, bathroom .25 oz, car 1 ct. or oil warmer",
+      "description": "20% OFF Also get savings with $3.50 on 2 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "febreze"
+        ],
+        "category": "household",
+        "size_min_oz": 8.1,
+        "size_max_oz": 8.8,
+        "keywords": [
+          "febreze",
+          "spray",
+          "bathroom",
+          "car",
+          "oil",
+          "warmer"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7b82696c",
+      "offer_family": "rogaine_d7d81fb0",
+      "route": "auto_apply",
+      "title": "$49.99 with card — ALL Men's or Women's Rogaine 3 ct.",
+      "description": "Also get savings with $5.00 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 49.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "rogaine"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "men",
+          "women",
+          "rogaine"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7ba59539",
+      "offer_family": "gatorade_gatorly_f59126a5",
+      "route": "auto_apply",
+      "title": "2 for $5.00 with card — Gatorade 28 oz, Gatorlyte 20 oz or Well Market Electrolyte Max solution 33.8 oz.",
+      "description": "or reg retail ea. WITH CARD +CRV",
+      "value": {
+        "type": "member_price",
+        "price": 2.5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gatorade | gatorlyte | well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 28,
+        "size_max_oz": 28,
+        "keywords": [
+          "gatorade",
+          "gatorlyte",
+          "well",
+          "market",
+          "electrolyte",
+          "max"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7c1b472f",
+      "offer_family": "gen_5736b2bc",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Dove 6.74-7.61 oz, 12.67-14.08 oz, Kinder Bueno mini 9.5, 12.7 oz, M&M's, Skittles Pop'd 5.5 oz, Flipz 15 oz or M&M's Family Size 15-18.08 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "candy",
+        "size_min_oz": 6.74,
+        "size_max_oz": 7.61,
+        "keywords": [
+          "all",
+          "dove",
+          "kinder",
+          "bueno",
+          "mini",
+          "skittles"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7c2d2c8a",
+      "offer_family": "simply_5a7b9b38",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Simply Juice or Lemonade 11.5 oz.",
+      "description": "Buy 1 get 1 50% OFF*² WITH CARD +CRV",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "simply"
+        ],
+        "category": "grocery",
+        "size_min_oz": 11.5,
+        "size_max_oz": 11.5,
+        "keywords": [
+          "all",
+          "simply",
+          "juice",
+          "lemonade"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7c6e908f",
+      "offer_family": "bounty_charmin_48b634da",
+      "route": "auto_apply",
+      "title": "$9.99 with card — Bounty Select-A-Size 2 triple rolls, Charmin Ultra 6 mega rolls or essentials 9 mega rolls.",
+      "description": "Also get savings with $1.00 Digital mfr coupon PLUS Spend $25 Get $8 ExtraBucks Rewards · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 9.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "bounty | charmin"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "bounty",
+          "select",
+          "size",
+          "triple",
+          "rolls",
+          "charmin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:7f9a23bd",
+      "offer_family": "general_mills_1e73cd16",
+      "route": "auto_apply",
+      "title": "$3.99 with card — Select General Mills Family Size cereals 16.1-18.8 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "general mills"
+        ],
+        "category": "grocery",
+        "size_min_oz": 16.1,
+        "size_max_oz": 18.8,
+        "keywords": [
+          "select",
+          "general",
+          "mills",
+          "family",
+          "size",
+          "cereals"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:802273aa",
+      "offer_family": "crest_08dd3d41",
+      "route": "auto_apply",
+      "title": "$3.99 with card — Crest 3D White 2.4 oz, Stain Eraser 3.8 oz, Pro-Health 3.5-4.3 oz, Plus 5.4 oz, 3in1 4.6 oz paste, Oral-B Charcoal or Advanced Whitening brush 1 ct.",
+      "description": "Also get savings with $2.00 Digital mfr coupon + Buy 2 get $4 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest"
+        ],
+        "category": "personal care",
+        "size_min_oz": 2.4,
+        "size_max_oz": 2.4,
+        "keywords": [
+          "crest",
+          "white",
+          "stain",
+          "eraser",
+          "pro",
+          "health"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:80efcf3f",
+      "offer_family": "gen_4d0b62e5",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL PURE Zzzs vitamins.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "pure",
+          "zzzs",
+          "vitamins"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:80fa1e38",
+      "offer_family": "tide_gain_downy_a07ec650",
+      "route": "auto_apply",
+      "title": "$5.49 with card — Tide PODS 11-14 ct., Gain flings! 14-16 ct., fireworks 5 oz or Downy Beads 4.8-5 oz.",
+      "description": "Also get savings with $1.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®⧫ WITH CARD · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 5.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide | gain | downy"
+        ],
+        "category": "household",
+        "size_min_oz": 5,
+        "size_max_oz": 5,
+        "keywords": [
+          "tide",
+          "pods",
+          "gain",
+          "flings",
+          "fireworks",
+          "downy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:81ed0b69",
+      "offer_family": "crest_f84e462e",
+      "route": "auto_apply",
+      "title": "$8.99 with card — ANY Crest 3D White Deep Stain Remover 2.1 oz, Brilliance, Whitening Therapy, Gum care or Clean Breath 3.8-4.8 oz paste",
+      "description": "Also get savings with $5.00 on 2 Digital mfr coupon + Buy 2 get $3 ExtraBucks Rewards®◆ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 8.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest"
+        ],
+        "category": "personal care",
+        "size_min_oz": 2.1,
+        "size_max_oz": 2.1,
+        "keywords": [
+          "any",
+          "crest",
+          "white",
+          "deep",
+          "stain",
+          "remover"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:821bd1ea",
+      "offer_family": "mielle_9a4b9568",
+      "route": "auto_apply",
+      "title": "2 for $20.00 with card — Mielle Rosemary Mint hair care (excludes edge gel 2 oz and shampoo/ conditioner 20 oz)",
+      "description": "Also get savings with Buy 2 get $7 ExtraBucks® Rewards® WITH CARD · or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 10,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "mielle"
+        ],
+        "category": "personal care",
+        "size_min_oz": 2,
+        "size_max_oz": 2,
+        "keywords": [
+          "mielle",
+          "rosemary",
+          "mint",
+          "hair",
+          "care",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:84046be2",
+      "offer_family": "natures_bounty_8878d8c7",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — ALL Nature's Bounty vitamins.",
+      "description": "MIX & MATCH · BUY 1 get 1 FREE*, Also get savings with $5.00 on 2 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nature's bounty"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "nature",
+          "bounty",
+          "vitamins"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:8460a6fd",
+      "offer_family": "icy_hot_af4e14be",
+      "route": "auto_apply",
+      "title": "$7.99 with card — IcyHot external pain relievers (excludes Lidocaine and Pro).",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "icy hot"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "icyhot",
+          "external",
+          "pain",
+          "relievers",
+          "excludes",
+          "lidocaine"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:86bb473b",
+      "offer_family": "charmin_bounty_bca03044",
+      "route": "auto_apply",
+      "title": "$15.99 with card — Charmin Ultra 12 mega rolls or Bounty Select-A-Size 6 double rolls",
+      "description": "Also get savings with $2.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®♦ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 15.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "charmin | bounty"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "charmin",
+          "ultra",
+          "mega",
+          "rolls",
+          "bounty",
+          "select"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:86fb4242",
+      "offer_family": "scott_08bde3f6",
+      "route": "auto_apply",
+      "title": "$9.99 with card — Scott bath tissue 12 rolls, Comfort Plus 18 double rolls or paper towels 8 double rolls",
+      "description": "New at CVS · Also get savings with Spend $20 get $5 ExtraBucks Rewards®⧫, $2.00 on 2 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 9.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "scott"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "scott",
+          "bath",
+          "tissue",
+          "rolls",
+          "comfort",
+          "plus"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:8d0130e1",
+      "offer_family": "gen_e5164686",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — King Size candy (excludes Hershey's and Mars)",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "king",
+          "size",
+          "candy",
+          "excludes",
+          "hershey",
+          "mars"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:8f5f0f67",
+      "offer_family": "gen_aa6f38d8",
+      "route": "auto_apply",
+      "title": "30% Off — Posters",
+      "description": "Same day pickup. · 30% OFF WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 30
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general merchandise",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "posters"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:9146f300",
+      "offer_family": "quilted_northern_249597bc",
+      "route": "auto_apply",
+      "title": "$12.99 with card — Quilted Northern bath tissue 9 mega rolls, Angel Soft bath tissue 12 mega rolls or Brawny paper towels 6 double rolls.",
+      "description": "Also get savings with 50¢ Digital mfr coupon WITH CARD · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "quilted northern | angel soft | brawny"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "quilted",
+          "northern",
+          "bath",
+          "tissue",
+          "mega",
+          "rolls"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:94c436c6",
+      "offer_family": "gen_8650f2ed",
+      "route": "auto_apply",
+      "title": "$3.99 with card — FIFA apparel, drinkware, and more",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fifa",
+          "apparel",
+          "drinkware",
+          "more"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:97ea6f88",
+      "offer_family": "finish_2cccb1e2",
+      "route": "auto_apply",
+      "title": "$12.99 with card — Finish Powerball Ultimate tabs 28 ct.",
+      "description": "Also get savings with Buy 1 get 1 FREE* Digital mfr coupon Spend $15 get $3 ExtraBucks Rewards®✦ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "finish"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "finish",
+          "powerball",
+          "ultimate",
+          "tabs"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:9a80660a",
+      "offer_family": "crest_89c13658",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ANY Crest 3D White, Pro-Health or Plus toothpaste 2 pk.",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $5.00 on 2 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®⧫ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "crest",
+          "white",
+          "pro",
+          "health",
+          "plus"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:a1644bb4",
+      "offer_family": "dove_ccf3bd0c",
+      "route": "auto_apply",
+      "title": "$7.99 with card — ALL Dove women's body wash 20 oz.",
+      "description": "Also get savings with $5.00 on 2 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "personal care",
+        "size_min_oz": 20,
+        "size_max_oz": 20,
+        "keywords": [
+          "all",
+          "dove",
+          "women",
+          "body",
+          "wash"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:a6586369",
+      "offer_family": "colgate_73000ee9",
+      "route": "auto_apply",
+      "title": "$3.99 with card — ANY Colgate Optic White Stain Fighter 3.8-4.2 oz, Max 6.3 oz, Total 3.3 oz or 2in1 4.6 oz toothpaste",
+      "description": "Also get savings with $3.00 on 2 Digital mfr coupon + Buy 2 get $4 ExtraBucks Rewards®♦ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate"
+        ],
+        "category": "grocery",
+        "size_min_oz": 3.8,
+        "size_max_oz": 4.2,
+        "keywords": [
+          "any",
+          "colgate",
+          "optic",
+          "white",
+          "stain",
+          "fighter"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:a7a4c55a",
+      "offer_family": "gen_128b5301",
+      "route": "auto_apply",
+      "title": "$3.99 with card — Seasonal, Photo, Toys & Gifts",
+      "description": "Gear up! We have shirts, necklaces, scarves, drinkware and more. Prices starting at $3.99 WITH CARD. · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "events",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "seasonal",
+          "photo",
+          "toys",
+          "gifts"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:a7c15f70",
+      "offer_family": "duracell_1240abc1",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Duracell batteries",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "duracell"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "duracell",
+          "batteries"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:aac765d1",
+      "offer_family": "cvs_4e77f416",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — CVS Brand personal lubricants",
+      "description": "Buy 1 get 1 40% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cvs",
+          "brand",
+          "personal",
+          "lubricants"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:ac23f69b",
+      "offer_family": "swiffer_7c437810",
+      "route": "auto_apply",
+      "title": "$10.99 with card — Swiffer 360 kit, Dusters 6-10 ct., Power Mop pads 5 ct., Power Mop cleaner 2 pk., Wet Jet pads 15 ct., Wet or Sweeping cloths 20-32 ct.",
+      "description": "Also get savings with $10.00 on 2 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 10.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "swiffer"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "swiffer",
+          "kit",
+          "dusters",
+          "power",
+          "mop",
+          "pads"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:ac36f4ec",
+      "offer_family": "garnier_fructis_f6431820",
+      "route": "auto_apply",
+      "title": "$4.49 with card — ANY Garnier Fructis shampoo/ conditioner 11.3-13 oz or leave-in conditioner 10.2 oz.",
+      "description": "Also get savings with $3.00 on 2 Digital mfr coupon + Buy 2 get $3 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 4.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "garnier fructis"
+        ],
+        "category": "personal care",
+        "size_min_oz": 11.3,
+        "size_max_oz": 13,
+        "keywords": [
+          "any",
+          "garnier",
+          "fructis",
+          "shampoo",
+          "conditioner",
+          "leave"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:acdb4c10",
+      "offer_family": "nasacort_allegra_14be72cc",
+      "route": "auto_apply",
+      "title": "$22.49 with card — Adult Nasacort 120 sprays, Allegra 24 gelcaps, 30 tablets or Xyzal 35 ct. (excludes ALL products with pseudoephedrine or ephedrine).",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 22.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nasacort │ allegra │ xyzal"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "adult",
+          "nasacort",
+          "sprays",
+          "allegra",
+          "gelcaps",
+          "tablets"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:ad963a78",
+      "offer_family": "clairol_735de482",
+      "route": "auto_apply",
+      "title": "$8.99 with card — ALL Clairol Nice'n Easy or Root Touch-Up hair color",
+      "description": "Also get savings with $9.00 on 2 Digital mfr coupon · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 8.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "clairol"
+        ],
+        "category": "hair care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "clairol",
+          "nice",
+          "easy",
+          "root",
+          "touch"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:adcd6ae1",
+      "offer_family": "neutrogena_aveen_0ee50b43",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Neutrogena/Aveeno sun care or sunless.",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $3.00 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "neutrogena | aveeno"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "neutrogena",
+          "aveeno",
+          "sun",
+          "care",
+          "sunless"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:afcda7db",
+      "offer_family": "its_a_10_d643f8f1",
+      "route": "auto_apply",
+      "title": "25% Off — It's A 10 hair care",
+      "description": "25% OFF WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "it's a 10"
+        ],
+        "category": "hair care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:b20033e2",
+      "offer_family": "gen_1cfc0a8d",
+      "route": "auto_apply",
+      "title": "Buy 2 Get 1 Free — ALL soda 12-15 pk., or mini cans 10 pk.",
+      "description": "Mix & Match · Buy 2 get 3rd FREE with card",
+      "value": {
+        "type": "percent_off",
+        "percent": 33
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "soda",
+          "mini",
+          "cans"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:b34f9870",
+      "offer_family": "gen_7373eb3d",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Good Humor 6 ct., Magnum bars 3 ct., Popsicle multipacks, Oreo novelty ice cream 4-5 ct., Nestle Drumstick 4 ct. or ice cream sandwiches 6 ct.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "good",
+          "humor",
+          "magnum",
+          "bars",
+          "popsicle",
+          "multipacks"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:b6054fff",
+      "offer_family": "shea_moisture_aa275243",
+      "route": "auto_apply",
+      "title": "$10.99 with card — Shea Moisture shampoo or conditioner (excludes 100% Virgin Coconut Oil)",
+      "description": "Also get savings with $5.00 on 2 Digital mfr coupon + Buy 3 get $5 ExtraBucks Rewards®◆ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 10.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "shea moisture"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "shea",
+          "moisture",
+          "shampoo",
+          "conditioner",
+          "excludes",
+          "virgin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:bcce5b19",
+      "offer_family": "dove_66dc5baa",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Dove, MEN+Care deodorant or dry sprays (excludes twin pks.)",
+      "description": "Buy 1 get 1 50% OFF*, Also get savings with Digital mfr coupon + Buy 2 get $4 ExtraBucks Rewards®⧫ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "deodorant",
+          "dry",
+          "sprays"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:bd8e657d",
+      "offer_family": "well_market_b512c1fd",
+      "route": "auto_apply",
+      "title": "$15.99 with card — Well Market value size nuts 24-32 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 15.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 24,
+        "size_max_oz": 32,
+        "keywords": [
+          "well",
+          "market",
+          "value",
+          "size",
+          "nuts"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:c4539629",
+      "offer_family": "coppertone_6d2327bd",
+      "route": "auto_apply",
+      "title": "$16.99 with card — Coppertone sunscreen spray twin pk.",
+      "description": "Also get savings with Buy 2 get $10 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 16.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "coppertone"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "coppertone",
+          "sunscreen",
+          "spray",
+          "twin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:c61ffbc3",
+      "offer_family": "kelloggs_c24d0eb8",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — WITH CARD Select Kellogg's or Special K cereal 9.8-15.3 oz",
+      "description": "Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "kellogg's"
+        ],
+        "category": "grocery",
+        "size_min_oz": 9.8,
+        "size_max_oz": 15.3,
+        "keywords": [
+          "card",
+          "select",
+          "kellogg",
+          "special",
+          "cereal"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:c8cb3da0",
+      "offer_family": "huggies_e245374d",
+      "route": "auto_apply",
+      "title": "2 for $22.00 with card — Huggies bagged diapers, Pull-Ups or Goodnites",
+      "description": "Also get savings with $3.00 on 2 Digital mfr coupon + Spend $20 get $5 ExtraBucks Rewards®⧫ · or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 11,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "huggies"
+        ],
+        "category": "baby care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "huggies",
+          "bagged",
+          "diapers",
+          "pull",
+          "ups",
+          "goodnites"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:c96b6b4b",
+      "offer_family": "kelloggs_fcbb150d",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — Select Kellogg's 9-15.3 oz or Special K cereal 9.6-13.3 oz.",
+      "description": "Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "kellogg's"
+        ],
+        "category": "grocery",
+        "size_min_oz": 9,
+        "size_max_oz": 15.3,
+        "keywords": [
+          "select",
+          "kellogg",
+          "special",
+          "cereal"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:c98a205b",
+      "offer_family": "gillette_0af70d30",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — WITH CARD ANY Gillette/Venus razors, disposable razors, cartridges, Gillette/Satin Care shave foam or gel",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $3.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®◆ WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gillette"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "card",
+          "any",
+          "gillette",
+          "venus",
+          "razors",
+          "disposable"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:ca53f3d7",
+      "offer_family": "haagen_dazs_nest_5c3969df",
+      "route": "auto_apply",
+      "title": "$8.49 with card — Häagen-Dazs bars 6 ct., Nestlé Drumstick 8 ct., Oreo or Toll House mini 12 ct.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 8.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "häagen-dazs | nestlé | toll house"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "agen",
+          "dazs",
+          "bars",
+          "nestl",
+          "drumstick",
+          "oreo"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:caf1d191",
+      "offer_family": "haagen_dazs_ben__267599f4",
+      "route": "auto_apply",
+      "title": "Buy 2 Get 1 Free — ALL Häagen-Dazs, Ben & Jerry's or Talenti pints",
+      "description": "Buy 2 get 3rd FREE* · Buy 2 get 3rd FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 33
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "häagen-dazs | ben & jerry's | talenti"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "agen",
+          "dazs",
+          "ben",
+          "jerry",
+          "talenti"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:cd44d275",
+      "offer_family": "dawn_b40a0f56",
+      "route": "auto_apply",
+      "title": "$5.99 with card — Dawn Ultra 30-38 oz, PowerSuds 17.4 oz, EZ-Squeeze 18- 22 oz or Powerwash spray 16 oz.",
+      "description": "Also get savings with $1.00 Digital mfr coupon, Spend $25 Get $8 ExtraBucks Rewards®⧫ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dawn"
+        ],
+        "category": "grocery",
+        "size_min_oz": 30,
+        "size_max_oz": 38,
+        "keywords": [
+          "dawn",
+          "ultra",
+          "powersuds",
+          "squeeze",
+          "powerwash",
+          "spray"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:ce158db5",
+      "offer_family": "well_market_6cd627bc",
+      "route": "auto_apply",
+      "title": "$3.29 with card — Well Market trail mix or bites 3-5 oz (excludes probiotic keto 5 oz)",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "well market"
+        ],
+        "category": "grocery",
+        "size_min_oz": 3,
+        "size_max_oz": 5,
+        "keywords": [
+          "well",
+          "market",
+          "trail",
+          "mix",
+          "bites",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:d07906cc",
+      "offer_family": "huggies_a3ef2871",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — Huggies wipes (excludes Natural Care 352 ct.)",
+      "description": "MIX & MATCH · Buy 1 get 1 FREE* WITH CARD Also get savings with 50¢ on 2 Digital mfr coupon",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "huggies"
+        ],
+        "category": "baby care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "huggies",
+          "wipes",
+          "excludes",
+          "natural",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:d2cf465d",
+      "offer_family": "mccafe_la_colomb_41ca4c66",
+      "route": "auto_apply",
+      "title": "$6.99 with card — ALL McCafé, La Colombe, Green Mountain or Donut Shop K-Cups 10 ct.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 6.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "mccafé | la colombe | green mountain | donut shop"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "mccaf",
+          "colombe",
+          "green",
+          "mountain",
+          "donut"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:d80b1431",
+      "offer_family": "secret_29abf051",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Secret deodorant or dry sprays",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with a $4 off2 ExtraCare coupon^ in the CVS app WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "secret"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "secret",
+          "deodorant",
+          "dry",
+          "sprays"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:d9db9141",
+      "offer_family": "lotrimin_tinacti_9f63122b",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 40% Off — ALL Lotrimin or Tinactin",
+      "description": "Buy 1 get 1 40% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 20
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "lotrimin | tinactin"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "lotrimin",
+          "tinactin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:de390849",
+      "offer_family": "hersheys_2e4814d6",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Hershey's King Size 2.4-4.02 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "hershey's"
+        ],
+        "category": "candy",
+        "size_min_oz": 2.4,
+        "size_max_oz": 4.02,
+        "keywords": [
+          "hershey",
+          "king",
+          "size"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e05a6947",
+      "offer_family": "gen_93ee9c8a",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL soda 1-1.5 liter or 6 pk., 16.9 oz bottles.",
+      "description": "Buy 1 get 1 50% OFF*² WITH CARD +CRV",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": 16.9,
+        "size_max_oz": 16.9,
+        "keywords": [
+          "all",
+          "soda",
+          "liter",
+          "bottles"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e2779a08",
+      "offer_family": "cvs_cd42aef3",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL CVS Brand vitamins",
+      "description": "MIX & MATCH · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "vitamins"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e27f0d14",
+      "offer_family": "haribo_bbaac49a",
+      "route": "auto_apply",
+      "title": "2 for $5.00 with card — Haribo gummies 6.3-8 oz.",
+      "description": "or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 2.5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "haribo"
+        ],
+        "category": "candy",
+        "size_min_oz": 6.3,
+        "size_max_oz": 8,
+        "keywords": [
+          "haribo",
+          "gummies"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e320873b",
+      "offer_family": "tide_gain_downy__db58b0d7",
+      "route": "auto_apply",
+      "title": "$12.99 with card — Tide PODS, Gain flings! 18-42 ct., Downy 88 oz., rinse 36.7-48 oz., Beads 10.7-13.4 oz., Gain fabric softener 72 sheets, sheets 240 ct. or Bounce sheets 240 ct.",
+      "description": "Also get savings with $3.00 Digital mfr coupon + Spend $25 get $8 ExtraBucks Rewards®♦ · WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide | gain | downy | bounce"
+        ],
+        "category": "household",
+        "size_min_oz": 88,
+        "size_max_oz": 88,
+        "keywords": [
+          "tide",
+          "pods",
+          "gain",
+          "flings",
+          "downy",
+          "rinse"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e4b0da59",
+      "offer_family": "gen_65d64c8d",
+      "route": "auto_apply",
+      "title": "$3.99 with card — We Carry FIFA Game Ready Merch",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general merchandise",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "carry",
+          "fifa",
+          "game",
+          "ready",
+          "merch"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e6470c23",
+      "offer_family": "gillette_c223d71b",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ANY Gillette/Venus razors, disposable razors, cartridges, Gillette Satin Care shave foam or gel",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $3.00 Digital mfr coupon PLUS Spend $25 Get $8 ExtraBucks Rewards",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gillette"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "any",
+          "gillette",
+          "venus",
+          "razors",
+          "disposable",
+          "cartridges"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e7cebcd4",
+      "offer_family": "doritos_55fb75ce",
+      "route": "auto_apply",
+      "title": "2 for $7.00 with card — Doritos (excludes Simply Doritos and Baked) 9.25-10.7 oz",
+      "description": "or reg retail ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 3.5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "doritos"
+        ],
+        "category": "grocery",
+        "size_min_oz": 9.25,
+        "size_max_oz": 10.7,
+        "keywords": [
+          "doritos",
+          "excludes",
+          "simply",
+          "baked"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:e8fa094e",
+      "offer_family": "hersheys_7297b475",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — Hershey's Share Packs 7.2-10.8 oz.",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "hershey's"
+        ],
+        "category": "grocery",
+        "size_min_oz": 7.2,
+        "size_max_oz": 10.8,
+        "keywords": [
+          "hershey",
+          "share",
+          "packs"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:eb3e40f1",
+      "offer_family": "wrigleys_0c8e2a35",
+      "route": "auto_apply",
+      "title": "2 for $2.22 with card — ALL Wrigley's gum singles",
+      "description": "or $1.49 ea. WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 1.11,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "wrigley's"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "wrigley",
+          "gum",
+          "singles"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:eff8f07b",
+      "offer_family": "harrys_flamingo_64486538",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL Harry's or Flamingo products",
+      "description": "Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "harry's │ flamingo"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "harry",
+          "flamingo",
+          "products"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:f0745c7a",
+      "offer_family": "jack_links_ce2c7204",
+      "route": "auto_apply",
+      "title": "$5.89 with card — Jack Link's jerky 2.6-3.25 oz.",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 5.89,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "jack links"
+        ],
+        "category": "grocery",
+        "size_min_oz": 2.6,
+        "size_max_oz": 3.25,
+        "keywords": [
+          "jack",
+          "link",
+          "jerky"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:f2669416",
+      "offer_family": "kelloggs_9573dda1",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 Free — Kellogg's Rice Krispies treats or pop•tarts 7-8 ct.",
+      "description": "MIX & MATCH · Buy 1 get 1 FREE* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 50
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "kellogg's"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kellogg",
+          "rice",
+          "krispies",
+          "treats",
+          "pop",
+          "tarts"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:f79b4c67",
+      "offer_family": "gen_661f2093",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — AXE deodorant, body spray or hair care (excludes twin pk.)",
+      "description": "Buy 1 get 1 50% OFF* Also get savings with $6.00 on 2 Digital mfr coupon WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "axe",
+          "deodorant",
+          "body",
+          "spray",
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:faf6ea65",
+      "offer_family": "dunkin_adc6d321",
+      "route": "auto_apply",
+      "title": "$8.99 with card — Dunkin' bag coffee 11-12 oz or K-Cups 10 ct",
+      "description": "WITH CARD",
+      "value": {
+        "type": "member_price",
+        "price": 8.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dunkin'"
+        ],
+        "category": "grocery",
+        "size_min_oz": 11,
+        "size_max_oz": 12,
+        "keywords": [
+          "dunkin",
+          "bag",
+          "coffee",
+          "cups"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "cvs:2026w27:fcb8d5b8",
+      "offer_family": "cvs_794f9fa6",
+      "route": "auto_apply",
+      "title": "Buy 1 Get 1 50% Off — ALL CVS Brand eye or ear care",
+      "description": "COMPARE TO Systane · Buy 1 get 1 50% OFF* WITH CARD",
+      "value": {
+        "type": "percent_off",
+        "percent": 25
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-12",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cvs"
+        ],
+        "category": "health & medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "all",
+          "cvs",
+          "brand",
+          "eye",
+          "ear",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    }
+  ]
+}

@@ -1,7 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T08:47:18Z",
+  "generated_at": "2026-07-05T20:55:22Z",
   "chains": [
+    {
+      "chain_id": "cvs",
+      "display_name": "CVS Pharmacy",
+      "stores": [
+        {
+          "store_id": "cvs-9960",
+          "display_name": "CVS — Capitola (809 Bay Ave)",
+          "lat": 36.98035,
+          "lng": -121.95659,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9960.json",
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 12310
+        }
+      ]
+    },
     {
       "chain_id": "nob_hill",
       "display_name": "Nob Hill Foods",
