@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-07-04T04:55:30Z",
+  "generated_at": "2026-07-05T05:24:32Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -2627,36 +2627,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w27:b6583ce9",
-      "offer_family": "gen_f81078ec",
-      "route": "auto_apply",
-      "title": "Member Price $4.99/ea (reg. $6.19) — Log Cabin Syrup",
-      "description": "Log Cabin Syrup. Member Price $4.99/ea (reg. $6.19). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.99,
-        "regular_price": 6.19
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "log",
-          "cabin",
-          "syrup"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w27:b7efed3f",
       "offer_family": "gen_61759099",
       "route": "auto_apply",
@@ -3281,6 +3251,36 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w27:d0f889cd",
+      "offer_family": "gen_2568da20",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea (reg. $5.79) — Log Cabin Syrup",
+      "description": "Log Cabin Syrup. Member Price $4.99/ea (reg. $5.79). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": 5.79
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "log",
+          "cabin",
+          "syrup"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w27:d11468a9",
       "offer_family": "gen_f64a1ad6",
       "route": "auto_apply",
@@ -3334,6 +3334,36 @@
           "vieille",
           "ferme",
           "apothic"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w27:d599c656",
+      "offer_family": "gen_a0593e1c",
+      "route": "auto_apply",
+      "title": "Member Price $6.49/ea (reg. $7.29) — Heinz Tomato Ketchup",
+      "description": "Heinz Tomato Ketchup. Member Price $6.49/ea (reg. $7.29). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.49,
+        "regular_price": 7.29
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "heinz",
+          "tomato",
+          "ketchup"
         ],
         "excludes": []
       },
@@ -3424,36 +3454,6 @@
           "jet",
           "puffed",
           "marshmallows"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w27:da27fce0",
-      "offer_family": "gen_3b33f4ba",
-      "route": "auto_apply",
-      "title": "Member Price $6.49/ea (reg. $8.99) — Heinz Tomato Ketchup",
-      "description": "Heinz Tomato Ketchup. Member Price $6.49/ea (reg. $8.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.49,
-        "regular_price": 8.99
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "heinz",
-          "tomato",
-          "ketchup"
         ],
         "excludes": []
       },

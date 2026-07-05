@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T00:54:58Z",
+  "generated_at": "2026-07-05T08:47:18Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -819,6 +819,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:d0f889cd",
+      "offer_family": "gen_2568da20",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:d11468a9",
       "offer_family": "gen_f64a1ad6",
       "valid_to": "2026-07-07"
@@ -826,6 +831,11 @@
     {
       "offer_id": "nob_hill:2026w27:d503c0d1",
       "offer_family": "gen_7a87ed56",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:d599c656",
+      "offer_family": "gen_a0593e1c",
       "valid_to": "2026-07-07"
     },
     {
