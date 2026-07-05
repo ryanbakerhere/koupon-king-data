@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "safeway",
   "store_id": "safeway-640",
-  "generated_at": "2026-07-05T00:50:40Z",
+  "generated_at": "2026-07-05T00:54:15Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -1093,8 +1093,7 @@
           "swaddlers",
           "diapers",
           "super",
-          "pack",
-          "any"
+          "pack"
         ],
         "excludes": [
           "swaddlers360 and trial/travel size"
@@ -1438,43 +1437,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "signature_select_1e4c6ead"
-    },
-    {
-      "offer_id": "safeway:2026w27:0148fe3b",
-      "route": "clip",
-      "title": "$5.00 OFF — Pampers (Pampers Cruisers 360 Diapers Enormous Pack . Any variety)",
-      "description": "Pampers · $5.00 OFF when you buy ONE(1) Pampers Cruisers 360 Diapers Enormous Pack . Any variety. Excludes trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-29",
-      "valid_to": "2026-07-13",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "diaper",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "cruisers",
-          "diapers",
-          "enormous",
-          "pack",
-          "any"
-        ],
-        "excludes": [
-          "trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_53bffb30"
     },
     {
       "offer_id": "safeway:2026w27:01c77a0d",
@@ -3655,8 +3617,7 @@
           "swaddlers",
           "diapers",
           "enormous",
-          "packs",
-          "any"
+          "packs"
         ],
         "excludes": [
           "swaddlers360 and trial/travel size"
@@ -5367,6 +5328,42 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_af3bee4f"
+    },
+    {
+      "offer_id": "safeway:2026w27:7c0c8de4",
+      "route": "clip",
+      "title": "$5.00 OFF — Pampers (Pampers Cruisers 360 Diapers Enormous Pack)",
+      "description": "Pampers · $5.00 OFF when you buy ONE(1) Pampers Cruisers 360 Diapers Enormous Pack . Any variety. Excludes trial/travel size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-06-29",
+      "valid_to": "2026-07-13",
+      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
+      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
+      "hints": {
+        "brands": [
+          "pampers"
+        ],
+        "category": "diaper",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pampers",
+          "cruisers",
+          "diapers",
+          "enormous",
+          "pack"
+        ],
+        "excludes": [
+          "trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pampers_8c84df1f"
     },
     {
       "offer_id": "safeway:2026w27:7c3d7298",
