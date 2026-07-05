@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-04T12:18:52Z",
+  "generated_at": "2026-07-05T00:54:58Z",
   "chains": [
     {
       "chain_id": "nob_hill",
@@ -49,8 +49,8 @@
           "lng": -121.96324,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-1929.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21246
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30597
         },
         {
           "store_id": "safeway-2607",
@@ -59,8 +59,8 @@
           "lng": -122.04505,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2607.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21375
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30615
         },
         {
           "store_id": "safeway-2840",
@@ -69,8 +69,8 @@
           "lng": -121.77544,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2840.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21261
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30599
         },
         {
           "store_id": "safeway-300",
@@ -79,8 +79,8 @@
           "lng": -122.0314,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-300.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21246
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30596
         },
         {
           "store_id": "safeway-640",
@@ -89,8 +89,8 @@
           "lng": -121.90861,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-640.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21246
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30596
         },
         {
           "store_id": "safeway-786",
@@ -99,8 +99,8 @@
           "lng": -122.06873,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-786.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21246
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30596
         },
         {
           "store_id": "safeway-799",
@@ -109,8 +109,8 @@
           "lng": -122.00752,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-799.json",
-          "snapshot_version": "2026-07-04",
-          "snapshot_bytes_gz": 21374
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 30614
         }
       ]
     }
