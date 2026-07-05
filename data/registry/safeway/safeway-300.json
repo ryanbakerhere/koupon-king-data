@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "safeway",
   "store_id": "safeway-300",
-  "generated_at": "2026-07-05T00:53:44Z",
+  "generated_at": "2026-07-05T04:48:38Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -1560,38 +1560,6 @@
       "offer_family": "johnsonville_1b736e13"
     },
     {
-      "offer_id": "safeway:2026w27:05bcb73a",
-      "route": "clip",
-      "title": "$2.00 OFF — Coors® Banquet, Coors Light® or Miller Lite®",
-      "description": "Coors® Banquet, Coors Light® or Miller Lite® · $2.00 OFF when you buy ONE(1) Coors® Banquet, Coors Light® or Miller Lite®. Valid on 18-pack or larger (bottles or cans).",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-07-08",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [],
-        "category": "alcohol",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "coors",
-          "banquet",
-          "light",
-          "miller",
-          "lite"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_954b1ba9"
-    },
-    {
       "offer_id": "safeway:2026w27:05e4b60b",
       "route": "auto_apply",
       "title": "Member Price $5.99 — Maille Cornichons",
@@ -1921,41 +1889,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "natures_truth_069f8587"
-    },
-    {
-      "offer_id": "safeway:2026w27:0a5f614c",
-      "route": "clip",
-      "title": "$1.00 OFF when you buy 2 — Oikos, Light & Fit Remix",
-      "description": "Oikos, Light & Fit Remix · $1.00 OFF when you buy TWO(2) Oikos or Light & Fit Remix Single Serve Cups. Any variety. Items must appear on the same receipt.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-03",
-      "valid_to": "2026-08-16",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "oikos"
-        ],
-        "category": "grocery",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "oikos",
-          "light",
-          "fit",
-          "remix",
-          "single",
-          "serve"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "oikos_63d0890e"
     },
     {
       "offer_id": "safeway:2026w27:0ae47186",
@@ -2581,36 +2514,6 @@
       "offer_family": "claritin_9a247df8"
     },
     {
-      "offer_id": "safeway:2026w27:20387707",
-      "route": "clip",
-      "title": "$2.50 OFF — Ball Canning",
-      "description": "Ball Canning · $2.50 OFF when you buy ONE(1) Ball Canning Jars. Valid on 12 Pack.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2.5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-31",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [],
-        "category": "household",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "ball",
-          "canning",
-          "jars"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_e875d6f8"
-    },
-    {
       "offer_id": "safeway:2026w27:206ff16a",
       "route": "auto_apply",
       "title": "Member Price $24.99 — Kick'd Up Admiral's Feast Party Tray",
@@ -2707,42 +2610,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "maille_bdfb141f"
-    },
-    {
-      "offer_id": "safeway:2026w27:22cdc854",
-      "route": "clip",
-      "title": "$2.00 OFF — Gain (Gain Flings Laundry Detergent OR Gain Super Flings)",
-      "description": "Gain · $2.00 OFF when you buy ONE(1) Gain Flings Laundry Detergent OR Gain Super Flings . Valid on Gain Flings Laundry Detergent 31 ct OR Gain Super Flings 18 ct. Excludes trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-10",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "gain"
-        ],
-        "category": "detergent",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "gain",
-          "flings",
-          "laundry",
-          "detergent",
-          "super"
-        ],
-        "excludes": [
-          "trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gain_be4fb779"
     },
     {
       "offer_id": "safeway:2026w27:23b30152",
@@ -2970,38 +2837,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_844e3dbf"
-    },
-    {
-      "offer_id": "safeway:2026w27:2a3bfdb7",
-      "route": "clip",
-      "title": "$2.00 OFF — Miller® High Life® or Keystone Light®",
-      "description": "Miller® High Life® or Keystone Light® · $2.00 OFF when you buy ONE(1) Miller® High Life® or Keystone Light®. Valid on 30-pack.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-07-08",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [],
-        "category": "alcohol",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "miller",
-          "high",
-          "life",
-          "keystone",
-          "light"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_29bfcd5b"
     },
     {
       "offer_id": "safeway:2026w27:2bb4fcf7",
@@ -3991,43 +3826,6 @@
       "offer_family": "jonnypops_e438eaa5"
     },
     {
-      "offer_id": "safeway:2026w27:57c08d48",
-      "route": "clip",
-      "title": "Save $2.00 when you buy 4 — Pepsi, 7-Up, Sunkist or A&W Soft Drinks",
-      "description": "Pepsi, 7-Up, Sunkist or A&W Soft Drinks · When you buy FOUR 12-pk., 12-oz. cans Or 8-pk., 12-oz. cans. Pepsi Prebiotic. Limit 1 offer.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-07-08",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "7up",
-          "pepsi",
-          "sunkist"
-        ],
-        "category": "beverages",
-        "size_min_oz": 12,
-        "size_max_oz": 12,
-        "keywords": [
-          "pepsi",
-          "sunkist",
-          "soft",
-          "drinks",
-          "cans",
-          "prebiotic"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "7up_33fee243"
-    },
-    {
       "offer_id": "safeway:2026w27:58b8f537",
       "route": "auto_apply",
       "title": "4 for $5.00 Member Price — Hass Avocado or Mango",
@@ -4248,41 +4046,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "tide_3522ca2f"
-    },
-    {
-      "offer_id": "safeway:2026w27:6039165e",
-      "route": "clip",
-      "title": "Save $2.00 when you buy 4 — Coca-Cola Soft Drinks",
-      "description": "Coca-Cola Soft Drinks · When you buy FOUR 12-pk., 12-oz. cans or 8-pk., 12-oz. btls. Limit 1 offer.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-07-08",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "coca-cola"
-        ],
-        "category": "beverages",
-        "size_min_oz": 12,
-        "size_max_oz": 12,
-        "keywords": [
-          "coca",
-          "cola",
-          "soft",
-          "drinks",
-          "cans",
-          "btls"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "coca_cola_0dbf90f4"
     },
     {
       "offer_id": "safeway:2026w27:61540ad4",
@@ -7113,38 +6876,6 @@
       "offer_family": "darigold_44b75c0c"
     },
     {
-      "offer_id": "safeway:2026w27:b938e29d",
-      "route": "clip",
-      "title": "$3.00 OFF — Traeger Wood Pellets",
-      "description": "Traeger Wood Pellets · Limit 2. $3.00 OFF when you buy ONE(1) Traeger Wood Pellets. Any variety.",
-      "value": {
-        "type": "amount_off",
-        "amount": 3,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-07-20",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [],
-        "category": "household",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "traeger",
-          "wood",
-          "pellets",
-          "any",
-          "variety"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_9271af41"
-    },
-    {
       "offer_id": "safeway:2026w27:ba4e265d",
       "route": "auto_apply",
       "title": "3 for $5.00 Member Price — Peter Rabbit Pouch",
@@ -7741,42 +7472,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "essentia_0e71199a"
-    },
-    {
-      "offer_id": "safeway:2026w27:cb66414f",
-      "route": "clip",
-      "title": "$2.00 OFF — Bounce, Downy",
-      "description": "Bounce, Downy · $2.00 OFF when you buy ONE(1) Bounce OR Downy Sheets OR Bounce or Downy Mega Sheets. Valid on Bounce OR Downy Sheets 240 ct OR Bounce or Downy 130ct Mega Sheets. Excludes trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-10",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "bounce",
-          "downy"
-        ],
-        "category": "laundry",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "bounce",
-          "downy",
-          "sheets",
-          "mega"
-        ],
-        "excludes": [
-          "trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "bounce_ca3872d3"
     },
     {
       "offer_id": "safeway:2026w27:ceba64b8",
@@ -8891,37 +8586,6 @@
       "offer_family": "cetaphil_1525b2da"
     },
     {
-      "offer_id": "safeway:2026w27:f11da9d4",
-      "route": "clip",
-      "title": "$4.00 OFF — Deschutes or PartyBomb",
-      "description": "Deschutes or PartyBomb · $4.00 OFF when you buy ONE(1) Deschutes or PartyBomb. Valid on 12-pack.",
-      "value": {
-        "type": "amount_off",
-        "amount": 4,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-04",
-      "valid_to": "2026-08-19",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "deschutes"
-        ],
-        "category": "beverages",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "deschutes",
-          "partybomb"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "deschutes_54ac6f24"
-    },
-    {
       "offer_id": "safeway:2026w27:f2867017",
       "route": "auto_apply",
       "title": "Member Price $5.00 — Signature SELECT® Pork Spareribs",
@@ -9213,38 +8877,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "yerba_madre_e4e8599e"
-    },
-    {
-      "offer_id": "safeway:2026w27:fb00f7d7",
-      "route": "clip",
-      "title": "$1.00 OFF when you buy 2 — General Mills Cereals",
-      "description": "General Mills Cereals · $1.00 OFF when you buy TWO(2) General Mills Cereals. Valid on PACKAGES any flavor General Mills cereal or granola listed: Cheerios™, Cinnamon Toast Crunch™, Lucky Charms™, Reese’s Puffs, Chex™, Cocoa Puffs™, Trix™, Cookie Crisp™,. Items must appear on the same receipt.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-08-15",
-      "deeplink": "https://www.safeway.com/foru/coupons-deals.html",
-      "batch_clip_hint": "https://www.safeway.com/foru/coupons-deals.html",
-      "hints": {
-        "brands": [
-          "general mills"
-        ],
-        "category": "cereal",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "general",
-          "mills",
-          "cereals"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "general_mills_c2a3d8fb"
     },
     {
       "offer_id": "safeway:2026w27:fb3fb616",
