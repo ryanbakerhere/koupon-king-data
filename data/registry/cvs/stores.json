@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "chain_id": "cvs",
+  "display_name": "CVS Pharmacy",
+  "stores": [
+    {
+      "store_id": "cvs-9960",
+      "display_name": "CVS — Capitola (809 Bay Ave)",
+      "lat": 36.98035,
+      "lng": -121.95659,
+      "geofence_radius_m": 600
+    }
+  ]
+}
