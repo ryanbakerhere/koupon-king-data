@@ -1,11 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T20:55:22Z",
+  "generated_at": "2026-07-05T21:04:22Z",
   "chains": [
     {
       "chain_id": "cvs",
       "display_name": "CVS Pharmacy",
       "stores": [
+        {
+          "store_id": "cvs-9862",
+          "display_name": "CVS — Scotts Valley (257 Mt Hermon Rd)",
+          "lat": 37.0477,
+          "lng": -122.0309,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9862.json",
+          "snapshot_version": "2026-07-05",
+          "snapshot_bytes_gz": 12310
+        },
         {
           "store_id": "cvs-9960",
           "display_name": "CVS — Capitola (809 Bay Ave)",
