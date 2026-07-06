@@ -64,8 +64,13 @@ all JSON published to the CDN is gzip-served with ETags.
       //          baseline_price (below) or a neutral low tier.
       "valid_from": "2026-06-29",
       "valid_to": "2026-07-05",
-      "deeplink": "https://<retailer offer URL>",   // clip/external only; null otherwise
-      "batch_clip_hint": null,                       // optional list-view clip URL
+      "deeplink": "https://<retailer offer URL>",   // PER-OFFER door only (clip/external); null
+      //          when the chain exposes no per-offer URL (2026-07-06 amendment: a LANDING
+      //          never rides here — clients say "Clip now" for a deeplink, and a landing
+      //          wearing that promise is the lie outlawed in Designer #19; routed offers
+      //          need deeplink OR batch_clip_hint)
+      "batch_clip_hint": null,                       // landing/list-view clip URL — the door
+      //          when deeplink is null (e.g. Safeway's coupon gallery)
       "hints": {                                     // matcher inputs — REQUIRED
         "brands": ["general mills"],
         "category": "cereal",

@@ -134,9 +134,19 @@ function validateOffer(offer, chainId, index, errors) {
     errors.push(`${path}: valid_from is after valid_to`);
   }
 
-  const needsDeeplink = offer.route === 'clip' || offer.route === 'external';
-  if (needsDeeplink) {
-    if (!isHttpsUrl(offer.deeplink)) errors.push(`${path}.deeplink: https URL required for route "${offer.route}"`);
+  // A routed offer needs a DOOR of some tier: a precise per-offer deeplink or
+  // a batch_clip_hint landing. deeplink means PER-OFFER only — chains with no
+  // per-offer URL ship deeplink=null + a landing hint (2026-07-06 amendment:
+  // a landing riding in the deeplink slot made clients promise "Clip now" and
+  // deliver a deals page).
+  const routed = offer.route === 'clip' || offer.route === 'external';
+  if (routed) {
+    if (!(offer.deeplink === null || isHttpsUrl(offer.deeplink))) {
+      errors.push(`${path}.deeplink: must be null or an https URL for route "${offer.route}"`);
+    }
+    if (offer.deeplink === null && !isHttpsUrl(offer.batch_clip_hint)) {
+      errors.push(`${path}: route "${offer.route}" needs a door — a per-offer deeplink or a batch_clip_hint landing`);
+    }
   } else if (offer.deeplink !== null) {
     errors.push(`${path}.deeplink: must be null for route "${offer.route}" (SCHEMAS §2)`);
   }
