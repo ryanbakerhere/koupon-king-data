@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-06T02:18:41Z",
+  "generated_at": "2026-07-06T18:05:05Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -1439,6 +1439,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:13b434e2",
+      "offer_family": "gen_32da503b",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:14039144",
       "offer_family": "gen_e8834120",
       "valid_to": "2026-07-07"
@@ -1724,6 +1729,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:66494cd1",
+      "offer_family": "gen_f0261aff",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:67fc4609",
       "offer_family": "gen_c8649fb9",
       "valid_to": "2026-07-07"
@@ -1744,6 +1754,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:6e416727",
+      "offer_family": "gen_ff0bbe39",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:7145e68d",
       "offer_family": "gen_53bd561d",
       "valid_to": "2026-07-07"
@@ -1756,6 +1771,11 @@
     {
       "offer_id": "nob_hill:2026w27:73a0f278",
       "offer_family": "gen_86bb3aaa",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:75b6de96",
+      "offer_family": "gen_666fcf98",
       "valid_to": "2026-07-07"
     },
     {
@@ -1844,6 +1864,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:8a598208",
+      "offer_family": "gen_6cc32442",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:8ae3b435",
       "offer_family": "gen_4716bece",
       "valid_to": "2026-07-07"
@@ -1916,6 +1941,11 @@
     {
       "offer_id": "nob_hill:2026w27:9acca575",
       "offer_family": "gen_fd67cc93",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:9b359107",
+      "offer_family": "gen_b4a27be6",
       "valid_to": "2026-07-07"
     },
     {
@@ -2144,6 +2174,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:ca5b20cb",
+      "offer_family": "gen_b2d9b986",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:cb554309",
       "offer_family": "gen_ecbe06f8",
       "valid_to": "2026-07-07"
@@ -2181,6 +2216,11 @@
     {
       "offer_id": "nob_hill:2026w27:d11468a9",
       "offer_family": "gen_f64a1ad6",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:d39f132d",
+      "offer_family": "gen_b03f63bc",
       "valid_to": "2026-07-07"
     },
     {
@@ -2309,6 +2349,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:edc12317",
+      "offer_family": "gen_2b76e299",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:ede8c35e",
       "offer_family": "gen_fd3a26aa",
       "valid_to": "2026-07-07"
@@ -2354,6 +2399,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "nob_hill:2026w27:fa59afdd",
+      "offer_family": "gen_dffc2d84",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "nob_hill:2026w27:faf10648",
       "offer_family": "gen_c46c0200",
       "valid_to": "2026-07-07"
@@ -2384,9 +2434,34 @@
       "valid_to": "2026-07-10"
     },
     {
+      "offer_id": "safeway:2026w22:43e58f18",
+      "offer_family": "caress_372e4752",
+      "valid_to": "2026-09-30"
+    },
+    {
+      "offer_id": "safeway:2026w22:c63181eb",
+      "offer_family": "pepcid_c77c336d",
+      "valid_to": "2026-07-10"
+    },
+    {
       "offer_id": "safeway:2026w23:8e02443e",
       "offer_family": "silk_cbd07559",
       "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w23:ed9650a7",
+      "offer_family": "silk_02bafa89",
+      "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w24:05cbb236",
+      "offer_family": "huggies_3244496b",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w24:06c3b742",
+      "offer_family": "ritz_84a48bba",
+      "valid_to": "2026-07-22"
     },
     {
       "offer_id": "safeway:2026w24:12cece8a",
@@ -2394,9 +2469,29 @@
       "valid_to": "2026-07-12"
     },
     {
+      "offer_id": "safeway:2026w24:1ce708a4",
+      "offer_family": "triscuit_034caa6d",
+      "valid_to": "2026-07-22"
+    },
+    {
       "offer_id": "safeway:2026w24:221be7de",
       "offer_family": "opti_free_de1c40b6",
       "valid_to": "2026-07-12"
+    },
+    {
+      "offer_id": "safeway:2026w24:2c252eb2",
+      "offer_family": "gatorade_97de6b61",
+      "valid_to": "2026-07-12"
+    },
+    {
+      "offer_id": "safeway:2026w24:2d362b3b",
+      "offer_family": "pepsi_cola_07e6be2d",
+      "valid_to": "2026-07-12"
+    },
+    {
+      "offer_id": "safeway:2026w24:4ab99508",
+      "offer_family": "quaker_947f7ef9",
+      "valid_to": "2026-08-14"
     },
     {
       "offer_id": "safeway:2026w24:4c7fd444",
@@ -2409,6 +2504,11 @@
       "valid_to": "2026-07-12"
     },
     {
+      "offer_id": "safeway:2026w24:82ba9937",
+      "offer_family": "dove_6f081b1a",
+      "valid_to": "2026-07-12"
+    },
+    {
       "offer_id": "safeway:2026w24:9f929a5c",
       "offer_family": "pepsi_cola_8d253747",
       "valid_to": "2026-07-12"
@@ -2417,6 +2517,16 @@
       "offer_id": "safeway:2026w24:b52cd10e",
       "offer_family": "oatly_a9abb754",
       "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "safeway:2026w24:d6cfbd0a",
+      "offer_family": "oatly_09353de8",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "safeway:2026w25:17268546",
+      "offer_family": "neutrogena_6c561842",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w25:2620d1ed",
@@ -2439,6 +2549,21 @@
       "valid_to": "2026-07-19"
     },
     {
+      "offer_id": "safeway:2026w25:679cdd26",
+      "offer_family": "luna_d87a4bb9",
+      "valid_to": "2026-07-13"
+    },
+    {
+      "offer_id": "safeway:2026w25:6dabcafd",
+      "offer_family": "alka_seltzer_c84d5ad6",
+      "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w25:733db380",
+      "offer_family": "fancy_feast_90d7e97d",
+      "valid_to": "2026-07-22"
+    },
+    {
       "offer_id": "safeway:2026w25:79fdc5f4",
       "offer_family": "cheez_it_fa6b199f",
       "valid_to": "2026-07-06"
@@ -2452,6 +2577,11 @@
       "offer_id": "safeway:2026w25:9e6b6e8f",
       "offer_family": "degree_2dc4959e",
       "valid_to": "2026-07-12"
+    },
+    {
+      "offer_id": "safeway:2026w25:a13a7843",
+      "offer_family": "fancy_feast_0d46b977",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w25:bf2fc347",
@@ -2469,9 +2599,19 @@
       "valid_to": "2026-07-22"
     },
     {
+      "offer_id": "safeway:2026w26:066a930e",
+      "offer_family": "fridababy_41753ffe",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w26:06cb68cd",
       "offer_family": "sir_kensingtons_a3c7bdff",
       "valid_to": "2026-07-16"
+    },
+    {
+      "offer_id": "safeway:2026w26:06fb34fc",
+      "offer_family": "milk_bone_3133afb6",
+      "valid_to": "2026-08-16"
     },
     {
       "offer_id": "safeway:2026w26:09d369d1",
@@ -2479,14 +2619,34 @@
       "valid_to": "2026-07-26"
     },
     {
+      "offer_id": "safeway:2026w26:10abe04e",
+      "offer_family": "got2b_8684b3d6",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w26:10add2e7",
       "offer_family": "pampers_1aa9dd9f",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:1258b58c",
+      "offer_family": "gen_e3feff8b",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:13044117",
+      "offer_family": "sarna_f2f3afd4",
       "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w26:1739c9dc",
       "offer_family": "gold_bond_165d7d38",
       "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w26:1c2f9756",
+      "offer_family": "gen_3ee48241",
+      "valid_to": "2026-07-08"
     },
     {
       "offer_id": "safeway:2026w26:1c52dd4c",
@@ -2499,9 +2659,89 @@
       "valid_to": "2026-08-05"
     },
     {
+      "offer_id": "safeway:2026w26:1d471c72",
+      "offer_family": "band_aid_bf1f6eed",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w26:1da1268b",
+      "offer_family": "gen_2d0c8381",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:20450550",
+      "offer_family": "huggies_f44d8c04",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:208bc7fb",
+      "offer_family": "got2b_781295c4",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:23fc5a0b",
+      "offer_family": "dial_6f54a7be",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:2739986b",
+      "offer_family": "dial_ac1edbba",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:2c6f2238",
+      "offer_family": "huggies_5b200ee7",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w26:39485323",
+      "offer_family": "stem_1d7da5b2",
+      "valid_to": "2026-07-15"
+    },
+    {
       "offer_id": "safeway:2026w26:3ffece5e",
       "offer_family": "sparkle_35416565",
       "valid_to": "2026-08-10"
+    },
+    {
+      "offer_id": "safeway:2026w26:43f81160",
+      "offer_family": "gen_f38650fd",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:45b7e842",
+      "offer_family": "amope_45c1b4f4",
+      "valid_to": "2026-07-22"
+    },
+    {
+      "offer_id": "safeway:2026w26:4c0fc85d",
+      "offer_family": "poise_7f7a0eb3",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:4eb313ec",
+      "offer_family": "gen_8ece223e",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:5029f1d5",
+      "offer_family": "depend_poise_5867bd1a",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w26:517b5633",
+      "offer_family": "lifesavers_63af5ed3",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:52dd7177",
+      "offer_family": "combat_b3795dde",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:53b2e7eb",
+      "offer_family": "zegerid_d1cc28b6",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w26:5c3c57b9",
@@ -2514,9 +2754,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w26:642e5622",
+      "offer_family": "citrus_magic_ac08dfba",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w26:648a57a1",
       "offer_family": "dove_ca0071aa",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w26:64d607e5",
+      "offer_family": "gen_bdad8a0d",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:676d2b3b",
+      "offer_family": "dr_teals_e5afc6d3",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w26:6866a3f4",
@@ -2524,9 +2779,44 @@
       "valid_to": "2026-07-26"
     },
     {
+      "offer_id": "safeway:2026w26:76d17d20",
+      "offer_family": "fancy_feast_097a01da",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "safeway:2026w26:7857a084",
+      "offer_family": "fabuloso_faa999ab",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:79dbb280",
+      "offer_family": "dove_4f1633d5",
+      "valid_to": "2026-07-22"
+    },
+    {
+      "offer_id": "safeway:2026w26:7b6f64e2",
+      "offer_family": "force_factor_37a93e17",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w26:7cb2babf",
       "offer_family": "depend_poise_2787a0b8",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w26:7d73b2fe",
+      "offer_family": "dulcolax_bdb25e29",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:7e4c9578",
+      "offer_family": "pampers_54f6b933",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:7ec75d15",
+      "offer_family": "huggies_1a2d6574",
+      "valid_to": "2026-07-08"
     },
     {
       "offer_id": "safeway:2026w26:7fa399cd",
@@ -2539,14 +2829,84 @@
       "valid_to": "2026-07-08"
     },
     {
+      "offer_id": "safeway:2026w26:80f73de5",
+      "offer_family": "dial_94ca3041",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:849097ee",
+      "offer_family": "dulcolax_79b50883",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:85f07b7f",
+      "offer_family": "theraworx_581541fc",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:8aa8aab1",
+      "offer_family": "red_vines_78689922",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:8c9b86a5",
+      "offer_family": "desenex_9c63cfc1",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w26:8ecf4bfb",
       "offer_family": "colgate_ac357833",
       "valid_to": "2026-07-31"
     },
     {
+      "offer_id": "safeway:2026w26:8f5147db",
+      "offer_family": "clif_57ac60b0",
+      "valid_to": "2026-08-19"
+    },
+    {
+      "offer_id": "safeway:2026w26:8ff4f35a",
+      "offer_family": "theraworx_378d0687",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:915f51e3",
+      "offer_family": "colgate_1d9dde30",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:92fcb989",
+      "offer_family": "colgate_2545b48a",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:9f59679e",
+      "offer_family": "fancy_feast_479b8c75",
+      "valid_to": "2026-07-22"
+    },
+    {
+      "offer_id": "safeway:2026w26:a0082408",
+      "offer_family": "sir_kensingtons_23f224dd",
+      "valid_to": "2026-07-16"
+    },
+    {
       "offer_id": "safeway:2026w26:a3ceb30f",
       "offer_family": "off_ce292e10",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w26:a45c23d0",
+      "offer_family": "colgate_cbacac3d",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "offer_id": "safeway:2026w26:a6a319e5",
+      "offer_family": "pampers_3dc30aee",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:a9e49ec3",
+      "offer_family": "dial_fdd477cb",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w26:b14fdf2c",
@@ -2564,9 +2924,44 @@
       "valid_to": "2026-07-10"
     },
     {
+      "offer_id": "safeway:2026w26:bc4d6f97",
+      "offer_family": "preservision_c234fa4f",
+      "valid_to": "2026-08-26"
+    },
+    {
+      "offer_id": "safeway:2026w26:c017409f",
+      "offer_family": "combat_1a543a6c",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:c0f7d4fb",
+      "offer_family": "nair_51f922d6",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:c1975651",
+      "offer_family": "scott_7b109a6b",
+      "valid_to": "2026-07-12"
+    },
+    {
       "offer_id": "safeway:2026w26:c4cbaea6",
       "offer_family": "fancy_feast_cb3ac8b9",
       "valid_to": "2026-07-22"
+    },
+    {
+      "offer_id": "safeway:2026w26:c4f880ca",
+      "offer_family": "old_spice_b2906c10",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w26:c9bbadc2",
+      "offer_family": "skittles_239aa2de",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w26:d208391a",
+      "offer_family": "dr_scholls_e42265e9",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w26:d28ca486",
@@ -2574,9 +2969,49 @@
       "valid_to": "2026-08-16"
     },
     {
+      "offer_id": "safeway:2026w26:d3a9969a",
+      "offer_family": "nerds_f2f826d2",
+      "valid_to": "2026-07-08"
+    },
+    {
       "offer_id": "safeway:2026w26:df110002",
       "offer_family": "mars_03528298",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w26:e37fd378",
+      "offer_family": "gold_bond_418d10ef",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w26:f0b5c905",
+      "offer_family": "ozium_284e8aad",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:f6744da9",
+      "offer_family": "cortizone_38c35a8f",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w26:fc9b1cf1",
+      "offer_family": "stem_704e06a7",
+      "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w26:fd566b04",
+      "offer_family": "bic_56dab63e",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w26:ff5afd76",
+      "offer_family": "stem_0c3c6a29",
+      "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w26:ffce7bbb",
+      "offer_family": "nexcare_668385e3",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w27:002b9822",
@@ -2589,8 +3024,18 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:014cb472",
+      "offer_family": "scott_3afcb038",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:01c77a0d",
       "offer_family": "gen_e9110b17",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:02692c41",
+      "offer_family": "sierra_nevada_la_c7223d7f",
       "valid_to": "2026-07-07"
     },
     {
@@ -2622,6 +3067,11 @@
       "offer_id": "safeway:2026w27:065a4f2e",
       "offer_family": "signature_select_830ddce0",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:06c19c4a",
+      "offer_family": "vicks_7dae38a1",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:071eaab7",
@@ -2704,6 +3154,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:12cb8d8d",
+      "offer_family": "blue_buffalo_750bdced",
+      "valid_to": "2026-08-15"
+    },
+    {
       "offer_id": "safeway:2026w27:12e6faa6",
       "offer_family": "sierra_nevada_la_22a730bd",
       "valid_to": "2026-07-07"
@@ -2712,6 +3167,16 @@
       "offer_id": "safeway:2026w27:1361b0c3",
       "offer_family": "red_baron_9d8841d9",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:1401aa89",
+      "offer_family": "tide_2a498521",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:15bcd997",
+      "offer_family": "cutter_d4979f5f",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w27:16bb6857",
@@ -2739,8 +3204,28 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:197fcbe7",
+      "offer_family": "red_baron_bb271ca9",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:1a320030",
       "offer_family": "echo_falls_33f4596c",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:1ac08310",
+      "offer_family": "pillsbury_e188ffef",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:1b357c2e",
+      "offer_family": "dasani_f41a44c9",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:1ca1f134",
+      "offer_family": "waterfront_bistr_67a74405",
       "valid_to": "2026-07-07"
     },
     {
@@ -2764,9 +3249,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:1e97fbdc",
+      "offer_family": "country_crock_046fa938",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "safeway:2026w27:1f98c128",
+      "offer_family": "kerasal_3511cb58",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:20387707",
       "offer_family": "gen_e875d6f8",
       "valid_to": "2026-07-31"
+    },
+    {
+      "offer_id": "safeway:2026w27:205fd012",
+      "offer_family": "welchs_00eab263",
+      "valid_to": "2026-08-09"
     },
     {
       "offer_id": "safeway:2026w27:206ff16a",
@@ -2782,6 +3282,11 @@
       "offer_id": "safeway:2026w27:22b4c167",
       "offer_family": "maille_bdfb141f",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:22bc711b",
+      "offer_family": "tidy_cats_2dfd677e",
+      "valid_to": "2026-07-30"
     },
     {
       "offer_id": "safeway:2026w27:22cdc854",
@@ -2814,9 +3319,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:275db433",
+      "offer_family": "boost_90bd6d3f",
+      "valid_to": "2026-08-02"
+    },
+    {
       "offer_id": "safeway:2026w27:28634a69",
       "offer_family": "kraft_1e7d3a9b",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:291c01a7",
+      "offer_family": "ore_ida_d8a5706c",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:292fbaad",
+      "offer_family": "dove_d51a9af7",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:29d581fd",
@@ -2834,9 +3354,24 @@
       "valid_to": "2026-07-10"
     },
     {
+      "offer_id": "safeway:2026w27:2c31bbcc",
+      "offer_family": "crest_cdd1f6df",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:2c990c71",
       "offer_family": "downy_b5b4b9e9",
       "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:2de5c212",
+      "offer_family": "charms_d208a48c",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:2e8ab7c3",
+      "offer_family": "otter_pops_3d16d132",
+      "valid_to": "2026-07-07"
     },
     {
       "offer_id": "safeway:2026w27:2f73ef02",
@@ -2849,6 +3384,16 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:31751c1c",
+      "offer_family": "tide_b561bd30",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:31853003",
+      "offer_family": "kinder_joy_e67ed767",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:3246f9d9",
       "offer_family": "resers_f8afbfe3",
       "valid_to": "2026-07-07"
@@ -2857,6 +3402,11 @@
       "offer_id": "safeway:2026w27:32f0b1b5",
       "offer_family": "taylor_farms_fre_8296d311",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:341f9e55",
+      "offer_family": "cetaphil_46a8f264",
+      "valid_to": "2026-07-22"
     },
     {
       "offer_id": "safeway:2026w27:350e2141",
@@ -2884,6 +3434,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:385038cc",
+      "offer_family": "oral_b_76327869",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:39816d29",
       "offer_family": "cutwater_2202f94b",
       "valid_to": "2026-07-07"
@@ -2897,6 +3452,11 @@
       "offer_id": "safeway:2026w27:3b7dcfd7",
       "offer_family": "gen_0786bb36",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:3c2d8709",
+      "offer_family": "glade_6c88471f",
+      "valid_to": "2026-07-22"
     },
     {
       "offer_id": "safeway:2026w27:3ce62fca",
@@ -2924,6 +3484,11 @@
       "valid_to": "2026-07-13"
     },
     {
+      "offer_id": "safeway:2026w27:40a934d7",
+      "offer_family": "mission_6e5b04df",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:40b11763",
       "offer_family": "signature_select_e791b88b",
       "valid_to": "2026-07-07"
@@ -2934,9 +3499,44 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:412e6d74",
+      "offer_family": "snickers_a07c1cd8",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w27:4135eb5f",
+      "offer_family": "gatorade_poppi_s_4d36c110",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:41474856",
       "offer_family": "crest_c9583bd6",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:414d59ec",
+      "offer_family": "hormel_5590109f",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:41765947",
+      "offer_family": "pull_ups_8cc27c90",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w27:426819c2",
+      "offer_family": "simply_coffee_ma_2f5c0516",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:43882eae",
+      "offer_family": "gain_44adfef8",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:442c0aad",
+      "offer_family": "secret_802e74ed",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:4661db93",
@@ -2949,9 +3549,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:46f8dd3b",
+      "offer_family": "gen_f715978e",
+      "valid_to": "2026-07-15"
+    },
+    {
       "offer_id": "safeway:2026w27:4715c998",
       "offer_family": "downy_a155701a",
       "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:47263456",
+      "offer_family": "gen_07b68fab",
+      "valid_to": "2026-07-07"
     },
     {
       "offer_id": "safeway:2026w27:48533b53",
@@ -2969,14 +3579,89 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:4a179fd7",
+      "offer_family": "re_fresh_63cc9e8e",
+      "valid_to": "2026-08-15"
+    },
+    {
+      "offer_id": "safeway:2026w27:4a4f6c68",
+      "offer_family": "kleenex_2201c5c7",
+      "valid_to": "2026-07-19"
+    },
+    {
+      "offer_id": "safeway:2026w27:4a93d7c0",
+      "offer_family": "hormel_e214a4e1",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:4e2db64d",
       "offer_family": "kinders_hidden_v_1c5fef80",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:4f96f612",
+      "offer_family": "pampers_df14b7b2",
+      "valid_to": "2026-07-13"
+    },
+    {
+      "offer_id": "safeway:2026w27:501b3201",
+      "offer_family": "friskies_82e57fa7",
+      "valid_to": "2026-08-12"
+    },
+    {
+      "offer_id": "safeway:2026w27:519a10b3",
+      "offer_family": "degree_72398a43",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:53202080",
+      "offer_family": "dreyers_haagen_d_02a916d1",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:54536a6c",
+      "offer_family": "kim_crawford_a5580ef3",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "offer_id": "safeway:2026w27:546c438e",
+      "offer_family": "degree_c67ebadf",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:54c57214",
       "offer_family": "jonnypops_e438eaa5",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:54e2268b",
+      "offer_family": "general_mills_be_dbe1a46f",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:55a07197",
+      "offer_family": "gain_891252bf",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:55eaa41b",
+      "offer_family": "vitaminwater_38fef1d5",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:56907f01",
+      "offer_family": "always_eab88869",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:56d97532",
+      "offer_family": "dannon_c863b4a2",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:571748af",
+      "offer_family": "general_mills_ded6c1f5",
+      "valid_to": "2026-08-15"
     },
     {
       "offer_id": "safeway:2026w27:57c08d48",
@@ -2989,9 +3674,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:59d53a90",
+      "offer_family": "9_elements_efc2cfeb",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:5a3d797b",
       "offer_family": "on_the_rocks_76e08365",
       "valid_to": "2026-07-03"
+    },
+    {
+      "offer_id": "safeway:2026w27:5a469fcf",
+      "offer_family": "secret_886fed81",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:5b63206e",
@@ -3009,6 +3704,21 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:5c90095c",
+      "offer_family": "bubly_99dea9b4",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w27:5d114645",
+      "offer_family": "fixodent_75a7e26e",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:5dd80f9b",
+      "offer_family": "ghirardelli_086a4d34",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:5f01e39f",
       "offer_family": "old_spice_8cb4e9b8",
       "valid_to": "2026-07-07"
@@ -3024,8 +3734,18 @@
       "valid_to": "2026-07-08"
     },
     {
+      "offer_id": "safeway:2026w27:6051b8a0",
+      "offer_family": "gain_3cf9c43f",
+      "valid_to": "2026-07-10"
+    },
+    {
       "offer_id": "safeway:2026w27:61540ad4",
       "offer_family": "gen_0f0e6742",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:618de392",
+      "offer_family": "kelloggs_d1822e28",
       "valid_to": "2026-07-07"
     },
     {
@@ -3039,9 +3759,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:64443f77",
+      "offer_family": "dove_358ae065",
+      "valid_to": "2026-07-19"
+    },
+    {
       "offer_id": "safeway:2026w27:6456ef21",
       "offer_family": "nature_valley_cef3d0f0",
       "valid_to": "2026-08-15"
+    },
+    {
+      "offer_id": "safeway:2026w27:646ab01f",
+      "offer_family": "gen_1668ebdf",
+      "valid_to": "2026-07-08"
     },
     {
       "offer_id": "safeway:2026w27:64a38aaf",
@@ -3057,6 +3787,16 @@
       "offer_id": "safeway:2026w27:64db5f68",
       "offer_family": "gen_067b7caf",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:65ae7c42",
+      "offer_family": "downy_31f3b156",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:66bdd497",
+      "offer_family": "zevo_a9f6c284",
+      "valid_to": "2026-07-19"
     },
     {
       "offer_id": "safeway:2026w27:66cb2dcb",
@@ -3077,6 +3817,11 @@
       "offer_id": "safeway:2026w27:6771db08",
       "offer_family": "coors_bud_miller_7dd5def7",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:689316ec",
+      "offer_family": "gain_7951877e",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:69393a0a",
@@ -3109,13 +3854,28 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:6ac72d37",
+      "offer_family": "mountain_dew_dcdbe61c",
+      "valid_to": "2026-07-08"
+    },
+    {
       "offer_id": "safeway:2026w27:6ade1f6d",
       "offer_family": "fratelli_ebc14a44",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:6ae69d7a",
+      "offer_family": "rogaine_a0ab98b0",
+      "valid_to": "2026-08-02"
+    },
+    {
       "offer_id": "safeway:2026w27:6b6275ae",
       "offer_family": "5_hour_energy_fa3ade7e",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:6c7c99fb",
+      "offer_family": "kinders_hidden_v_e3c4519e",
       "valid_to": "2026-07-07"
     },
     {
@@ -3129,9 +3889,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:6e8939cc",
+      "offer_family": "covergirl_8bf6f167",
+      "valid_to": "2026-07-19"
+    },
+    {
       "offer_id": "safeway:2026w27:6f389094",
       "offer_family": "boost_826d569f",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:713377eb",
+      "offer_family": "dreft_326cc84b",
+      "valid_to": "2026-07-23"
     },
     {
       "offer_id": "safeway:2026w27:71b6d8bf",
@@ -3159,13 +3929,28 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:75d69599",
+      "offer_family": "frito_lay_8046bc54",
+      "valid_to": "2026-07-08"
+    },
+    {
       "offer_id": "safeway:2026w27:76ee33f1",
       "offer_family": "ball_park_thomas_28f89d0b",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:775a5678",
+      "offer_family": "nexxus_96c1052c",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:7870a92a",
       "offer_family": "hatfield_46abfedd",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:795d3b2f",
+      "offer_family": "johnsonville_5318b249",
       "valid_to": "2026-07-07"
     },
     {
@@ -3209,6 +3994,26 @@
       "valid_to": "2026-08-12"
     },
     {
+      "offer_id": "safeway:2026w27:7d69b5e1",
+      "offer_family": "pringles_cheez_i_af9c1dd1",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:7d72b6b8",
+      "offer_family": "core_power_9106c1b6",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:7dbb5fe1",
+      "offer_family": "always_3e464d45",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:7e62228f",
+      "offer_family": "huggies_90a2c7e9",
+      "valid_to": "2026-08-02"
+    },
+    {
       "offer_id": "safeway:2026w27:7ebc1dfa",
       "offer_family": "gen_496eab27",
       "valid_to": "2026-07-07"
@@ -3229,8 +4034,18 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:82eaf7c8",
+      "offer_family": "gain_3b1a1167",
+      "valid_to": "2026-07-10"
+    },
+    {
       "offer_id": "safeway:2026w27:83f4e74e",
       "offer_family": "gen_92393f9c",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:8484b61e",
+      "offer_family": "gatorade_poppi_s_2c4e6382",
       "valid_to": "2026-07-07"
     },
     {
@@ -3254,9 +4069,34 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:88d71392",
+      "offer_family": "ariel_6e400233",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:899906bd",
+      "offer_family": "lamisil_9037d263",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:899b2c2d",
       "offer_family": "petit_pot_0d63767b",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:8b28acea",
+      "offer_family": "gain_45de38ba",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:8b3956a0",
+      "offer_family": "fritos_smartfood_3a4eeac8",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:8b8484bc",
+      "offer_family": "ball_a09941a8",
+      "valid_to": "2026-07-15"
     },
     {
       "offer_id": "safeway:2026w27:8bf663c8",
@@ -3284,6 +4124,16 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:913ca7d4",
+      "offer_family": "sunchips_lays_ru_feff9d17",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:91436b9a",
+      "offer_family": "gen_3e0dc27b",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:91e2c0b2",
       "offer_family": "rombauer_frank_f_c02a3274",
       "valid_to": "2026-07-07"
@@ -3294,13 +4144,48 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:92bb53aa",
+      "offer_family": "clif_efb21e33",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:937c38fd",
       "offer_family": "mccormick_5017cdb0",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:9523881a",
+      "offer_family": "always_6aea3648",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:96cbd3f1",
+      "offer_family": "amerigas_e0b6f7f6",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:9754e1e5",
       "offer_family": "new_york_style_h_f1eb4a73",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:97ba62d4",
+      "offer_family": "covergirl_f79e1ece",
+      "valid_to": "2026-07-19"
+    },
+    {
+      "offer_id": "safeway:2026w27:99f80c40",
+      "offer_family": "vicks_4f5d3bed",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:99fb4d72",
+      "offer_family": "huggies_29c8147e",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w27:9ae7dbbf",
+      "offer_family": "dial_49d09abc",
       "valid_to": "2026-07-07"
     },
     {
@@ -3314,6 +4199,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:9bbe5334",
+      "offer_family": "totinos_7d442db2",
+      "valid_to": "2026-08-15"
+    },
+    {
       "offer_id": "safeway:2026w27:9bd6a7f0",
       "offer_family": "gen_7a4233ff",
       "valid_to": "2026-07-07"
@@ -3324,14 +4214,59 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:9d07d40b",
+      "offer_family": "tide_ab33288f",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:9d1ac3cd",
+      "offer_family": "gen_d7d8871d",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:9f507e10",
+      "offer_family": "tide_c9edba19",
+      "valid_to": "2026-07-10"
+    },
+    {
       "offer_id": "safeway:2026w27:9f86f3ce",
       "offer_family": "olipop_d2a7bc20",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:a040fb61",
+      "offer_family": "shea_moisture_08cd3f09",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:a07bd6f4",
       "offer_family": "gen_569d7189",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:a19a2cb6",
+      "offer_family": "zevo_af0ab62c",
+      "valid_to": "2026-07-19"
+    },
+    {
+      "offer_id": "safeway:2026w27:a19d2cf3",
+      "offer_family": "pepto_bismol_31559ad3",
+      "valid_to": "2026-07-19"
+    },
+    {
+      "offer_id": "safeway:2026w27:a1a776e3",
+      "offer_family": "gain_68f62dd3",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:a2a051d8",
+      "offer_family": "bounce_c8234a57",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:a31fa913",
+      "offer_family": "poise_c729d9c9",
+      "valid_to": "2026-08-02"
     },
     {
       "offer_id": "safeway:2026w27:a3aa3680",
@@ -3342,6 +4277,11 @@
       "offer_id": "safeway:2026w27:a42c9ef6",
       "offer_family": "topo_chico_smirn_6c0d61ce",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:a4a4dd1e",
+      "offer_family": "tide_73a70164",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:a4da49c0",
@@ -3389,9 +4329,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:ab33435a",
+      "offer_family": "gen_0d6acb18",
+      "valid_to": "2026-07-29"
+    },
+    {
       "offer_id": "safeway:2026w27:abf735d0",
       "offer_family": "dove_axe_bb334161",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:abffe066",
+      "offer_family": "gold_peak_tea_e2655ae8",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w27:ad2db3c9",
@@ -3402,6 +4352,11 @@
       "offer_id": "safeway:2026w27:ada64ac8",
       "offer_family": "gen_6a61c739",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:aeb0d34d",
+      "offer_family": "kraft_1854153c",
+      "valid_to": "2026-07-20"
     },
     {
       "offer_id": "safeway:2026w27:aeb6c0e5",
@@ -3424,6 +4379,16 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:b240de46",
+      "offer_family": "pampers_83006a41",
+      "valid_to": "2026-07-13"
+    },
+    {
+      "offer_id": "safeway:2026w27:b244705b",
+      "offer_family": "chosen_foods_1d856bf0",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:b30ac4ee",
       "offer_family": "pillsbury_b74b3f81",
       "valid_to": "2026-07-07"
@@ -3439,6 +4404,11 @@
       "valid_to": "2026-07-03"
     },
     {
+      "offer_id": "safeway:2026w27:b47b7a72",
+      "offer_family": "betty_crocker_a95f01f4",
+      "valid_to": "2026-08-15"
+    },
+    {
       "offer_id": "safeway:2026w27:b5c39da5",
       "offer_family": "hormel_5f32db2e",
       "valid_to": "2026-07-07"
@@ -3446,6 +4416,11 @@
     {
       "offer_id": "safeway:2026w27:b61b545c",
       "offer_family": "huggies_goodnite_26957cf2",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:b6359e35",
+      "offer_family": "cottonelle_viva_e6b22088",
       "valid_to": "2026-07-07"
     },
     {
@@ -3464,6 +4439,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:b6dd8c78",
+      "offer_family": "gain_2ac0f792",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:b8557038",
       "offer_family": "igloo_235f12b7",
       "valid_to": "2026-07-07"
@@ -3477,6 +4457,11 @@
       "offer_id": "safeway:2026w27:b8edc9c4",
       "offer_family": "darigold_44b75c0c",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:b91a18f1",
+      "offer_family": "revlon_cd66af5c",
+      "valid_to": "2026-07-19"
     },
     {
       "offer_id": "safeway:2026w27:b938e29d",
@@ -3499,13 +4484,33 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:bcfa206c",
+      "offer_family": "luna_da47284d",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:be2483ea",
+      "offer_family": "fage_13a61897",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:be5f7a42",
       "offer_family": "gen_e8191189",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:bf8f8a2d",
+      "offer_family": "all_persil_571c0cdc",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:c0e6f546",
       "offer_family": "hormel_2d83b386",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:c16e781a",
+      "offer_family": "galbani_ffbfb4dd",
       "valid_to": "2026-07-07"
     },
     {
@@ -3522,6 +4527,11 @@
       "offer_id": "safeway:2026w27:c27dcb2b",
       "offer_family": "chosen_foods_65241399",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:c290ff38",
+      "offer_family": "tide_e2867bd2",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w27:c2a268cc",
@@ -3554,6 +4564,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:c897d001",
+      "offer_family": "kraft_4eea51f1",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:c90958c8",
       "offer_family": "mr_clean_a463be26",
       "valid_to": "2026-07-07"
@@ -3579,14 +4594,29 @@
       "valid_to": "2026-07-10"
     },
     {
+      "offer_id": "safeway:2026w27:cba35002",
+      "offer_family": "lacroix_58ce2e2d",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:ceba64b8",
       "offer_family": "miami_beef_442c13d6",
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:cee2a567",
+      "offer_family": "viva_680d63a4",
+      "valid_to": "2026-07-15"
+    },
+    {
       "offer_id": "safeway:2026w27:cf069c51",
       "offer_family": "oscar_mayer_10e40330",
       "valid_to": "2026-07-03"
+    },
+    {
+      "offer_id": "safeway:2026w27:d045e12d",
+      "offer_family": "friskies_c0580f24",
+      "valid_to": "2026-08-12"
     },
     {
       "offer_id": "safeway:2026w27:d11c153a",
@@ -3609,6 +4639,31 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:d3653da1",
+      "offer_family": "axe_2722e6bb",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:d47c47ad",
+      "offer_family": "philadelphia_0facc0d4",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:d4ed4900",
+      "offer_family": "hormel_8c12bef3",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:d5f52b91",
+      "offer_family": "excedrin_453ff693",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "safeway:2026w27:d63860ec",
+      "offer_family": "tide_7e3e961c",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:d6d0cbf7",
       "offer_family": "simply_coffee_ma_8803a94b",
       "valid_to": "2026-07-07"
@@ -3624,9 +4679,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:d96b82d9",
+      "offer_family": "dove_75a7562a",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:d9eca5c7",
       "offer_family": "milos_cb38ddb9",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:dbb46272",
+      "offer_family": "nature_valley_0bbed6a9",
+      "valid_to": "2026-08-15"
     },
     {
       "offer_id": "safeway:2026w27:dcd1d249",
@@ -3654,6 +4719,11 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:debac6ba",
+      "offer_family": "zevo_25e0b4d6",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:ded62eb5",
       "offer_family": "gen_fc127833",
       "valid_to": "2026-07-07"
@@ -3674,6 +4744,21 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:e0898654",
+      "offer_family": "sweet_baby_rays__fe7e0068",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:e26595f1",
+      "offer_family": "nabisco_58d76f08",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:e2da2121",
+      "offer_family": "ivory_fe23ad0b",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:e46fe6c3",
       "offer_family": "hersheys_f2a34e95",
       "valid_to": "2026-07-07"
@@ -3682,6 +4767,21 @@
       "offer_id": "safeway:2026w27:e485b2ce",
       "offer_family": "celsius_fa6b03bc",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:e499f01f",
+      "offer_family": "ball_52eaf5fe",
+      "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w27:e4e7f179",
+      "offer_family": "tide_9c9a6c9e",
+      "valid_to": "2026-07-10"
+    },
+    {
+      "offer_id": "safeway:2026w27:e54cb438",
+      "offer_family": "gen_1877580f",
+      "valid_to": "2026-07-29"
     },
     {
       "offer_id": "safeway:2026w27:e615017d",
@@ -3694,9 +4794,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:e6c70be2",
+      "offer_family": "gen_9638aebd",
+      "valid_to": "2026-07-19"
+    },
+    {
+      "offer_id": "safeway:2026w27:e6fe45d9",
+      "offer_family": "always_4dbec960",
+      "valid_to": "2026-08-09"
+    },
+    {
       "offer_id": "safeway:2026w27:e784d742",
       "offer_family": "viva_c274a254",
       "valid_to": "2026-07-15"
+    },
+    {
+      "offer_id": "safeway:2026w27:e7b9679a",
+      "offer_family": "signature_select_cc16a9df",
+      "valid_to": "2026-07-07"
     },
     {
       "offer_id": "safeway:2026w27:e80d7ded",
@@ -3724,9 +4839,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:ec56761c",
+      "offer_family": "kotex_8eaac30f",
+      "valid_to": "2026-07-19"
+    },
+    {
       "offer_id": "safeway:2026w27:ecd0d423",
       "offer_family": "powerade_bodyarm_81faf41b",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:ecd3ce07",
+      "offer_family": "downy_f5bcaca1",
+      "valid_to": "2026-07-10"
     },
     {
       "offer_id": "safeway:2026w27:ee810833",
@@ -3744,9 +4869,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:eff4ea10",
+      "offer_family": "gen_4736e164",
+      "valid_to": "2026-07-08"
+    },
+    {
+      "offer_id": "safeway:2026w27:f00912b8",
+      "offer_family": "cutwater_6d80ad8e",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:f0bd1adf",
       "offer_family": "cetaphil_1525b2da",
       "valid_to": "2026-07-22"
+    },
+    {
+      "offer_id": "safeway:2026w27:f0e51c5f",
+      "offer_family": "best_foods_db47d755",
+      "valid_to": "2026-07-07"
     },
     {
       "offer_id": "safeway:2026w27:f11da9d4",
@@ -3764,6 +4904,21 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:f475fa64",
+      "offer_family": "cutter_5691cce3",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:f47da742",
+      "offer_family": "dove_a57e221e",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:f4a54118",
+      "offer_family": "pepsi_8bc68022",
+      "valid_to": "2026-07-08"
+    },
+    {
       "offer_id": "safeway:2026w27:f5e6b25d",
       "offer_family": "gen_0780a39b",
       "valid_to": "2026-07-03"
@@ -3779,6 +4934,16 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:f669a4a5",
+      "offer_family": "ghirardelli_1c36fdc5",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "safeway:2026w27:f6f94b0c",
+      "offer_family": "zevo_97d0e5e5",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:f7402c61",
       "offer_family": "pedialyte_916e651d",
       "valid_to": "2026-07-07"
@@ -3786,6 +4951,11 @@
     {
       "offer_id": "safeway:2026w27:f8912136",
       "offer_family": "signature_care_s_f94f18c9",
+      "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:f8b19df4",
+      "offer_family": "lucerne_ef35d497",
       "valid_to": "2026-07-07"
     },
     {
@@ -3809,9 +4979,19 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:fb672b7d",
+      "offer_family": "huggies_goodnite_c5c24fbb",
+      "valid_to": "2026-07-07"
+    },
+    {
       "offer_id": "safeway:2026w27:fbec7d5e",
       "offer_family": "gen_1a527569",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:fc254042",
+      "offer_family": "olay_7afdced6",
+      "valid_to": "2026-07-19"
     },
     {
       "offer_id": "safeway:2026w27:fc52a838",
@@ -3834,9 +5014,24 @@
       "valid_to": "2026-07-07"
     },
     {
+      "offer_id": "safeway:2026w27:fe665eb0",
+      "offer_family": "shea_moisture_c4c536c5",
+      "valid_to": "2026-07-26"
+    },
+    {
       "offer_id": "safeway:2026w27:feb3cfd2",
       "offer_family": "rubbermaid_2a4d0d53",
       "valid_to": "2026-07-07"
+    },
+    {
+      "offer_id": "safeway:2026w27:fed09b68",
+      "offer_family": "crest_fe068048",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "safeway:2026w27:ff721e88",
+      "offer_family": "olly_dd3c4c91",
+      "valid_to": "2026-07-26"
     },
     {
       "offer_id": "safeway:2026w28:9803e729",
