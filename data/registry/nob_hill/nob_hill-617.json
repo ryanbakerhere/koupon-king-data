@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-617",
-  "generated_at": "2026-07-05T05:24:32Z",
+  "generated_at": "2026-07-06T04:56:10Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -349,6 +349,39 @@
       "offer_family": "gen_2cf27dbd"
     },
     {
+      "offer_id": "nob_hill:2026w27:13b434e2",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 — Hawaiian Kettle Style Potato Chips, Mission Tortilla Chips or The Good Crisp Potato Crisps",
+      "description": "Hawaiian Kettle Style Potato Chips, Mission Tortilla Chips or The Good Crisp Potato Crisps. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hawaiian",
+          "kettle",
+          "style",
+          "potato",
+          "chips",
+          "mission"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_32da503b"
+    },
+    {
       "offer_id": "nob_hill:2026w27:14039144",
       "route": "auto_apply",
       "title": "Member Price $5.99/ea — Reddi Wip Whipped Cream",
@@ -505,38 +538,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_10defc0e"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:22aefd44",
-      "route": "auto_apply",
-      "title": "Member Price $11.49/ea — Gorton’s Breaded or Battered Shrimp Fish",
-      "description": "Gorton’s Breaded or Battered Shrimp Fish. Member Price $11.49/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 11.49,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "gorton",
-          "breaded",
-          "battered",
-          "shrimp",
-          "fish"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_f778ac69"
     },
     {
       "offer_id": "nob_hill:2026w27:236b8a2c",
@@ -942,38 +943,6 @@
       "offer_family": "gen_ebef5101"
     },
     {
-      "offer_id": "nob_hill:2026w27:39693e77",
-      "route": "auto_apply",
-      "title": "Member Price $4.99/lb — Green, Black or Red Seedless Grapes",
-      "description": "Green, Black or Red Seedless Grapes. Member Price $4.99/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "green",
-          "black",
-          "red",
-          "seedless",
-          "grapes"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_98b03b68"
-    },
-    {
       "offer_id": "nob_hill:2026w27:3bb05f68",
       "route": "auto_apply",
       "title": "Member Price $1.99/ea — Simply Ades, Minute Maid Zero Sugar Juice or Gold Peak Tea",
@@ -1005,39 +974,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_482eb1c4"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:3c4034fd",
-      "route": "auto_apply",
-      "title": "Member Price $5.29/ea — Heinz Yellow Mustard or Tomato Ketchup or De Cecco Pasta",
-      "description": "Heinz Yellow Mustard or Tomato Ketchup or De Cecco Pasta. Member Price $5.29/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.29,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "heinz",
-          "yellow",
-          "mustard",
-          "tomato",
-          "ketchup",
-          "cecco"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_a60b614f"
     },
     {
       "offer_id": "nob_hill:2026w27:3c58614d",
@@ -1101,37 +1037,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_8db48bfe"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:3e79323a",
-      "route": "auto_apply",
-      "title": "Member Price $9.99/lb — Raley’s Ham or American Cheese",
-      "description": "Raley’s Ham or American Cheese. Member Price $9.99/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 9.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "ham",
-          "american",
-          "cheese"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_09b7ae34"
     },
     {
       "offer_id": "nob_hill:2026w27:41542bf9",
@@ -1382,39 +1287,6 @@
       "offer_family": "gen_5ded3b91"
     },
     {
-      "offer_id": "nob_hill:2026w27:5dd7e835",
-      "route": "auto_apply",
-      "title": "Member Price $10.99/ea — Foster Farms Corn Dogs or Gorton’s Breaded Shrimp or Fish",
-      "description": "Foster Farms Corn Dogs or Gorton’s Breaded Shrimp or Fish. Member Price $10.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 10.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "foster",
-          "farms",
-          "corn",
-          "dogs",
-          "gorton",
-          "breaded"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_2e97d2b7"
-    },
-    {
       "offer_id": "nob_hill:2026w27:5ec54238",
       "route": "auto_apply",
       "title": "Member Price $4.19/ea — Daisy Sour Cream or Florida’s Natural Lemonade",
@@ -1476,6 +1348,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_6151df70"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:66494cd1",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 — Celsius Sparkling Energy, Alani Nu Energy Drink or Poppi Prebiotic Soda",
+      "description": "Celsius Sparkling Energy, Alani Nu Energy Drink or Poppi Prebiotic Soda. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "celsius",
+          "sparkling",
+          "energy",
+          "alani",
+          "drink",
+          "poppi"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_f0261aff"
     },
     {
       "offer_id": "nob_hill:2026w27:68c92f22",
@@ -1542,13 +1447,45 @@
       "offer_family": "gen_fbe5cd2b"
     },
     {
-      "offer_id": "nob_hill:2026w27:7145e68d",
+      "offer_id": "nob_hill:2026w27:6e416727",
       "route": "auto_apply",
-      "title": "Member Price $2.79/ea — Celsius Sparkling Energy, Alani Nu Energy Drink or Poppi Prebiotic Soda",
-      "description": "Celsius Sparkling Energy, Alani Nu Energy Drink or Poppi Prebiotic Soda. Member Price $2.79/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $5.00/ea (reg. $11.49) — Gorton’s Breaded or Battered Shrimp Fish",
+      "description": "Gorton’s Breaded or Battered Shrimp Fish. Member Price $5.00/ea (reg. $11.49). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 2.79,
+        "price": 5,
+        "regular_price": 11.49
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gorton",
+          "breaded",
+          "battered",
+          "shrimp",
+          "fish"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_ff0bbe39"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:75b6de96",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 — Green, Black or Red Seedless Grapes",
+      "description": "Green, Black or Red Seedless Grapes. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
         "regular_price": null
       },
       "valid_from": "2026-07-01",
@@ -1561,18 +1498,17 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "celsius",
-          "sparkling",
-          "energy",
-          "alani",
-          "drink",
-          "poppi"
+          "green",
+          "black",
+          "red",
+          "seedless",
+          "grapes"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_53bd561d"
+      "offer_family": "gen_666fcf98"
     },
     {
       "offer_id": "nob_hill:2026w27:7902f09b",
@@ -2001,6 +1937,39 @@
       "offer_family": "gen_337f1a1b"
     },
     {
+      "offer_id": "nob_hill:2026w27:8a598208",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 (reg. $6.29) — Baskin Robbins Ice Cream or Bars or Frollies Fruity Ice Pops",
+      "description": "Baskin Robbins Ice Cream or Bars or Frollies Fruity Ice Pops. Member Price $5.00 (reg. $6.29). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": 6.29
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "baskin",
+          "robbins",
+          "ice",
+          "cream",
+          "bars",
+          "frollies"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_6cc32442"
+    },
+    {
       "offer_id": "nob_hill:2026w27:8ae3b435",
       "route": "auto_apply",
       "title": "Member Price $0.02 — Bogle",
@@ -2027,39 +1996,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_4716bece"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:8cb56e69",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/ea (reg. $4.49) — Hawaiian Kettle Style Potato Chips, Mission Tortilla Chips or The Good Crisp Potato Crisps",
-      "description": "Hawaiian Kettle Style Potato Chips, Mission Tortilla Chips or The Good Crisp Potato Crisps. Member Price $2.99/ea (reg. $4.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": 4.49
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "hawaiian",
-          "kettle",
-          "style",
-          "potato",
-          "chips",
-          "mission"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_2c35e742"
     },
     {
       "offer_id": "nob_hill:2026w27:8f997011",
@@ -2249,14 +2185,14 @@
       "offer_family": "gen_b417befa"
     },
     {
-      "offer_id": "nob_hill:2026w27:9acca575",
+      "offer_id": "nob_hill:2026w27:9b359107",
       "route": "auto_apply",
-      "title": "Member Price $1.05/ea — Baskin Robbins Ice Cream or Bars or Frollies Fruity Ice Pops",
-      "description": "Baskin Robbins Ice Cream or Bars or Frollies Fruity Ice Pops. Member Price $1.05/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $5.00/lb (reg. $9.99) — Raley’s Ham or American Cheese",
+      "description": "Raley’s Ham or American Cheese. Member Price $5.00/lb (reg. $9.99). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 1.05,
-        "regular_price": null
+        "price": 5,
+        "regular_price": 9.99
       },
       "valid_from": "2026-07-01",
       "valid_to": "2026-07-07",
@@ -2268,18 +2204,16 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "baskin",
-          "robbins",
-          "ice",
-          "cream",
-          "bars",
-          "frollies"
+          "raley",
+          "ham",
+          "american",
+          "cheese"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_fd67cc93"
+      "offer_family": "gen_b4a27be6"
     },
     {
       "offer_id": "nob_hill:2026w27:9f87b84f",
@@ -2907,39 +2841,6 @@
       "offer_family": "gen_4d33b95b"
     },
     {
-      "offer_id": "nob_hill:2026w27:bfdf4426",
-      "route": "auto_apply",
-      "title": "Member Price $1.00/ea — Nob Hill Trading Co. Ciabatta Rolls or Di Lusso Condiments",
-      "description": "Nob Hill Trading Co. Ciabatta Rolls or Di Lusso Condiments. Member Price $1.00/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "nob",
-          "hill",
-          "trading",
-          "ciabatta",
-          "rolls",
-          "lusso"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_6bc30635"
-    },
-    {
       "offer_id": "nob_hill:2026w27:c3f6851a",
       "route": "auto_apply",
       "title": "Member Price $4.79/ea — Sweet Baby Ray’s BBQ Sauce or Ball Park Franks",
@@ -3063,6 +2964,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_98401d62"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:ca5b20cb",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 (reg. $5.29) — Heinz Yellow Mustard or Tomato Ketchup or De Cecco Pasta",
+      "description": "Heinz Yellow Mustard or Tomato Ketchup or De Cecco Pasta. Member Price $5.00 (reg. $5.29). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": 5.29
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "heinz",
+          "yellow",
+          "mustard",
+          "tomato",
+          "ketchup",
+          "cecco"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_b2d9b986"
     },
     {
       "offer_id": "nob_hill:2026w27:cb554309",
@@ -3311,6 +3245,39 @@
       "offer_family": "gen_f64a1ad6"
     },
     {
+      "offer_id": "nob_hill:2026w27:d39f132d",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 — Nob Hill Trading Co. Ciabatta Rolls or Di Lusso Condiments",
+      "description": "Nob Hill Trading Co. Ciabatta Rolls or Di Lusso Condiments. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nob",
+          "hill",
+          "trading",
+          "ciabatta",
+          "rolls",
+          "lusso"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_b03f63bc"
+    },
+    {
       "offer_id": "nob_hill:2026w27:d503c0d1",
       "route": "auto_apply",
       "title": "Member Price $0.02 — La Vieille Ferme or Apothic",
@@ -3554,39 +3521,6 @@
       "offer_family": "gen_1eb741fb"
     },
     {
-      "offer_id": "nob_hill:2026w27:e2cd7962",
-      "route": "auto_apply",
-      "title": "Member Price $2.98/ea — Raley’s Cheese Cup or Nob Hill Trading Co. Fresh Pasta",
-      "description": "Raley’s Cheese Cup or Nob Hill Trading Co. Fresh Pasta. Member Price $2.98/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.98,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "cheese",
-          "cup",
-          "nob",
-          "hill",
-          "trading"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_64e9943a"
-    },
-    {
       "offer_id": "nob_hill:2026w27:e367c063",
       "route": "auto_apply",
       "title": "Member Price $3.49/ea — Kraft Slow-Simmered Barbecue Sauce or Heinz Yellow Mustard",
@@ -3711,6 +3645,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_93c91257"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:edc12317",
+      "route": "auto_apply",
+      "title": "Member Price $5.00 — Raley’s Cheese Cup or Nob Hill Trading Co. Fresh Pasta",
+      "description": "Raley’s Cheese Cup or Nob Hill Trading Co. Fresh Pasta. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "cheese",
+          "cup",
+          "nob",
+          "hill",
+          "trading"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_2b76e299"
     },
     {
       "offer_id": "nob_hill:2026w27:ee584741",
@@ -3903,6 +3870,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_6e73adcf"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:fa59afdd",
+      "route": "auto_apply",
+      "title": "Member Price $5.00/ea (reg. $10.99) — Foster Farms Corn Dogs or Gorton’s Breaded Shrimp or Fish",
+      "description": "Foster Farms Corn Dogs or Gorton’s Breaded Shrimp or Fish. Member Price $5.00/ea (reg. $10.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5,
+        "regular_price": 10.99
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "foster",
+          "farms",
+          "corn",
+          "dogs",
+          "gorton",
+          "breaded"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_dffc2d84"
     },
     {
       "offer_id": "nob_hill:2026w27:faf10648",
