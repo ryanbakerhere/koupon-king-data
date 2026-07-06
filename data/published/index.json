@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-06T00:17:53Z",
+  "generated_at": "2026-07-06T02:18:41Z",
   "chains": [
     {
       "chain_id": "cvs",
@@ -14,7 +14,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-3039.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12310
+          "snapshot_bytes_gz": 30239
         },
         {
           "store_id": "cvs-3952",
@@ -24,7 +24,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-3952.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9331",
@@ -34,7 +34,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9331.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9332",
@@ -44,7 +44,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9332.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9597",
@@ -54,7 +54,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9597.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9796",
@@ -64,7 +64,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9796.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9853",
@@ -74,7 +74,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9853.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9862",
@@ -84,7 +84,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9862.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         },
         {
           "store_id": "cvs-9960",
@@ -94,7 +94,7 @@
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9960.json",
           "snapshot_version": "2026-07-06",
-          "snapshot_bytes_gz": 12311
+          "snapshot_bytes_gz": 30240
         }
       ]
     },

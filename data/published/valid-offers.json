@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T20:55:22Z",
+  "generated_at": "2026-07-06T02:18:41Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -597,6 +597,766 @@
       "offer_id": "cvs:2026w27:fcb8d5b8",
       "offer_family": "cvs_794f9fa6",
       "valid_to": "2026-07-12"
+    },
+    {
+      "offer_id": "cvs:2026w28:0262c96f",
+      "offer_family": "milk_bone_38afeaf4",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "offer_id": "cvs:2026w28:04a9a826",
+      "offer_family": "dulcolax_d1ac1d94",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:05af4e54",
+      "offer_family": "gatorade_gatorly_2c28f207",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:062b9f35",
+      "offer_family": "almay_29096fd0",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:07519cda",
+      "offer_family": "durex_dd3c2da5",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:078c423e",
+      "offer_family": "degree_deodorant_66d8f017",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:093b74d0",
+      "offer_family": "pull_ups_19b648a1",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:0d39f037",
+      "offer_family": "natures_bounty_9e5f57df",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:0e44cad0",
+      "offer_family": "sour_punch_bites_b5503f62",
+      "valid_to": "2026-08-15"
+    },
+    {
+      "offer_id": "cvs:2026w28:0f32b81d",
+      "offer_family": "gain_flings_laun_fb49b563",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:0f79842a",
+      "offer_family": "old_spice_cleans_f61a105e",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:10d94d05",
+      "offer_family": "garnier_fructis_3fb41ddf",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:11b1b421",
+      "offer_family": "rogaine_a3070747",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:12aa0fd2",
+      "offer_family": "welchs_fruit_sna_b0cdef0f",
+      "valid_to": "2026-08-23"
+    },
+    {
+      "offer_id": "cvs:2026w28:1321fd01",
+      "offer_family": "huggies_wipes_8e1f426c",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:14935597",
+      "offer_family": "crest_ultra_prem_ee02fff8",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:1550b213",
+      "offer_family": "nivea_shower_pro_adc46a45",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:17a349b0",
+      "offer_family": "fixodent_denture_93a298ef",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:1fa27188",
+      "offer_family": "excedrin_a7196d2d",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:20e05b1e",
+      "offer_family": "crest_scope_mout_d3784ccf",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:22871708",
+      "offer_family": "native_deodorant_e094dd7a",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:23b98f28",
+      "offer_family": "laundry_detergen_cae62ef1",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:23cd446a",
+      "offer_family": "loreal_paris_cos_7388cc1f",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:2541928a",
+      "offer_family": "charmin_toilet_t_04b3c6fe",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ad8667",
+      "offer_family": "tylenol_precise_c51820ce",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ff0052",
+      "offer_family": "neutrogena_sun_7a9d31cb",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ffd220",
+      "offer_family": "differin_e9909539",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "cvs:2026w28:2935826e",
+      "offer_family": "nivea_89492f1d",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:2a396291",
+      "offer_family": "mylanta_d187edc5",
+      "valid_to": "2026-08-24"
+    },
+    {
+      "offer_id": "cvs:2026w28:2ce70d5d",
+      "offer_family": "tide_laundry_det_2f51dc3c",
+      "valid_to": "2026-08-06"
+    },
+    {
+      "offer_id": "cvs:2026w28:3192e1ab",
+      "offer_family": "clairol_c440ef8b",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:32393cbe",
+      "offer_family": "dove_deodorant_6b45dd23",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:32a06717",
+      "offer_family": "gold_bond_ad849053",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:37033740",
+      "offer_family": "oral_b_manual_ad_3b3e7eb7",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:3718757e",
+      "offer_family": "adult_tylenol_08debeed",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:3961a307",
+      "offer_family": "sheamoisture_309999e9",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:3c7317e3",
+      "offer_family": "charmin_essentia_3679f7c6",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:3edfe587",
+      "offer_family": "olay_body_wash_t_ef27b0ce",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:3ff956bb",
+      "offer_family": "aleve_87b88612",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:3ffac08d",
+      "offer_family": "head_shoulders_s_66cd89b2",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:4333daed",
+      "offer_family": "venus_cartridges_f5ae8ce9",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:438b865d",
+      "offer_family": "old_spice_whole__8ca79846",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:44cd0863",
+      "offer_family": "always_a9e85dae",
+      "valid_to": "2026-08-23"
+    },
+    {
+      "offer_id": "cvs:2026w28:44f69c23",
+      "offer_family": "scott_a94ae114",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:451553c1",
+      "offer_family": "degree_deodorant_b5747076",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:481b9c8c",
+      "offer_family": "refresh_1dde48e4",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:493fb701",
+      "offer_family": "huggies_diapers_978dc7b1",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:4b18a9e1",
+      "offer_family": "revlon_color_cos_2cb714f1",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:4b8a2da3",
+      "offer_family": "glade_9d63df9d",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "cvs:2026w28:4c6c3f80",
+      "offer_family": "secret_body_crea_4584a0fb",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:4cbcbe4d",
+      "offer_family": "band_aid_f766bfa6",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:4d231fda",
+      "offer_family": "gain_fabric_enha_651c8fb7",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:4d696b95",
+      "offer_family": "dove_222fa340",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:504b416d",
+      "offer_family": "cremo_429eb4e7",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:50600702",
+      "offer_family": "old_spice_cleans_be230cb3",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:53dc598e",
+      "offer_family": "covergirl_8985040f",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:53e0f5d5",
+      "offer_family": "downy_fabric_enh_5e7d0fd8",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:566eff51",
+      "offer_family": "olay_body_wash_b8715cc7",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:57554b1f",
+      "offer_family": "dove_men_care_de_5387cf77",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:57c1466b",
+      "offer_family": "charmin_toilet_t_32cd1d27",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:57f19a55",
+      "offer_family": "ivory_body_wash_b808692c",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:5abb4e0c",
+      "offer_family": "head_shoulders_h_a201b738",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:5cb13baa",
+      "offer_family": "gain_fabric_enha_8b1ffa13",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:6051a394",
+      "offer_family": "secret_fresh_col_cce7efc8",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:6254d7a1",
+      "offer_family": "downy_fabric_enh_8c7339ce",
+      "valid_to": "2026-08-06"
+    },
+    {
+      "offer_id": "cvs:2026w28:62c81bf2",
+      "offer_family": "painquil_liquid_f5d830e1",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:67d37dea",
+      "offer_family": "pepcid_da16c2db",
+      "valid_to": "2026-07-24"
+    },
+    {
+      "offer_id": "cvs:2026w28:681bc0b9",
+      "offer_family": "head_shoulders_h_a7658487",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:68bef138",
+      "offer_family": "aveeno_2b663af7",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:6af82ed7",
+      "offer_family": "friskies_22f34679",
+      "valid_to": "2026-08-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:6b1143b3",
+      "offer_family": "venus_intimate_s_c532449e",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:6d135708",
+      "offer_family": "axe_deodorant_ab7248c1",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:6e13d516",
+      "offer_family": "sheamoisture_fce7f3dc",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:6ead24cf",
+      "offer_family": "kotex_6521359a",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:6eb80fc1",
+      "offer_family": "sheamoisture_hai_3dc604c8",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:786331da",
+      "offer_family": "coppertone_866c31d5",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:7b0880d6",
+      "offer_family": "alka_seltzer_ori_89f142bc",
+      "valid_to": "2026-07-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:7b563e7e",
+      "offer_family": "non_drowsy_clari_bfc9a8eb",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:7ba194cd",
+      "offer_family": "vapofreeze_spray_551e4952",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:7ce8a5ee",
+      "offer_family": "mielle_hair_care_5be4cd92",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:7dbbcbcf",
+      "offer_family": "dove_hair_c31fab5e",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:81e8bef0",
+      "offer_family": "general_mills_fr_4bffb257",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:8311eaf8",
+      "offer_family": "non_drowsy_clari_fbb3dc24",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:83a8fc76",
+      "offer_family": "general_mills_sn_da35468c",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:843231cb",
+      "offer_family": "bounty_paper_tow_711ea250",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:84820b25",
+      "offer_family": "shea_moisture_ee7e8021",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:8767eb9f",
+      "offer_family": "pepsi_cola_bever_6fc9ad90",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:88d4c8e2",
+      "offer_family": "always_discreet__70829740",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:8e18900b",
+      "offer_family": "downy_fabric_enh_044a1d93",
+      "valid_to": "2026-08-06"
+    },
+    {
+      "offer_id": "cvs:2026w28:9374bc0d",
+      "offer_family": "pantene_hair_car_7744d054",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:94621072",
+      "offer_family": "tide_pods_c54877f3",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:9614e135",
+      "offer_family": "oral_b_power_bru_520ce6de",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:971a0694",
+      "offer_family": "bounty_paper_tow_05366d3b",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:9acccb38",
+      "offer_family": "gain_flings_laun_c1dbb802",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:9b758d63",
+      "offer_family": "gain_laundry_det_c4a003a6",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:9e44cde1",
+      "offer_family": "resolve_a523d1f0",
+      "valid_to": "2026-08-23"
+    },
+    {
+      "offer_id": "cvs:2026w28:9ecc153d",
+      "offer_family": "gain_flings_laun_98dbf50f",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:a19e9cb3",
+      "offer_family": "old_spice_spray_6eb99711",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:a1d7f75c",
+      "offer_family": "always_tampax_me_aee852c3",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:a1dd2397",
+      "offer_family": "waterwipes_06b6e79b",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "cvs:2026w28:a39d1ab9",
+      "offer_family": "dawn_hand_dish_c_5ef9b395",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:a69d2740",
+      "offer_family": "painquil_liquid_0c702f23",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:b01e2c56",
+      "offer_family": "cortizone_10_2260afb2",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:b18a3508",
+      "offer_family": "sheamoisture_333b89dd",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:b352fc39",
+      "offer_family": "crest_whitestrip_bd10b7a3",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:b44b6541",
+      "offer_family": "non_drowsy_clari_df9ceec1",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:ba0a2088",
+      "offer_family": "colgate_toothpas_be22057f",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:bab7e9aa",
+      "offer_family": "k_y_a0d7d67c",
+      "valid_to": "2026-08-23"
+    },
+    {
+      "offer_id": "cvs:2026w28:bd310626",
+      "offer_family": "cetaphil_9d6bf34a",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "cvs:2026w28:be7ad493",
+      "offer_family": "dove_dove_men_ca_30dc07b8",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:c1f28e80",
+      "offer_family": "non_drowsy_child_b923d019",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:c3b2c0b6",
+      "offer_family": "ibgard_fdgard_14d15e65",
+      "valid_to": "2026-08-17"
+    },
+    {
+      "offer_id": "cvs:2026w28:c50975ff",
+      "offer_family": "maybelline_new_y_1caaf504",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:c5e45e14",
+      "offer_family": "aussie_hair_care_b5010310",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:c7b2bff6",
+      "offer_family": "always_discreet__ded3f2df",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:c8f773bd",
+      "offer_family": "gillette_razor_c_ff89a7e1",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:d386d6ba",
+      "offer_family": "covergirl_328bc64b",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:d39ff78a",
+      "offer_family": "gillette_clinica_c5cdace1",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:d4c758a5",
+      "offer_family": "blue_buffalo_590fac01",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:d681d968",
+      "offer_family": "angel_soft_82fdceb8",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:d7105a36",
+      "offer_family": "olay_body_wash_484ff13a",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:d7fb938d",
+      "offer_family": "poise_or_depend_e2cb3970",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:d9192e70",
+      "offer_family": "gillette_series__00b6be8b",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:d939c023",
+      "offer_family": "kleenex_24b6af2b",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:da76c5fa",
+      "offer_family": "fancy_feast_gems_f3b08019",
+      "valid_to": "2026-08-12"
+    },
+    {
+      "offer_id": "cvs:2026w28:dc7cc1b0",
+      "offer_family": "stem_9ac775a2",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "cvs:2026w28:dd4eb2e0",
+      "offer_family": "nexxus_b36bd11c",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:ddda8cc9",
+      "offer_family": "fancy_feast_f49b7ab6",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "offer_id": "cvs:2026w28:df7640ef",
+      "offer_family": "essie_179ca4e0",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:dfab3fdd",
+      "offer_family": "dove_dove_men_ca_28113911",
+      "valid_to": "2026-07-26"
+    },
+    {
+      "offer_id": "cvs:2026w28:e117dc5c",
+      "offer_family": "crest_adult_toot_588bb98c",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:e45a44d5",
+      "offer_family": "general_mills_ce_c5bfbdf7",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "offer_id": "cvs:2026w28:e5008c70",
+      "offer_family": "boost_3f02ad22",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:e58634dd",
+      "offer_family": "crest_adult_toot_ef8d75be",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:e6e53bbb",
+      "offer_family": "tide_pods_753add66",
+      "valid_to": "2026-08-06"
+    },
+    {
+      "offer_id": "cvs:2026w28:e72d40f8",
+      "offer_family": "head_shoulders_h_e5c5c046",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:e791be9e",
+      "offer_family": "old_spice_deodor_a056b2df",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:e8d4f4b4",
+      "offer_family": "febreze_air_care_5022122c",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:e93282c8",
+      "offer_family": "axe_deodorant_368aab2a",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:e982e21a",
+      "offer_family": "colgate_toothpas_86c72529",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:ea50337b",
+      "offer_family": "hellmanns_or_bes_7d032b1e",
+      "valid_to": "2026-07-30"
+    },
+    {
+      "offer_id": "cvs:2026w28:eb08b371",
+      "offer_family": "secret_clinical__cba6587e",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:eb15aadf",
+      "offer_family": "swiffer_quick_cl_65f79ea8",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:ee49a017",
+      "offer_family": "cantu_16c269d4",
+      "valid_to": "2026-08-16"
+    },
+    {
+      "offer_id": "cvs:2026w28:f1355be8",
+      "offer_family": "oral_b_glide_flo_12709e62",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:f17f329a",
+      "offer_family": "aleve_or_alevex_7a406c3b",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:f454dcab",
+      "offer_family": "colgate_products_2678e658",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:f7ce33ad",
+      "offer_family": "olly_e9b2f1a1",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:f824d375",
+      "offer_family": "old_spice_deodor_43955d2f",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:f8476f64",
+      "offer_family": "dove_men_care_eac704bd",
+      "valid_to": "2026-08-09"
+    },
+    {
+      "offer_id": "cvs:2026w28:f8817bae",
+      "offer_family": "downy_fabric_enh_2ff97501",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "offer_id": "cvs:2026w28:fd862178",
+      "offer_family": "gain_laundry_det_ff1f16a1",
+      "valid_to": "2026-08-02"
     },
     {
       "offer_id": "nob_hill:2026w27:00173d85",
