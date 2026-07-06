@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "cvs",
   "store_id": "cvs-9853",
-  "generated_at": "2026-07-06T00:17:14Z",
+  "generated_at": "2026-07-06T02:18:01Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -3952,6 +3952,5300 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "cvs_794f9fa6"
+    },
+    {
+      "offer_id": "cvs:2026w28:0262c96f",
+      "route": "clip",
+      "title": "$0.75 off — Milk-Bone®",
+      "description": "on ONE (1) Milk-Bone® Biscuits dog treats · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 0.75,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-30",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018817",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "milk-bone"
+        ],
+        "category": "pet",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "milk",
+          "bone",
+          "one",
+          "biscuits",
+          "dog",
+          "treats"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "milk_bone_38afeaf4"
+    },
+    {
+      "offer_id": "cvs:2026w28:04a9a826",
+      "route": "clip",
+      "title": "$8.00 off — Dulcolax®",
+      "description": "any ONE (1) Dulcolax 50ct or larger Product · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 8,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1030324",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dulcolax"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dulcolax",
+          "any",
+          "one",
+          "larger",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dulcolax_d1ac1d94"
+    },
+    {
+      "offer_id": "cvs:2026w28:05af4e54",
+      "route": "clip",
+      "title": "$1.00 off — Gatorade®, Gatorlyte®, Propel®, or Gatorade Water",
+      "description": "WHEN YOU BUY TWO (2) SINGLE SERVE 28oz GATORADE®, 20oz GATORLYTE®, 20oz PROPEL®, or 1L GATORADE WATER · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_980204",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gatorade, gatorlyte, propel, or gatorade water"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gatorade",
+          "gatorlyte",
+          "propel",
+          "water",
+          "when",
+          "you"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gatorade_gatorly_2c28f207"
+    },
+    {
+      "offer_id": "cvs:2026w28:062b9f35",
+      "route": "clip",
+      "title": "$5.00 off — ALMAY",
+      "description": "on ANY TWO (2) ALMAY Products · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1025603",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "almay"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "almay",
+          "any",
+          "two",
+          "products"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "almay_29096fd0"
+    },
+    {
+      "offer_id": "cvs:2026w28:07519cda",
+      "route": "clip",
+      "title": "$7.00 off — DUREX®",
+      "description": "on any ONE (1) DUREX® Product, 24ct or larger · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_995301",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "durex"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "durex",
+          "any",
+          "one",
+          "product",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "durex_dd3c2da5"
+    },
+    {
+      "offer_id": "cvs:2026w28:078c423e",
+      "route": "clip",
+      "title": "$3.00 off — Degree Deodorant",
+      "description": "on any TWO (2) Degree Body Heat Activated or Ultraclear Antiperspirant Stick or Dry Spray (excludes Degree Clinical Protection , Whole Body, twin packs, 0.5oz, 1.0oz sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1003938",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "degree deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "degree",
+          "deodorant",
+          "any",
+          "two",
+          "body",
+          "heat"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "degree_deodorant_66d8f017"
+    },
+    {
+      "offer_id": "cvs:2026w28:093b74d0",
+      "route": "clip",
+      "title": "$3.00 off — Pull-Ups®",
+      "description": "off TWO (2) packages of Pull-Ups® Training Pants, Night*Time™, or Pull-Ups® Skin Essentials® (13 ct. or higher. Not valid on Trial Packs) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010617",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "pull-ups"
+        ],
+        "category": "baby and child",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pull",
+          "ups",
+          "off",
+          "two",
+          "packages",
+          "training"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pull_ups_19b648a1"
+    },
+    {
+      "offer_id": "cvs:2026w28:0d39f037",
+      "route": "clip",
+      "title": "$5.00 off — Nature's Bounty®",
+      "description": "on any TWO (2) Nature's Bounty® Supplement · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1003556",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nature's bounty"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nature",
+          "bounty",
+          "any",
+          "two",
+          "supplement"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "natures_bounty_9e5f57df"
+    },
+    {
+      "offer_id": "cvs:2026w28:0e44cad0",
+      "route": "clip",
+      "title": "$1.00 off — Sour Punch Bites",
+      "description": "on ONE (1) SOUR PUNCH BITES 9 Oz Bag · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-15",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_993247",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sour punch bites"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sour",
+          "punch",
+          "bites",
+          "one",
+          "bag"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sour_punch_bites_b5503f62"
+    },
+    {
+      "offer_id": "cvs:2026w28:0f32b81d",
+      "route": "clip",
+      "title": "$3.00 off — Gain Flings Laundry Detergent",
+      "description": "ONE Gain Flings Laundry Detergent 60 ct (excludes Gain Liquid/Powder Laundry Detergent, Gain Liquid Fabric Softeners, Gain Fireworks, Gain Sheets, Gain Flings 9 ct and below and travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008293",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain flings laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "flings",
+          "laundry",
+          "detergent",
+          "one",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_flings_laun_fb49b563"
+    },
+    {
+      "offer_id": "cvs:2026w28:0f79842a",
+      "route": "clip",
+      "title": "$7.00 off — Old Spice Cleansing",
+      "description": "TWO Old Spice Gentleman's Super Hydration Body Wash (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005828",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice cleansing"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "cleansing",
+          "two",
+          "gentleman",
+          "super"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_cleans_f61a105e"
+    },
+    {
+      "offer_id": "cvs:2026w28:10d94d05",
+      "route": "clip",
+      "title": "$3.00 off — Garnier® Fructis®",
+      "description": "ANY TWO (2) Garnier® Fructis® hair care products (excludes: 3oz trial & travel sizes, 40oz sizes, twin & value packs, Hair Filler) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008309",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "garnier fructis"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "garnier",
+          "fructis",
+          "any",
+          "two",
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "garnier_fructis_3fb41ddf"
+    },
+    {
+      "offer_id": "cvs:2026w28:11b1b421",
+      "route": "clip",
+      "title": "$5.00 off — ROGAINE®",
+      "description": "on any ONE (1) Women’s or Men’s ROGAINE® with Minoxidil Hair Regrowth Product or 8.4oz Shampoo + Conditioner (excludes 4 count) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015199",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "rogaine"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "rogaine",
+          "any",
+          "one",
+          "women",
+          "men",
+          "minoxidil"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "rogaine_a3070747"
+    },
+    {
+      "offer_id": "cvs:2026w28:12aa0fd2",
+      "route": "clip",
+      "title": "$1.00 off — Welch's® Fruit Snacks",
+      "description": "On any TWO (2) Welch’s® Fruit Snacks, Welch’s® Fruit ‘n Yogurt™ Snacks, Welch’s® Juicefuls®, Welch’s® Juicefuls® Fusions™ or Welch’s® Absolute Fruitfuls™ (8oz or larger bag or 6ct or larger box) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-23",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013196",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "welch's fruit snacks"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "welch",
+          "fruit",
+          "snacks",
+          "any",
+          "two",
+          "yogurt"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "welchs_fruit_sna_b0cdef0f"
+    },
+    {
+      "offer_id": "cvs:2026w28:1321fd01",
+      "route": "clip",
+      "title": "$0.50 off — Huggies® Wipes",
+      "description": "off TWO (2) packages of Huggies® Baby Wipes, Natural Care®, Simply Clean®, Skin Essentials™, Extra Large, Calm or Nourish&nbsp;(valid on 42ct. to 168 ct. and 24ct Natural Care® Extra Sensitive Wipes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 0.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010615",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "huggies wipes"
+        ],
+        "category": "baby and child",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "huggies",
+          "wipes",
+          "off",
+          "two",
+          "packages",
+          "baby"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "huggies_wipes_8e1f426c"
+    },
+    {
+      "offer_id": "cvs:2026w28:14935597",
+      "route": "clip",
+      "title": "$5.00 off — Crest Ultra Premium Paste",
+      "description": "TWO Crest 3DWhite Brilliance, 3DWhite Whitening Therapy Charcoal, Crest Gum Detoxify, Crest Clean Breath, Gum & Whitening, Gum & Enamel Restore, Gum & Sensitive, Gum Recession 3.0 oz or larger (excludes all other variants, kids, a · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005832",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest ultra premium paste"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "ultra",
+          "premium",
+          "paste",
+          "two",
+          "brilliance"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "crest_ultra_prem_ee02fff8"
+    },
+    {
+      "offer_id": "cvs:2026w28:1550b213",
+      "route": "clip",
+      "title": "$2.00 off — NIVEA® Shower Product",
+      "description": "on any* ONE (1) NIVEA® Shower Product *Excludes trial and travel sizes · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015206",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nivea shower product"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nivea",
+          "shower",
+          "product",
+          "any",
+          "one",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "nivea_shower_pro_adc46a45"
+    },
+    {
+      "offer_id": "cvs:2026w28:17a349b0",
+      "route": "clip",
+      "title": "$2.00 off — Fixodent Denture Adhesive",
+      "description": "TWO FIXODENT ADHESIVE SINGLE, OR TWIN/TRIPLE PACK 1.4 oz or larger (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005827",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "fixodent denture adhesive"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fixodent",
+          "denture",
+          "adhesive",
+          "two",
+          "single",
+          "twin"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "fixodent_denture_93a298ef"
+    },
+    {
+      "offer_id": "cvs:2026w28:1fa27188",
+      "route": "clip",
+      "title": "$1.50 off — EXCEDRIN",
+      "description": "on any ONE (1) Excedrin 20ct or larger · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_997880",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "excedrin"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "excedrin",
+          "any",
+          "one",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "excedrin_a7196d2d"
+    },
+    {
+      "offer_id": "cvs:2026w28:20e05b1e",
+      "route": "clip",
+      "title": "$1.00 off — Crest-Scope Mouthwash",
+      "description": "ONE Crest OR Scope Mouthwash 473mL (16 oz) or larger (excludes 3DWhite, Pro-Health Extra Whitening, Gum Detoxify, Gum Restore, Clinical Deep Clean, All Day Clean Breath or Nightly Bacteria Shield or larger or trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005859",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest-scope mouthwash"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "scope",
+          "mouthwash",
+          "one",
+          "larger",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "crest_scope_mout_d3784ccf"
+    },
+    {
+      "offer_id": "cvs:2026w28:22871708",
+      "route": "clip",
+      "title": "$3.00 off — Native Deodorant",
+      "description": "TWO Native Products (excludes Deodorant Spray, Liquid Hand Soap, Grooming, Toothpaste, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005846",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "native deodorant"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "native",
+          "deodorant",
+          "two",
+          "products",
+          "excludes",
+          "spray"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "native_deodorant_e094dd7a"
+    },
+    {
+      "offer_id": "cvs:2026w28:23b98f28",
+      "route": "clip",
+      "title": "$2.00 off — Laundry Detergents",
+      "description": "ONE Tide EVO Laundry Detergent 16 ct (excludes trial and travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015229",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "laundry detergents"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "laundry",
+          "detergents",
+          "one",
+          "tide",
+          "evo",
+          "detergent"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "laundry_detergen_cae62ef1"
+    },
+    {
+      "offer_id": "cvs:2026w28:23cd446a",
+      "route": "clip",
+      "title": "$3.00 off — L’Oréal Paris® Cosmetics",
+      "description": "ANY ONE (1) L’Oréal Paris® Cosmetics Product · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015275",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "l’oréal paris cosmetics"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "paris",
+          "cosmetics",
+          "any",
+          "one",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "loreal_paris_cos_7388cc1f"
+    },
+    {
+      "offer_id": "cvs:2026w28:2541928a",
+      "route": "clip",
+      "title": "$1.00 off — Charmin Toilet Tissue",
+      "description": "ONE Charmin Ultra Toilet paper product 4 roll count or larger (excluding 9 MEGA Roll, 12 MEGA, 6 MEGA XL Roll, 8 MEGA XL Roll, 9 MEGA XL Roll, 12 MEGA XL,16 MEGA XL Roll,18 MEGA XL, 24 MEGA XL Roll, 6 MEGA XXL Roll, 9MEGA XXL Roll · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005852",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "charmin toilet tissue"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "charmin",
+          "toilet",
+          "tissue",
+          "one",
+          "ultra",
+          "paper"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "charmin_toilet_t_04b3c6fe"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ad8667",
+      "route": "clip",
+      "title": "$3.50 off — TYLENOL PRECISE®",
+      "description": "on any ONE (1) TYLENOL® PRECISE ® Pain Relieving Patches or Cream products (Excludes travel & trial sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020638",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tylenol precise"
+        ],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tylenol",
+          "precise",
+          "any",
+          "one",
+          "pain",
+          "relieving"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tylenol_precise_c51820ce"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ff0052",
+      "route": "clip",
+      "title": "$3.00 off — NEUTROGENA® SUN",
+      "description": "on any ONE (1) NEUTROGENA® SUN product (excludes travel & trial sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_982936",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "neutrogena sun"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "neutrogena",
+          "sun",
+          "any",
+          "one",
+          "product",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "neutrogena_sun_7a9d31cb"
+    },
+    {
+      "offer_id": "cvs:2026w28:27ffd220",
+      "route": "clip",
+      "title": "$3.00 off — Differin®",
+      "description": "on ONE (1) Differin® acne product · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-18",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008297",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "differin"
+        ],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "differin",
+          "one",
+          "acne",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "differin_e9909539"
+    },
+    {
+      "offer_id": "cvs:2026w28:2935826e",
+      "route": "clip",
+      "title": "$2.00 off — Nivea®",
+      "description": "on any ONE (1) Nivea® Body Product. Excludes body products under 3 oz and trial and travel sizes · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1030321",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nivea"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nivea",
+          "any",
+          "one",
+          "body",
+          "product",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "nivea_89492f1d"
+    },
+    {
+      "offer_id": "cvs:2026w28:2a396291",
+      "route": "clip",
+      "title": "$1.00 off — MYLANTA",
+      "description": "on ONE (1) MYLANTA Antacid + Anti Gas item including NEW Better Tasting Liquid Formula · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-24",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1000947",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "mylanta"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "mylanta",
+          "one",
+          "antacid",
+          "anti",
+          "gas",
+          "item"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "mylanta_d187edc5"
+    },
+    {
+      "offer_id": "cvs:2026w28:2ce70d5d",
+      "route": "clip",
+      "title": "$3.00 off — Tide Laundry Detergent",
+      "description": "ONE Tide Liquid Laundry Detergent 73-84 oz (excludes Tide EVO, Tide Rinse, Tide purclean, Tide PODS, Tide Simply Laundry Detergent and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-06",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008306",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tide",
+          "laundry",
+          "detergent",
+          "one",
+          "liquid",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tide_laundry_det_2f51dc3c"
+    },
+    {
+      "offer_id": "cvs:2026w28:3192e1ab",
+      "route": "clip",
+      "title": "$9.00 off — Clairol®",
+      "description": "ANY TWO (2) boxes of CLAIROL® Hair Color Product (Excludes Professional) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 9,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020640",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "clairol"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "clairol",
+          "any",
+          "two",
+          "boxes",
+          "hair",
+          "color"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "clairol_c440ef8b"
+    },
+    {
+      "offer_id": "cvs:2026w28:32393cbe",
+      "route": "clip",
+      "title": "$5.00 off — Dove Deodorant",
+      "description": "on Any ONE (1) Dove Clinical Deodorant (excludes Trial & Travel and Dove Men+Care) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1000953",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "deodorant",
+          "any",
+          "one",
+          "clinical",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_deodorant_6b45dd23"
+    },
+    {
+      "offer_id": "cvs:2026w28:32a06717",
+      "route": "clip",
+      "title": "$1.50 off — Gold Bond",
+      "description": "on ONE (1) Gold Bond® Powder, Foot Cream or First Aid Product (Excluding travel/trial size) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_995593",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gold bond"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gold",
+          "bond",
+          "one",
+          "powder",
+          "foot",
+          "cream"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gold_bond_ad849053"
+    },
+    {
+      "offer_id": "cvs:2026w28:37033740",
+      "route": "clip",
+      "title": "$2.00 off — Oral B Manual Adult Toothbrush",
+      "description": "ONE Oral-B Adult Manual Toothbrush (excludes Oral-B Dual Clean, Oral-B Advanced Clean, Oral-B Essential and Oral-B Pulsar toothbrushes). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005829",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "oral b manual adult toothbrush"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "oral",
+          "manual",
+          "adult",
+          "toothbrush",
+          "one",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "oral_b_manual_ad_3b3e7eb7"
+    },
+    {
+      "offer_id": "cvs:2026w28:3718757e",
+      "route": "clip",
+      "title": "$2.00 off — ADULT TYLENOL®",
+      "description": "on any ONE (1) TYLENOL® Extra Strength Liquid Gel or Rapid Release Gel · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_995217",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "adult tylenol"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "adult",
+          "tylenol",
+          "any",
+          "one",
+          "extra",
+          "strength"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "adult_tylenol_08debeed"
+    },
+    {
+      "offer_id": "cvs:2026w28:3961a307",
+      "route": "clip",
+      "title": "$5.00 off — SheaMoisture",
+      "description": "on any ONE (1) SheaMoisture Body Wash (18oz) (Excludes: trial and travel sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013193",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sheamoisture"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sheamoisture",
+          "any",
+          "one",
+          "body",
+          "wash",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sheamoisture_309999e9"
+    },
+    {
+      "offer_id": "cvs:2026w28:3c7317e3",
+      "route": "clip",
+      "title": "$1.00 off — Charmin Essentials Tissue",
+      "description": "ONE Charmin Essentials Soft or Charmin Essentials Strong Toilet Paper Product 6 Roll Count or Larger (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005820",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "charmin essentials tissue"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "charmin",
+          "essentials",
+          "tissue",
+          "one",
+          "soft",
+          "strong"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "charmin_essentia_3679f7c6"
+    },
+    {
+      "offer_id": "cvs:2026w28:3edfe587",
+      "route": "clip",
+      "title": "$7.00 off — Olay Body Wash-Treatments",
+      "description": "TWO Olay Super Serum 20oz Body Wash, Super Serum Hand & Body Lotion 18.5oz OR Super Serum Cream 10oz (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017749",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "olay body wash-treatments"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "olay",
+          "body",
+          "wash",
+          "treatments",
+          "two",
+          "super"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "olay_body_wash_t_ef27b0ce"
+    },
+    {
+      "offer_id": "cvs:2026w28:3ff956bb",
+      "route": "clip",
+      "title": "$1.50 off — Aleve®",
+      "description": "on any ONE (1) Aleve® product 24ct - 70ct (excludes Aleve-D®) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005901",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "aleve"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "aleve",
+          "any",
+          "one",
+          "product",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "aleve_87b88612"
+    },
+    {
+      "offer_id": "cvs:2026w28:3ffac08d",
+      "route": "clip",
+      "title": "$3.00 off — Head & Shoulders Shampoo",
+      "description": "ONE Head & Shoulders BARE Shampoo (Excludes Classic Collections, Clinical, Supreme, Treatments and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020967",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "head & shoulders shampoo"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "head",
+          "shoulders",
+          "shampoo",
+          "one",
+          "bare",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "head_shoulders_s_66cd89b2"
+    },
+    {
+      "offer_id": "cvs:2026w28:4333daed",
+      "route": "clip",
+      "title": "$3.00 off — Venus Cartridges",
+      "description": "ONE Venus Razor OR ONE Cartridge Refill pack 4ct or larger (excludes 1-3ct cartridge refills with exception of SensitiveGlide 3ct cartridge refills, Smooth 4ct cartridge refills, Smooth handle with 4ct and 6ct refills, ComfortGlid · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005856",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "venus cartridges"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "venus",
+          "cartridges",
+          "one",
+          "razor",
+          "cartridge",
+          "refill"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "venus_cartridges_f5ae8ce9"
+    },
+    {
+      "offer_id": "cvs:2026w28:438b865d",
+      "route": "clip",
+      "title": "$7.00 off — Old Spice Whole Body",
+      "description": "TWO Old Spice Whole Body Deodorant Sprays, Sticks, or Creams (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017751",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice whole body"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "whole",
+          "body",
+          "two",
+          "deodorant"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_whole__8ca79846"
+    },
+    {
+      "offer_id": "cvs:2026w28:44cd0863",
+      "route": "clip",
+      "title": "$1.00 off — ALWAYS",
+      "description": "ONE Always Maxi Pad Size 6, Always ZZZs OR Always Infinity, Radiant, Pure Cotton or Pocket Flexfoam Pads (excludes trial/travel size).",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-23",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013198",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "always"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "always",
+          "one",
+          "maxi",
+          "pad",
+          "size",
+          "zzzs"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "always_a9e85dae"
+    },
+    {
+      "offer_id": "cvs:2026w28:44f69c23",
+      "route": "clip",
+      "title": "$2.00 off — Scott®",
+      "description": "on TWO (2) Scott® 1000 6ct+ or Scott® ComfortPlus 12 Family Roles+ or Scott® ComfortPlus Lavender 6 Family+ Roll · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010642",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "scott"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "scott",
+          "two",
+          "comfortplus",
+          "family",
+          "roles",
+          "lavender"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "scott_a94ae114"
+    },
+    {
+      "offer_id": "cvs:2026w28:451553c1",
+      "route": "clip",
+      "title": "$3.00 off — Degree Deodorant",
+      "description": "on any ONE (1) Degree Whole Body Deodorant product or Degree Clinical Protection Deodorant product (excludes T&T, twin packs, invisible solid sticks 0.5oz, 1.0oz sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1003943",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "degree deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "degree",
+          "deodorant",
+          "any",
+          "one",
+          "whole",
+          "body"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "degree_deodorant_b5747076"
+    },
+    {
+      "offer_id": "cvs:2026w28:481b9c8c",
+      "route": "clip",
+      "title": "$5.00 off — REFRESH®",
+      "description": "on ONE (1) Refresh Optive Mega-3® or Refresh® Relieva® PF Xtra product · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_982630",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "refresh"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "refresh",
+          "one",
+          "optive",
+          "mega",
+          "relieva",
+          "xtra"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "refresh_1dde48e4"
+    },
+    {
+      "offer_id": "cvs:2026w28:493fb701",
+      "route": "clip",
+      "title": "$3.00 off — Huggies® Diapers",
+      "description": "on any TWO (2) Packages of Huggies® Diapers, Little Movers®, Little Movers® HuggFit™ 360, Little Snugglers®, Overnites, Snug & Dry™, and Skin Essentials™ (Valid only on 10ct. or larger.) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010631",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "huggies diapers"
+        ],
+        "category": "baby and child",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "huggies",
+          "diapers",
+          "any",
+          "two",
+          "packages",
+          "little"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "huggies_diapers_978dc7b1"
+    },
+    {
+      "offer_id": "cvs:2026w28:4b18a9e1",
+      "route": "clip",
+      "title": "$3.00 off — REVLON COLOR COSMETICS",
+      "description": "any ONE (1) Revlon Color Cosmetics (Excl. Beauty Tools, Nail Polish, and Kiss Balms) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015223",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "revlon color cosmetics"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "revlon",
+          "color",
+          "cosmetics",
+          "any",
+          "one",
+          "excl"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "revlon_color_cos_2cb714f1"
+    },
+    {
+      "offer_id": "cvs:2026w28:4b8a2da3",
+      "route": "clip",
+      "title": "$1.75 off — Glade®",
+      "description": "on any ONE (1) Glade® Warmer · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.75,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-05",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_997886",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "glade"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "glade",
+          "any",
+          "one",
+          "warmer"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "glade_9d63df9d"
+    },
+    {
+      "offer_id": "cvs:2026w28:4c6c3f80",
+      "route": "clip",
+      "title": "$7.00 off — Secret Body Cream/Stick/Spray",
+      "description": "TWO Secret Whole Body Deodorants (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005822",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "secret body cream/stick/spray"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "secret",
+          "body",
+          "cream",
+          "stick",
+          "spray",
+          "two"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "secret_body_crea_4584a0fb"
+    },
+    {
+      "offer_id": "cvs:2026w28:4cbcbe4d",
+      "route": "clip",
+      "title": "$1.00 off — BAND-AID®",
+      "description": "on any ONE (1) BAND-AID® Brand Adhesive Bandages, BAND-AID® Brand of First Aid or NEOSPORIN® product (excludes trial and travel sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_995319",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "band-aid"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "band",
+          "aid",
+          "any",
+          "one",
+          "brand",
+          "adhesive"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "band_aid_f766bfa6"
+    },
+    {
+      "offer_id": "cvs:2026w28:4d231fda",
+      "route": "clip",
+      "title": "$3.00 off — Gain Fabric Enhancer",
+      "description": "ONE Gain In-Wash Scent Boosters 24 oz (excludes Gain Liquid/Powder Laundry Detergent, Gain Sheets and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018820",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "fabric",
+          "enhancer",
+          "one",
+          "wash",
+          "scent"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_fabric_enha_651c8fb7"
+    },
+    {
+      "offer_id": "cvs:2026w28:4d696b95",
+      "route": "clip",
+      "title": "$5.00 off — Dove",
+      "description": "on select TWO (2) Dove Body Washes (10.3oz+), Bars (4ct+), Scrubs (15oz) (excludes items and sizes not listed) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015238",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "select",
+          "two",
+          "body",
+          "washes",
+          "bars"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_222fa340"
+    },
+    {
+      "offer_id": "cvs:2026w28:504b416d",
+      "route": "clip",
+      "title": "$4.00 off — Cremo®",
+      "description": "on ONE (1) Cremo® Skincare, Body, Beard, Cologne or Shave Cream Product or Cremo® Razor or Refill (excludes lip balm and 1 oz. trial size) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013219",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cremo"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cremo",
+          "one",
+          "skincare",
+          "body",
+          "beard",
+          "cologne"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "cremo_429eb4e7"
+    },
+    {
+      "offer_id": "cvs:2026w28:50600702",
+      "route": "clip",
+      "title": "$4.00 off — Old Spice Cleansing",
+      "description": "TWO Old Spice Body Wash Pump 25oz or Larger (excludes Super Hydration and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013191",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice cleansing"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "cleansing",
+          "two",
+          "body",
+          "wash"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_cleans_be230cb3"
+    },
+    {
+      "offer_id": "cvs:2026w28:53dc598e",
+      "route": "clip",
+      "title": "$2.00 off — COVERGIRL®",
+      "description": "ONE (1) COVERGIRL® Face Product (excludes Cheekers, accessories and travel/trial size) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020609",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "covergirl"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "covergirl",
+          "one",
+          "face",
+          "product",
+          "excludes",
+          "cheekers"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "covergirl_8985040f"
+    },
+    {
+      "offer_id": "cvs:2026w28:53e0f5d5",
+      "route": "clip",
+      "title": "$3.00 off — Downy Fabric Enhancer",
+      "description": "ONE Downy or Tide Rinse 48 oz (excludes travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008298",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "downy fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "downy",
+          "fabric",
+          "enhancer",
+          "one",
+          "tide",
+          "rinse"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "downy_fabric_enh_5e7d0fd8"
+    },
+    {
+      "offer_id": "cvs:2026w28:566eff51",
+      "route": "clip",
+      "title": "$5.00 off — Olay Body Wash",
+      "description": "THREE Olay Body Wash 18oz, Body Wash 22oz, Body Wash 27oz, Body Wash 29oz, Body Wash 33oz, Body Wash 35oz OR Olay Bar 4ct or larger OR Olay Hand and Body Lotion 18oz (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017746",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "olay body wash"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "olay",
+          "body",
+          "wash",
+          "three",
+          "bar",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "olay_body_wash_b8715cc7"
+    },
+    {
+      "offer_id": "cvs:2026w28:57554b1f",
+      "route": "clip",
+      "title": "$4.00 off — Dove Men+Care Deodorant",
+      "description": "on any TWO (2) Dove Men+Care Antiperspirant or Deodorant Stick, Dry Spray, or Whole Body (excludes Twin Packs and Trial and Travel Sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015241",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove men+care deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "deodorant",
+          "any",
+          "two"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_men_care_de_5387cf77"
+    },
+    {
+      "offer_id": "cvs:2026w28:57c1466b",
+      "route": "clip",
+      "title": "$2.00 off — Charmin Toilet Tissue",
+      "description": "ONE Charmin Ultra Toilet paper product 9 MEGA Roll, 12 MEGA Roll, 6 MEGA XL Roll, 8 MEGA XL Roll, 9 MEGA XL Roll, 12 MEGA XL Roll, 6 MEGA XXL Roll, 9 MEGA XXL Roll (excludes Charmin Essentials, all other Charmin Ultra pack sizes, · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005814",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "charmin toilet tissue"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "charmin",
+          "toilet",
+          "tissue",
+          "one",
+          "ultra",
+          "paper"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "charmin_toilet_t_32cd1d27"
+    },
+    {
+      "offer_id": "cvs:2026w28:57f19a55",
+      "route": "clip",
+      "title": "$1.00 off — Ivory Body Wash",
+      "description": "ONE Ivory Body Wash 27oz or Larger OR Bar Soap 4ct or Larger. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005845",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "ivory body wash"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "ivory",
+          "body",
+          "wash",
+          "one",
+          "larger",
+          "bar"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "ivory_body_wash_b808692c"
+    },
+    {
+      "offer_id": "cvs:2026w28:5abb4e0c",
+      "route": "clip",
+      "title": "$3.00 off — Head & Shoulders Hair Care",
+      "description": "TWO Head & Shoulders Products (Excludes Supreme, Clinical, Bare, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020966",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "head & shoulders hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "head",
+          "shoulders",
+          "hair",
+          "care",
+          "two",
+          "products"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "head_shoulders_h_a201b738"
+    },
+    {
+      "offer_id": "cvs:2026w28:5cb13baa",
+      "route": "clip",
+      "title": "$2.00 off — Gain Fabric Enhancer",
+      "description": "ONE Gain Sheets 240 ct (excludes Gain Rinse, Gain Flings, Gain Liquid/Powder Laundry Detergent and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008303",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "fabric",
+          "enhancer",
+          "one",
+          "sheets",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_fabric_enha_8b1ffa13"
+    },
+    {
+      "offer_id": "cvs:2026w28:6051a394",
+      "route": "clip",
+      "title": "$5.00 off — Secret Fresh Collection",
+      "description": "THREE Secret Fresh, Outlast, Aluminum Free, or Dry Spray Antiperspirants/Deodorants (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005847",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "secret fresh collection"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "secret",
+          "fresh",
+          "collection",
+          "three",
+          "outlast",
+          "aluminum"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "secret_fresh_col_cce7efc8"
+    },
+    {
+      "offer_id": "cvs:2026w28:6254d7a1",
+      "route": "clip",
+      "title": "$1.00 off — Downy Fabric Enhancer",
+      "description": "ONE Downy In-Wash Scent Boosters Unlimited 4.8 oz OR Downy In-Wash Scent Boosters Boutique Botanicals 4.8 oz (excludes travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-06",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018824",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "downy fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "downy",
+          "fabric",
+          "enhancer",
+          "one",
+          "wash",
+          "scent"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "downy_fabric_enh_8c7339ce"
+    },
+    {
+      "offer_id": "cvs:2026w28:62c81bf2",
+      "route": "clip",
+      "title": "$2.00 off — PainQuil Liquid",
+      "description": "ONE PainQuil Liquid product (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005811",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "painquil liquid"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "painquil",
+          "liquid",
+          "one",
+          "product",
+          "excludes",
+          "trial"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "painquil_liquid_f5d830e1"
+    },
+    {
+      "offer_id": "cvs:2026w28:67d37dea",
+      "route": "clip",
+      "title": "$3.00 off — PEPCID®",
+      "description": "on any ONE (1) Pepcid Maximum Strength, 75ct. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-24",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008308",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "pepcid"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pepcid",
+          "any",
+          "one",
+          "maximum",
+          "strength"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pepcid_da16c2db"
+    },
+    {
+      "offer_id": "cvs:2026w28:681bc0b9",
+      "route": "clip",
+      "title": "$3.00 off — Head & Shoulders Hair Care",
+      "description": "ONE Head & Shoulders CLINICAL Shampoo 13.5oz or higher (Excludes Classic Collections, Supreme, Bare and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020978",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "head & shoulders hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "head",
+          "shoulders",
+          "hair",
+          "care",
+          "one",
+          "clinical"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "head_shoulders_h_a7658487"
+    },
+    {
+      "offer_id": "cvs:2026w28:68bef138",
+      "route": "clip",
+      "title": "$3.00 off — AVEENO®",
+      "description": "on any ONE (1) AVEENO® Body Wash or Bath product (excludes 33oz, shave, and sizes smaller than 2.5oz) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017750",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "aveeno"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "aveeno",
+          "any",
+          "one",
+          "body",
+          "wash",
+          "bath"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "aveeno_2b663af7"
+    },
+    {
+      "offer_id": "cvs:2026w28:6af82ed7",
+      "route": "clip",
+      "title": "$1.00 off — Friskies®",
+      "description": "on ONE (1) Friskies® individual 12ct-24ct (5.5oz cans) Wet Cat Food · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008575",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "friskies"
+        ],
+        "category": "pet",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "friskies",
+          "one",
+          "individual",
+          "cans",
+          "wet",
+          "cat"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "friskies_22f34679"
+    },
+    {
+      "offer_id": "cvs:2026w28:6b1143b3",
+      "route": "clip",
+      "title": "$3.00 off — Venus Intimate Shave Needs",
+      "description": "ONE Venus Pubic Hair & Skin Razor OR Care Item (excludes Gillette Products, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005831",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "venus intimate shave needs"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "venus",
+          "intimate",
+          "shave",
+          "needs",
+          "one",
+          "pubic"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "venus_intimate_s_c532449e"
+    },
+    {
+      "offer_id": "cvs:2026w28:6d135708",
+      "route": "clip",
+      "title": "$8.00 off — AXE Deodorant",
+      "description": "on any TWO (2) AXE FIFA World Cup Branded Body Sprays (excludes twin packs, non-FIFA branded Items, trial and travel sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 8,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017773",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "axe deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "axe",
+          "deodorant",
+          "any",
+          "two",
+          "fifa",
+          "world"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "axe_deodorant_ab7248c1"
+    },
+    {
+      "offer_id": "cvs:2026w28:6e13d516",
+      "route": "clip",
+      "title": "$4.00 off — SheaMoisture®",
+      "description": "on any ONE (1) SheaMoisture® 2.6oz Deodorant, 2.6oz Antiperspirant or Whole Body item · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015235",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sheamoisture"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sheamoisture",
+          "any",
+          "one",
+          "deodorant",
+          "antiperspirant",
+          "whole"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sheamoisture_fce7f3dc"
+    },
+    {
+      "offer_id": "cvs:2026w28:6ead24cf",
+      "route": "clip",
+      "title": "$1.00 off — Kotex®",
+      "description": "on any ONE (1) package of Kotex® Pads or Liners or U by Kotex® Tampons (Not valid on Liv by Kotex® products, Kotex Liners 16ct or trial/travel packs.) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008582",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "kotex"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kotex",
+          "any",
+          "one",
+          "package",
+          "pads",
+          "liners"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "kotex_6521359a"
+    },
+    {
+      "offer_id": "cvs:2026w28:6eb80fc1",
+      "route": "clip",
+      "title": "$2.50 off — SheaMoisture Hair",
+      "description": "off any ONE (1) SheaMoisture Hair Product (excludes: single-use packettes, trial and travel size) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013205",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sheamoisture hair"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sheamoisture",
+          "hair",
+          "off",
+          "any",
+          "one",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sheamoisture_hai_3dc604c8"
+    },
+    {
+      "offer_id": "cvs:2026w28:786331da",
+      "route": "clip",
+      "title": "$2.00 off — Coppertone®",
+      "description": "on any* ONE (1) Coppertone® (4 oz. or larger) or Coppertone Face Product *Excludes travel and trial size · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013139",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "coppertone"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "coppertone",
+          "any",
+          "one",
+          "larger",
+          "face",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "coppertone_866c31d5"
+    },
+    {
+      "offer_id": "cvs:2026w28:7b0880d6",
+      "route": "clip",
+      "title": "$1.00 off — Alka-Seltzer® Original",
+      "description": "on any ONE (1) Alka-Seltzer® Original (excl. 6ct or less) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1003553",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "alka-seltzer original"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "alka",
+          "seltzer",
+          "original",
+          "any",
+          "one",
+          "excl"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "alka_seltzer_ori_89f142bc"
+    },
+    {
+      "offer_id": "cvs:2026w28:7b563e7e",
+      "route": "clip",
+      "title": "$5.00 off — Non-Drowsy Claritin®",
+      "description": "on any ONE (1) Non-Drowsy Claritin® Allergy 20ct or larger (excludes Children's Claritin® and Claritin-D®) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013209",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "non-drowsy claritin"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "non",
+          "drowsy",
+          "claritin",
+          "any",
+          "one",
+          "allergy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "non_drowsy_clari_bfc9a8eb"
+    },
+    {
+      "offer_id": "cvs:2026w28:7ba194cd",
+      "route": "clip",
+      "title": "$3.00 off — VapoFreeze Spray",
+      "description": "ONE VapoFREEZE Product. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018813",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "vapofreeze spray"
+        ],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "vapofreeze",
+          "spray",
+          "one",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "vapofreeze_spray_551e4952"
+    },
+    {
+      "offer_id": "cvs:2026w28:7ce8a5ee",
+      "route": "clip",
+      "title": "$3.00 off — Mielle Hair Care",
+      "description": "ONE Mielle Shampoo, Conditioner, Treatment, OR Styling Products (entire Mielle portfolio). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005839",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "mielle hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "mielle",
+          "hair",
+          "care",
+          "one",
+          "shampoo",
+          "conditioner"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "mielle_hair_care_5be4cd92"
+    },
+    {
+      "offer_id": "cvs:2026w28:7dbbcbcf",
+      "route": "clip",
+      "title": "$4.00 off — Dove Hair",
+      "description": "off any TWO (2) Dove Hair Products (Excludes: Dove Men+ Care products, twin packs, regimen packs, trial and travel sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015192",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove hair"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "hair",
+          "off",
+          "any",
+          "two",
+          "products"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_hair_c31fab5e"
+    },
+    {
+      "offer_id": "cvs:2026w28:81e8bef0",
+      "route": "clip",
+      "title": "$0.50 off — General Mills Fruit Snacks",
+      "description": "When you buy TWO(2) BOXES any flavor/variety 6 COUNT OR LARGER Betty Crocker™ Fruit Shapes, Fruit by the Foot™, Gushers™, Fruit Roll-Ups™ Fruit Flavored Snacks OR Mott’s® Fruit Flavored Snacks · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 0.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008574",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "general mills fruit snacks"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "general",
+          "mills",
+          "fruit",
+          "snacks",
+          "when",
+          "you"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "general_mills_fr_4bffb257"
+    },
+    {
+      "offer_id": "cvs:2026w28:8311eaf8",
+      "route": "clip",
+      "title": "$3.00 off — Non-Drowsy Claritin®",
+      "description": "on any ONE (1) Non-Drowsy Claritin® Allergy Cooling Honey Flavored Liquid 2.7oz · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013203",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "non-drowsy claritin"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "non",
+          "drowsy",
+          "claritin",
+          "any",
+          "one",
+          "allergy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "non_drowsy_clari_fbb3dc24"
+    },
+    {
+      "offer_id": "cvs:2026w28:83a8fc76",
+      "route": "clip",
+      "title": "$0.50 off — General Mills Snack Bars",
+      "description": "When you buy TWO(2) BOXES any flavor/variety 4 COUNT OR LARGER Nature Valley™, Fiber One™, Protein One, General Mills Cereal Bars, Mott’s® Bars, Chex Mix™ Bars, LÄRABAR™ Bars, GHOST® Bars OR · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 0.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008576",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "general mills snack bars"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "general",
+          "mills",
+          "snack",
+          "bars",
+          "when",
+          "you"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "general_mills_sn_da35468c"
+    },
+    {
+      "offer_id": "cvs:2026w28:843231cb",
+      "route": "clip",
+      "title": "$1.00 off — Bounty Paper Towels",
+      "description": "ONE Bounty Paper Towel Product 4 ct or larger (Includes 2 Triple Roll and 2 Mega Roll) (Excludes 6 Double Roll, 8 Double Roll, 6 Double Plus Roll, 8 Double Plus Roll, 6 Mega Roll, 8 Mega Roll, 4 Triple Roll, 6 Triple Roll, 8 Tripl · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005841",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "bounty paper towels"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "bounty",
+          "paper",
+          "towels",
+          "one",
+          "towel",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "bounty_paper_tow_711ea250"
+    },
+    {
+      "offer_id": "cvs:2026w28:84820b25",
+      "route": "clip",
+      "title": "$2.50 off — Shea Moisture",
+      "description": "on ONE (1) Shea Moisture Hair Care Products. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1033142",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "shea moisture"
+        ],
+        "category": "photo",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "shea",
+          "moisture",
+          "one",
+          "hair",
+          "care",
+          "products"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "shea_moisture_ee7e8021"
+    },
+    {
+      "offer_id": "cvs:2026w28:8767eb9f",
+      "route": "clip",
+      "title": "$3.00 off — Pepsi-Cola Beverages",
+      "description": "WHEN YOU BUY ANY FOUR (4) PARTICIPATING PEPSI-COLA BEVERAGES, MULTIPACKS ONLY · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_982910",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "pepsi-cola beverages"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pepsi",
+          "cola",
+          "beverages",
+          "when",
+          "you",
+          "buy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pepsi_cola_bever_6fc9ad90"
+    },
+    {
+      "offer_id": "cvs:2026w28:88d4c8e2",
+      "route": "clip",
+      "title": "$7.00 off — Always Discreet Incontinence",
+      "description": "TWO Always Discreet 120ct, 111ct Liners, 26ct, 28ct, 33ct, 34ct, 39ct, 48ct, 54ct, 57ct, 66ct Pads OR 12-19 ct Underwear OR Always Discreet Boutique Underwear 9ct, 10ct, 12ct OR MaxiProtect 12, 14, 16ct OR Boutique Pads 48ct, 28ct · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005809",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "always discreet incontinence"
+        ],
+        "category": "baby and child",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "always",
+          "discreet",
+          "incontinence",
+          "two",
+          "liners",
+          "pads"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "always_discreet__70829740"
+    },
+    {
+      "offer_id": "cvs:2026w28:8e18900b",
+      "route": "clip",
+      "title": "$6.00 off — Downy Fabric Enhancer",
+      "description": "ONE Downy In-Wash Scent Boosters Boutique Botanicals 21.1 oz (excludes travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 6,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-06",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015592",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "downy fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "downy",
+          "fabric",
+          "enhancer",
+          "one",
+          "wash",
+          "scent"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "downy_fabric_enh_044a1d93"
+    },
+    {
+      "offer_id": "cvs:2026w28:9374bc0d",
+      "route": "clip",
+      "title": "$5.00 off — Pantene Hair Care",
+      "description": "THREE Pantene Products including Pantene Pro-V, Gold Series, and Stylers (excludes trial/travel size, Nutrient Blends, Miracle Rescue, Pro-V Miracles, and Abundant & Strong). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020606",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "pantene hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pantene",
+          "hair",
+          "care",
+          "three",
+          "products",
+          "including"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pantene_hair_car_7744d054"
+    },
+    {
+      "offer_id": "cvs:2026w28:94621072",
+      "route": "clip",
+      "title": "$1.00 off — Tide Pods",
+      "description": "ONE Tide PODS Laundry Detergent 11 ct TO 14 ct (excludes Tide EVO, Tide Rinse, Tide Liquid/Powder Laundry Detergent, Tide Simply Laundry Detergent, Tide PODS 9 ct and below and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008319",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide pods"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tide",
+          "pods",
+          "one",
+          "laundry",
+          "detergent",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tide_pods_c54877f3"
+    },
+    {
+      "offer_id": "cvs:2026w28:9614e135",
+      "route": "clip",
+      "title": "$10.00 off — Oral B Power Brush-Refill",
+      "description": "ONE Oral-B iO Rechargeable Electric Toothbrush AND ONE Oral-B iO or non-iO Replacement Brush Heads (excludes travel/trial size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 10,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005824",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "oral b power brush-refill"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "oral",
+          "power",
+          "brush",
+          "refill",
+          "one",
+          "rechargeable"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "oral_b_power_bru_520ce6de"
+    },
+    {
+      "offer_id": "cvs:2026w28:971a0694",
+      "route": "clip",
+      "title": "$2.00 off — Bounty Paper Towels",
+      "description": "ONE Bounty Paper Towel Product 4 Triple Roll, 6 Double Roll, 6 Double Plus Roll, 6 Triple Roll, 6 Triple Plus Roll, 8 Double Roll and 8 Double Plus Roll (excludes Bounty Essentials and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005854",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "bounty paper towels"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "bounty",
+          "paper",
+          "towels",
+          "one",
+          "towel",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "bounty_paper_tow_05366d3b"
+    },
+    {
+      "offer_id": "cvs:2026w28:9acccb38",
+      "route": "clip",
+      "title": "$3.00 off — Gain Flings Laundry Detergent",
+      "description": "ONE Gain Flings Laundry Detergent 42 ct OR Gain Plus Flings Laundry Detergent 25 ct (includes Super Flings) (excludes Gain Liquid/Powder Laundry Detergent, Gain Liquid Fabric Softeners, Gain Fireworks, Gain Sheets, Gain Flings 9 c · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008317",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain flings laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "flings",
+          "laundry",
+          "detergent",
+          "one",
+          "plus"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_flings_laun_c1dbb802"
+    },
+    {
+      "offer_id": "cvs:2026w28:9b758d63",
+      "route": "clip",
+      "title": "$3.00 off — Gain Laundry Detergent",
+      "description": "ONE Gain Liquid Laundry Detergent 132 oz OR 144 oz (excludes Gain Rinse, Gain Flings, Gain Liquid Fabric Softeners, Gain Fireworks, Gain Sheets and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008289",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "laundry",
+          "detergent",
+          "one",
+          "liquid",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_laundry_det_c4a003a6"
+    },
+    {
+      "offer_id": "cvs:2026w28:9e44cde1",
+      "route": "clip",
+      "title": "$1.50 off — Resolve®",
+      "description": "on Any ONE (1) Resolve® Product · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-23",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_997970",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "resolve"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "resolve",
+          "any",
+          "one",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "resolve_a523d1f0"
+    },
+    {
+      "offer_id": "cvs:2026w28:9ecc153d",
+      "route": "clip",
+      "title": "$1.00 off — Gain Flings Laundry Detergent",
+      "description": "ONE Gain Flings Laundry Detergent 14-19 ct OR Gain Plus Flings 9 ct (includes Super Flings) (excludes Gain Liquid/Powder Laundry Detergent, Gain Liquid Fabric Softeners, Gain Fireworks, Gain Sheets, travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008322",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain flings laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "flings",
+          "laundry",
+          "detergent",
+          "one",
+          "plus"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_flings_laun_98dbf50f"
+    },
+    {
+      "offer_id": "cvs:2026w28:a19e9cb3",
+      "route": "clip",
+      "title": "$5.00 off — Old Spice Spray",
+      "description": "TWO Old Spice Dry Spray or Body Spray (excludes Total Body and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008326",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice spray"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "spray",
+          "two",
+          "dry",
+          "body"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_spray_6eb99711"
+    },
+    {
+      "offer_id": "cvs:2026w28:a1d7f75c",
+      "route": "clip",
+      "title": "$1.00 off — Always & Tampax Menstrual Care",
+      "description": "ONE Tampax Tampon (12ct or higher), Always Pad (10ct or higher), Always liner (30ct or higher), or Always ZZZ (7ct) (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015602",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "always & tampax menstrual care"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "always",
+          "tampax",
+          "menstrual",
+          "care",
+          "one",
+          "tampon"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "always_tampax_me_aee852c3"
+    },
+    {
+      "offer_id": "cvs:2026w28:a1dd2397",
+      "route": "clip",
+      "title": "$1.30 off — WaterWipes™",
+      "description": "when you buy ONE (1) WaterWipes™ Sensitive+ Body & Intimate Wipes, 30ct · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-25",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008277",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "waterwipes"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "waterwipes",
+          "when",
+          "you",
+          "buy",
+          "one",
+          "sensitive"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "waterwipes_06b6e79b"
+    },
+    {
+      "offer_id": "cvs:2026w28:a39d1ab9",
+      "route": "clip",
+      "title": "$1.00 off — Dawn Hand Dish Care",
+      "description": "ONE Dawn Ultra 38-67oz, Dawn Plat 30oz-51.5oz, Dawn Plat Plus 21.6oz-38oz, or Dawn Powerwash Starter Kit or Single Refill. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008318",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dawn hand dish care"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dawn",
+          "hand",
+          "dish",
+          "care",
+          "one",
+          "ultra"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dawn_hand_dish_c_5ef9b395"
+    },
+    {
+      "offer_id": "cvs:2026w28:a69d2740",
+      "route": "clip",
+      "title": "$2.00 off — PainQuil Liquid",
+      "description": "ONE PainQuil Liquid product (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005842",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "painquil liquid"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "painquil",
+          "liquid",
+          "one",
+          "product",
+          "excludes",
+          "trial"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "painquil_liquid_0c702f23"
+    },
+    {
+      "offer_id": "cvs:2026w28:b01e2c56",
+      "route": "clip",
+      "title": "$1.25 off — Cortizone-10®",
+      "description": "on any ONE (1) Cortizone-10® (excluding Trial/Travel Sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.25,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1003520",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cortizone-10"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cortizone",
+          "any",
+          "one",
+          "excluding",
+          "trial",
+          "travel"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "cortizone_10_2260afb2"
+    },
+    {
+      "offer_id": "cvs:2026w28:b18a3508",
+      "route": "clip",
+      "title": "$2.00 off — SheaMoisture",
+      "description": "on any ONE (1) SheaMoisture Bar Soap (8oz) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013195",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "sheamoisture"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sheamoisture",
+          "any",
+          "one",
+          "bar",
+          "soap"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sheamoisture_333b89dd"
+    },
+    {
+      "offer_id": "cvs:2026w28:b352fc39",
+      "route": "clip",
+      "title": "$5.00 off — Crest Whitestrips",
+      "description": "ONE Crest 3DWhitestrips (excludes Noticeably White, Classic White and any Crest 3DWhitestrips product with 5 or less treatments). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005837",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest whitestrips"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "whitestrips",
+          "one",
+          "excludes",
+          "noticeably",
+          "white"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "crest_whitestrip_bd10b7a3"
+    },
+    {
+      "offer_id": "cvs:2026w28:b44b6541",
+      "route": "clip",
+      "title": "$10.00 off — Non-Drowsy Claritin® or Children's Claritin®",
+      "description": "on any ONE (1) Non-Drowsy Claritin® or Children's Claritin® Allergy 56ct or larger (excludes Claritin® RediTabs 70ct, Claritin® 115ct, Children’s Claritin® 80ct, and Claritin-D®) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 10,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013197",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "non-drowsy claritin or children's claritin"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "non",
+          "drowsy",
+          "claritin",
+          "children",
+          "any",
+          "one"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "non_drowsy_clari_df9ceec1"
+    },
+    {
+      "offer_id": "cvs:2026w28:ba0a2088",
+      "route": "clip",
+      "title": "$6.00 off — Colgate Toothpaste",
+      "description": "On any TWO (2) Colgate Optic White Advanced, Purple, Charcoal, Sensitivity Relief, Total Gum Protect, Plaque Cleanse, Sensitivity Mineral Shield, Colgate Sensitive, Tom's of Maine or hello Adult Toothpastes · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 6,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018822",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate toothpaste"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "colgate",
+          "toothpaste",
+          "any",
+          "two",
+          "optic",
+          "white"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "colgate_toothpas_be22057f"
+    },
+    {
+      "offer_id": "cvs:2026w28:bab7e9aa",
+      "route": "clip",
+      "title": "$3.00 off — K-Y®",
+      "description": "on ONE (1) K-Y® Product (excludes 4oz & smaller) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-23",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_997975",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "k-y"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "one",
+          "product",
+          "excludes",
+          "smaller"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "k_y_a0d7d67c"
+    },
+    {
+      "offer_id": "cvs:2026w28:bd310626",
+      "route": "clip",
+      "title": "$2.00 off — Cetaphil®",
+      "description": "on ONE (1) Cetaphil® product (excludes 4 oz. or less–Daily Facial Cleanser, Gentle Skin Cleanser, Moisturizing Lotion or Moisturizing Cream; Single Bars; 10 ct. Gentle Skin Cleansing Cloths; Cetaphil Kits) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-05",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010627",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cetaphil"
+        ],
+        "category": "baby and child",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cetaphil",
+          "one",
+          "product",
+          "excludes",
+          "less",
+          "daily"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "cetaphil_9d6bf34a"
+    },
+    {
+      "offer_id": "cvs:2026w28:be7ad493",
+      "route": "clip",
+      "title": "$10.00 off — Dove, Dove Men+Care, Axe",
+      "description": "on any TWO (2) FIFA World Cup Branded Dove, Dove Men+Care, Axe Body Wash or Bar items (excl. Dove Men+Care 13.5oz Body Wash, Dove Liquid Hand Wash, core items not listed, trial & travel) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 10,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017745",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove, dove men+care, axe"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "axe",
+          "any",
+          "two"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_dove_men_ca_30dc07b8"
+    },
+    {
+      "offer_id": "cvs:2026w28:c1f28e80",
+      "route": "clip",
+      "title": "$5.00 off — Non-Drowsy Children's Claritin®",
+      "description": "on any ONE (1) Non-Drowsy Children's Claritin® Allergy Chewables 20ct or larger or Syrup 8oz (excludes Adult Claritin®) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013201",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "non-drowsy children's claritin"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "non",
+          "drowsy",
+          "children",
+          "claritin",
+          "any",
+          "one"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "non_drowsy_child_b923d019"
+    },
+    {
+      "offer_id": "cvs:2026w28:c3b2c0b6",
+      "route": "clip",
+      "title": "$5.00 off — IBgard® & FDgard®",
+      "description": "On any ONE (1) IBgard® or FDgard® 36ct or 48ct. · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-17",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013154",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "ibgard & fdgard"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "ibgard",
+          "fdgard",
+          "any",
+          "one"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "ibgard_fdgard_14d15e65"
+    },
+    {
+      "offer_id": "cvs:2026w28:c50975ff",
+      "route": "clip",
+      "title": "$3.00 off — ​Maybelline® New York",
+      "description": "ANY ONE (1) Maybelline® New York Product (Excludes Expert Wear® Eye Shadow Monos) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013217",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "​maybelline new york"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "maybelline",
+          "new",
+          "york",
+          "any",
+          "one",
+          "product"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "maybelline_new_y_1caaf504"
+    },
+    {
+      "offer_id": "cvs:2026w28:c5e45e14",
+      "route": "clip",
+      "title": "$3.00 off — Aussie Hair Care",
+      "description": "TWO Aussie Total Core Shampoo and Conditioner, Stylers and Treatment (excludes Ultra tier, trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020968",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "aussie hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "aussie",
+          "hair",
+          "care",
+          "two",
+          "total",
+          "core"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "aussie_hair_care_b5010310"
+    },
+    {
+      "offer_id": "cvs:2026w28:c7b2bff6",
+      "route": "clip",
+      "title": "$2.00 off — Always Discreet Incontinence",
+      "description": "ONE Always Discreet Liners (44ct, 48ct) OR Boutique Liner (32ct) OR Always Discreet Pads (20ct, 30ct) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005825",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "always discreet incontinence"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "always",
+          "discreet",
+          "incontinence",
+          "one",
+          "liners",
+          "boutique"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "always_discreet__ded3f2df"
+    },
+    {
+      "offer_id": "cvs:2026w28:c8f773bd",
+      "route": "clip",
+      "title": "$3.00 off — Gillette Razor-Cartridges",
+      "description": "ONE Gillette Razor OR ONE Cartridge Refill pack 4ct or larger (excludes 1-3ct cartridge refills, Mach3 Razor with 1ct refill, Fusion Razor with 1ct refill, Mach3 Razor with 10ct refill, FusionProglide Razor with 6ct refill, King C · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005860",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gillette razor-cartridges"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gillette",
+          "razor",
+          "cartridges",
+          "one",
+          "cartridge",
+          "refill"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gillette_razor_c_ff89a7e1"
+    },
+    {
+      "offer_id": "cvs:2026w28:d386d6ba",
+      "route": "clip",
+      "title": "$2.00 off — COVERGIRL®",
+      "description": "ONE (1) COVERGIRL® Eye Product (excludes Eye Enhancer Palettes, Easy Breezy Brow Fill + Define, Perfect Blend, accessories and travel/trial size) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020611",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "covergirl"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "covergirl",
+          "one",
+          "eye",
+          "product",
+          "excludes",
+          "enhancer"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "covergirl_328bc64b"
+    },
+    {
+      "offer_id": "cvs:2026w28:d39ff78a",
+      "route": "clip",
+      "title": "$7.00 off — Gillette Clinical Strength",
+      "description": "TWO Gillette Clinical Antiperspirant or Deodorant (excludes trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005823",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gillette clinical strength"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gillette",
+          "clinical",
+          "strength",
+          "two",
+          "antiperspirant",
+          "deodorant"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gillette_clinica_c5cdace1"
+    },
+    {
+      "offer_id": "cvs:2026w28:d4c758a5",
+      "route": "clip",
+      "title": "$3.00 off — Blue Buffalo",
+      "description": "when you buy ONE (1) bag of BLUE Life Protection Formula Dry Dog Food (5lb+) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013208",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "blue buffalo"
+        ],
+        "category": "pet",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "blue",
+          "buffalo",
+          "when",
+          "you",
+          "buy",
+          "one"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "blue_buffalo_590fac01"
+    },
+    {
+      "offer_id": "cvs:2026w28:d681d968",
+      "route": "clip",
+      "title": "$0.50 off — Angel Soft®",
+      "description": "on ONE (1) package of Angel Soft® Bath Tissue, any size · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 0.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020600",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "angel soft"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "angel",
+          "soft",
+          "one",
+          "package",
+          "bath",
+          "tissue"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "angel_soft_82fdceb8"
+    },
+    {
+      "offer_id": "cvs:2026w28:d7105a36",
+      "route": "clip",
+      "title": "$5.00 off — Olay Body Wash",
+      "description": "TWO Olay Body Wash 28oz, Body Wash 26oz, Body Wash 20oz OR Olay Hand & Body Lotion 17oz (excludes Indulgent Moisture Body Wash 20oz and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017747",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "olay body wash"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "olay",
+          "body",
+          "wash",
+          "two",
+          "hand",
+          "lotion"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "olay_body_wash_484ff13a"
+    },
+    {
+      "offer_id": "cvs:2026w28:d7fb938d",
+      "route": "clip",
+      "title": "$2.50 off — Poise® or Depend®",
+      "description": "on any ONE (1) pack of Poise® Pads (12 Ct+) or Liners (44 Ct+) OR any Depend® Product (8 Ct or larger). (Not valid on One™ by Poise®, Poise® Liners 8-30 Ct, or Depend® Postpartum) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020971",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "poise or depend"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "poise",
+          "depend",
+          "any",
+          "one",
+          "pack",
+          "pads"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "poise_or_depend_e2cb3970"
+    },
+    {
+      "offer_id": "cvs:2026w28:d9192e70",
+      "route": "clip",
+      "title": "$5.00 off — Gillette Series Deodorant",
+      "description": "THREE Gillette Clear Gel Antiperspirant/Deodorant (excludes Gillette SkinShield Clear Gel 3.8oz and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005812",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gillette series deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gillette",
+          "series",
+          "deodorant",
+          "three",
+          "clear",
+          "gel"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gillette_series__00b6be8b"
+    },
+    {
+      "offer_id": "cvs:2026w28:d939c023",
+      "route": "clip",
+      "title": "$1.00 off — Kleenex®",
+      "description": "on any one (1) Kleenex® facial tissue bundle pack (3 ct or larger), one 4-count Snap & Go™ pack, or one 4-count Perfect Fit (not valid on any size On-The-Go™) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015228",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "kleenex"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kleenex",
+          "any",
+          "one",
+          "facial",
+          "tissue",
+          "bundle"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "kleenex_24b6af2b"
+    },
+    {
+      "offer_id": "cvs:2026w28:da76c5fa",
+      "route": "clip",
+      "title": "$1.00 off — Fancy Feast® Gems®",
+      "description": "on TWO (2) 4 oz packages of Fancy Feast® Gems® Wet Cat Food · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-12",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008337",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "fancy feast gems"
+        ],
+        "category": "pet",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fancy",
+          "feast",
+          "gems",
+          "two",
+          "packages",
+          "wet"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "fancy_feast_gems_f3b08019"
+    },
+    {
+      "offer_id": "cvs:2026w28:dc7cc1b0",
+      "route": "clip",
+      "title": "$5.00 off — STEM™",
+      "description": "on any ONE (1) STEM™ Devices · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-05",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_993245",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "stem"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "stem",
+          "any",
+          "one",
+          "devices"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "stem_9ac775a2"
+    },
+    {
+      "offer_id": "cvs:2026w28:dd4eb2e0",
+      "route": "clip",
+      "title": "$4.50 off — Nexxus®",
+      "description": "off any ONE (1) Nexxus® Hair Care Products (excludes Trial & Travel sizes, 8.5oz, masks, clubs, 16.5oz) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013202",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "nexxus"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nexxus",
+          "off",
+          "any",
+          "one",
+          "hair",
+          "care"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "nexxus_b36bd11c"
+    },
+    {
+      "offer_id": "cvs:2026w28:ddda8cc9",
+      "route": "clip",
+      "title": "$1.50 off — Fancy Feast®",
+      "description": "on ONE (1) 12 ct package (3 oz cans) of Fancy Feast® Wet Cat Food · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-05",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008311",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "fancy feast"
+        ],
+        "category": "pet",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fancy",
+          "feast",
+          "one",
+          "package",
+          "cans",
+          "wet"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "fancy_feast_f49b7ab6"
+    },
+    {
+      "offer_id": "cvs:2026w28:df7640ef",
+      "route": "clip",
+      "title": "$3.00 off — ​essie®",
+      "description": "ANY ONE (1) ​essie® Nail Product (Excluding Kits) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015283",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "​essie"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "essie",
+          "any",
+          "one",
+          "nail",
+          "product",
+          "excluding"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "essie_179ca4e0"
+    },
+    {
+      "offer_id": "cvs:2026w28:dfab3fdd",
+      "route": "clip",
+      "title": "$10.00 off — Dove, Dove Men+Care, Degree",
+      "description": "on any TWO (2) FIFA World Cup Branded Dove, Dove Men+Care, or Degree Deodorant Products (excludes Any non-FIFA branded Items, Axe Deodorant Body Spray 2.9oz,Degree Twin Packs, & Degree 2.6 oz Sticks) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 10,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-26",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017743",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove, dove men+care, degree"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "degree",
+          "any",
+          "two"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_dove_men_ca_28113911"
+    },
+    {
+      "offer_id": "cvs:2026w28:e117dc5c",
+      "route": "clip",
+      "title": "$5.00 off — Crest Adult Toothpaste",
+      "description": "TWO Crest MULTI-PACK Toothpaste 2.7 oz or more (excludes Crest Cavity, Regular, Base Baking Soda, Tartar Control/Protection, F&W Pep Gleem and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005843",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest adult toothpaste"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "adult",
+          "toothpaste",
+          "two",
+          "multi",
+          "pack"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "crest_adult_toot_588bb98c"
+    },
+    {
+      "offer_id": "cvs:2026w28:e45a44d5",
+      "route": "clip",
+      "title": "$1.00 off — General Mills Cereals",
+      "description": "When you buy TWO(2) PACKAGES any flavor General Mills cereal or granola listed: Cheerios™, Cinnamon Toast Crunch™, Lucky Charms™, Reese’s Puffs, Chex™, Cocoa Puffs™, Trix™, Cookie Crisp™, · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-29",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008580",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "general mills cereals"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "general",
+          "mills",
+          "cereals",
+          "when",
+          "you",
+          "buy"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "general_mills_ce_c5bfbdf7"
+    },
+    {
+      "offer_id": "cvs:2026w28:e5008c70",
+      "route": "clip",
+      "title": "$6.00 off — BOOST®",
+      "description": "on TWO (2) Boost® Nutritional Drinks, 4-pack or larger​ · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 6,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1010614",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "boost"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "boost",
+          "two",
+          "nutritional",
+          "drinks",
+          "pack",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "boost_3f02ad22"
+    },
+    {
+      "offer_id": "cvs:2026w28:e58634dd",
+      "route": "clip",
+      "title": "$2.00 off — Crest Adult Toothpaste",
+      "description": "ONE Crest Toothpaste 2.4 oz or more (excludes Crest Cavity, Baking Soda, Tartar Control/Protection, Brilliance, Gum, Densify, Aligner Care, Kids, More Free packs, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005853",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "crest adult toothpaste"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "crest",
+          "adult",
+          "toothpaste",
+          "one",
+          "more",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "crest_adult_toot_ef8d75be"
+    },
+    {
+      "offer_id": "cvs:2026w28:e6e53bbb",
+      "route": "clip",
+      "title": "$3.00 off — Tide Pods",
+      "description": "ONE Tide PODS Laundry Detergent 42 ct (excludes 35 ct) OR Tide Power PODS 25 ct (excludes Tide EVO, Tide Rinse, Tide Liquid/Powder Laundry Detergent, Tide Simply, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-06",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008299",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "tide pods"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tide",
+          "pods",
+          "one",
+          "laundry",
+          "detergent",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tide_pods_753add66"
+    },
+    {
+      "offer_id": "cvs:2026w28:e72d40f8",
+      "route": "clip",
+      "title": "$5.00 off — Head & Shoulders Hair Care",
+      "description": "ONE Head & Shoulders Bare Treatment (excludes Classic Collections, Clinical, Supreme, Bare Shampoos, Bare 2 in 1 Shampoo and Conditioner, and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1020607",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "head & shoulders hair care"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "head",
+          "shoulders",
+          "hair",
+          "care",
+          "one",
+          "bare"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "head_shoulders_h_e5c5c046"
+    },
+    {
+      "offer_id": "cvs:2026w28:e791be9e",
+      "route": "clip",
+      "title": "$7.00 off — Old Spice Deodorant",
+      "description": "TWO Old Spice Alchemist Deodorant, Alchemist Body Wash, OR Alchemist Cologne Mist (excludes travel/trial size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 7,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005818",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "deodorant",
+          "two",
+          "alchemist",
+          "body"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_deodor_a056b2df"
+    },
+    {
+      "offer_id": "cvs:2026w28:e8d4f4b4",
+      "route": "clip",
+      "title": "$3.50 off — Febreze Air Care",
+      "description": "TWO Febreze Products (excludes Febreze Plug Scent Booster, Febreze Plug Scent Booster Starter Kit, trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008288",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "febreze air care"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "febreze",
+          "air",
+          "care",
+          "two",
+          "products",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "febreze_air_care_5022122c"
+    },
+    {
+      "offer_id": "cvs:2026w28:e93282c8",
+      "route": "clip",
+      "title": "$6.00 off — AXE Deodorant",
+      "description": "on any TWO (2) AXE Body Sprays or Sticks (excludes twin packs, trial and travel sizes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 6,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1017744",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "axe deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "axe",
+          "deodorant",
+          "any",
+          "two",
+          "body",
+          "sprays"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "axe_deodorant_368aab2a"
+    },
+    {
+      "offer_id": "cvs:2026w28:e982e21a",
+      "route": "clip",
+      "title": "$3.00 off — Colgate Toothpaste",
+      "description": "On any TWO (2) Colgate Total (3.3oz or 5.1oz), Optic White Stain Fighter or Max Fresh Toothpastes (excluding 3pack Toothpastes) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018821",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate toothpaste"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "colgate",
+          "toothpaste",
+          "any",
+          "two",
+          "total",
+          "optic"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "colgate_toothpas_86c72529"
+    },
+    {
+      "offer_id": "cvs:2026w28:ea50337b",
+      "route": "clip",
+      "title": "$2.50 off — Hellmann's® or Best Foods®",
+      "description": "on any ONE (1) Hellmann's® or Best Foods® Mayo 20oz or larger (excluding 64oz) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-07-30",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015244",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "hellmann's or best foods"
+        ],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hellmann",
+          "best",
+          "foods",
+          "any",
+          "one",
+          "mayo"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "hellmanns_or_bes_7d032b1e"
+    },
+    {
+      "offer_id": "cvs:2026w28:eb08b371",
+      "route": "clip",
+      "title": "$6.00 off — Secret Clinical-Essential Oils",
+      "description": "TWO Secret Clinical Antiperspirant/Deodorants (excludes trial/trial sizes). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 6,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005826",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "secret clinical-essential oils"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "secret",
+          "clinical",
+          "essential",
+          "oils",
+          "two",
+          "antiperspirant"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "secret_clinical__cba6587e"
+    },
+    {
+      "offer_id": "cvs:2026w28:eb15aadf",
+      "route": "clip",
+      "title": "$10.00 off — Swiffer Quick Clean",
+      "description": "TWO Swiffer PowerMop, Sweeper Deluxe, Sweeper, Sweeper XL, 3ft or 6ft Duster Starter Kits OR Swiffer Refill (includes 20ct or larger Dry and Wet cloth refills, 10ct or larger XL Dry and Wet cloth refills, PowerMop and WetJet pad r · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 10,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008294",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "swiffer quick clean"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "swiffer",
+          "quick",
+          "clean",
+          "two",
+          "powermop",
+          "sweeper"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "swiffer_quick_cl_65f79ea8"
+    },
+    {
+      "offer_id": "cvs:2026w28:ee49a017",
+      "route": "clip",
+      "title": "$3.00 off — Cantu",
+      "description": "any TWO (2) Cantu products (excluding trial/travel) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-16",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013200",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "cantu"
+        ],
+        "category": "beauty",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cantu",
+          "any",
+          "two",
+          "products",
+          "excluding",
+          "trial"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "cantu_16c269d4"
+    },
+    {
+      "offer_id": "cvs:2026w28:f1355be8",
+      "route": "clip",
+      "title": "$2.00 off — Oral B Glide-Floss-Picks",
+      "description": "ONE Oral-B Glide Manual Floss OR Oral-B Expanding Floss OR Oral-B Glide Floss Picks (Excludes Essential Floss, Satin Floss, Oral-B Fresh Mint Picks and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005816",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "oral b glide-floss-picks"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "oral",
+          "glide",
+          "floss",
+          "picks",
+          "one",
+          "manual"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "oral_b_glide_flo_12709e62"
+    },
+    {
+      "offer_id": "cvs:2026w28:f17f329a",
+      "route": "clip",
+      "title": "$3.00 off — Aleve® or AleveX™",
+      "description": "on any ONE (1) Aleve® product 80ct or larger or AleveX™ (excludes Aleve-D®) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008271",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "aleve or alevex"
+        ],
+        "category": "health and medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "aleve",
+          "alevex",
+          "any",
+          "one",
+          "product",
+          "larger"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "aleve_or_alevex_7a406c3b"
+    },
+    {
+      "offer_id": "cvs:2026w28:f454dcab",
+      "route": "clip",
+      "title": "$3.00 off — Colgate Products",
+      "description": "On any TWO (2) Colgate 360° (excluding 360°Advanced), Total or Expert Manual Toothbrushes, Mouthwashes or Mouth Rinses (16oz or larger) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1018826",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "colgate products"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "colgate",
+          "products",
+          "any",
+          "two",
+          "excluding",
+          "advanced"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "colgate_products_2678e658"
+    },
+    {
+      "offer_id": "cvs:2026w28:f7ce33ad",
+      "route": "clip",
+      "title": "$4.00 off — Olly",
+      "description": "on any ONE (1) Olly Body Wash or Serum product (excludes Olly products 3oz and smaller) · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1013171",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "olly"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "olly",
+          "any",
+          "one",
+          "body",
+          "wash",
+          "serum"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "olly_e9b2f1a1"
+    },
+    {
+      "offer_id": "cvs:2026w28:f824d375",
+      "route": "clip",
+      "title": "$5.00 off — Old Spice Deodorant",
+      "description": "THREE Old Spice Antiperspirant/Deodorant or Body Wash (excludes Items under 2oz, Gift-packs, High Endurance or Base Antiperspirant/Deodorant, Whole Body Deodorant, Sprays, Super Hydration, Alchemist, Bar Soap, Pump Body Wash 25oz · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1005855",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "old spice deodorant"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "old",
+          "spice",
+          "deodorant",
+          "three",
+          "antiperspirant",
+          "body"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "old_spice_deodor_43955d2f"
+    },
+    {
+      "offer_id": "cvs:2026w28:f8476f64",
+      "route": "clip",
+      "title": "$3.00 off — Dove Men+Care",
+      "description": "on any ONE (1) Dove Men+Care Body Wash 18oz+ (incl. Plant Powered varieties) or Bars 4ct+ · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-09",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1015232",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "dove men+care"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "dove",
+          "men",
+          "care",
+          "any",
+          "one",
+          "body"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "dove_men_care_eac704bd"
+    },
+    {
+      "offer_id": "cvs:2026w28:f8817bae",
+      "route": "clip",
+      "title": "$3.00 off — Downy Fabric Enhancer",
+      "description": "ONE Downy In-Wash Scent Boosters 24 oz (includes Downy Light, Unstopables, April Fresh, Cool Cotton and Infusions), (excludes travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008325",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "downy fabric enhancer"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "downy",
+          "fabric",
+          "enhancer",
+          "one",
+          "wash",
+          "scent"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "downy_fabric_enh_2ff97501"
+    },
+    {
+      "offer_id": "cvs:2026w28:fd862178",
+      "route": "clip",
+      "title": "$2.00 off — Gain Laundry Detergent",
+      "description": "ONE Gain Liquid Laundry Detergent 81-88 oz (excludes Gain Rinse, Gain Flings, Gain Liquid Fabric Softeners, Gain Fireworks, Gain Sheets and trial/travel size). · Mfr coupon",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-06",
+      "valid_to": "2026-08-02",
+      "deeplink": "https://www.cvs.com/extracare/home/?g_deal=38737_1008312",
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [
+          "gain laundry detergent"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gain",
+          "laundry",
+          "detergent",
+          "one",
+          "liquid",
+          "excludes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gain_laundry_det_ff1f16a1"
     }
   ]
 }
