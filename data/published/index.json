@@ -1,11 +1,81 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T21:04:22Z",
+  "generated_at": "2026-07-06T00:17:53Z",
   "chains": [
     {
       "chain_id": "cvs",
       "display_name": "CVS Pharmacy",
       "stores": [
+        {
+          "store_id": "cvs-3039",
+          "display_name": "CVS — Watsonville (1966 Main St)",
+          "lat": 36.91952,
+          "lng": -121.78178,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-3039.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12310
+        },
+        {
+          "store_id": "cvs-3952",
+          "display_name": "CVS — Aptos (783 Rio Del Mar Blvd)",
+          "lat": 36.97403,
+          "lng": -121.88994,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-3952.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
+        {
+          "store_id": "cvs-9331",
+          "display_name": "CVS — Santa Cruz (600 Front St)",
+          "lat": 36.97381,
+          "lng": -122.02436,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9331.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
+        {
+          "store_id": "cvs-9332",
+          "display_name": "CVS — Santa Cruz (1700 Mission St)",
+          "lat": 36.96542,
+          "lng": -122.04252,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9332.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
+        {
+          "store_id": "cvs-9597",
+          "display_name": "CVS — Capitola (1750 41st Ave)",
+          "lat": 36.97475,
+          "lng": -121.96376,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9597.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
+        {
+          "store_id": "cvs-9796",
+          "display_name": "CVS y más — Watsonville (490 Rodriguez St)",
+          "lat": 36.91016,
+          "lng": -121.7594,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9796.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
+        {
+          "store_id": "cvs-9853",
+          "display_name": "CVS — Felton (6247 Graham Hill Rd)",
+          "lat": 37.05283,
+          "lng": -122.06824,
+          "geofence_radius_m": 600,
+          "snapshot_url": "stores/cvs/cvs-9853.json",
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
+        },
         {
           "store_id": "cvs-9862",
           "display_name": "CVS — Scotts Valley (257 Mt Hermon Rd)",
@@ -13,8 +83,8 @@
           "lng": -122.0309,
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9862.json",
-          "snapshot_version": "2026-07-05",
-          "snapshot_bytes_gz": 12310
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
         },
         {
           "store_id": "cvs-9960",
@@ -23,8 +93,8 @@
           "lng": -121.95659,
           "geofence_radius_m": 600,
           "snapshot_url": "stores/cvs/cvs-9960.json",
-          "snapshot_version": "2026-07-05",
-          "snapshot_bytes_gz": 12310
+          "snapshot_version": "2026-07-06",
+          "snapshot_bytes_gz": 12311
         }
       ]
     },
