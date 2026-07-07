@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-07-06T04:56:10Z",
+  "generated_at": "2026-07-07T06:02:46Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -443,6 +443,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_6d6d82e2"
+    },
+    {
+      "offer_id": "nob_hill:2026w27:1bb56e1d",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea — Raley’s Fresh Cut Fruit",
+      "description": "Raley’s Fresh Cut Fruit. Member Price $4.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "cut",
+          "fruit"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_8b883df5"
     },
     {
       "offer_id": "nob_hill:2026w27:1cf78086",
@@ -943,6 +973,36 @@
       "offer_family": "gen_ebef5101"
     },
     {
+      "offer_id": "nob_hill:2026w27:373a4d93",
+      "route": "auto_apply",
+      "title": "Member Price $8.39/ea — Ore-Ida Potatoes",
+      "description": "Ore-Ida Potatoes. Member Price $8.39/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 8.39,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-01",
+      "valid_to": "2026-07-07",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "ore",
+          "ida",
+          "potatoes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_5dd61568"
+    },
+    {
       "offer_id": "nob_hill:2026w27:3bb05f68",
       "route": "auto_apply",
       "title": "Member Price $1.99/ea — Simply Ades, Minute Maid Zero Sugar Juice or Gold Peak Tea",
@@ -1257,36 +1317,6 @@
       "offer_family": "gen_8af544a1"
     },
     {
-      "offer_id": "nob_hill:2026w27:56becce5",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea — Raley’s Fresh Cut Fruit",
-      "description": "Raley’s Fresh Cut Fruit. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "cut",
-          "fruit"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_5ded3b91"
-    },
-    {
       "offer_id": "nob_hill:2026w27:5ec54238",
       "route": "auto_apply",
       "title": "Member Price $4.19/ea — Daisy Sour Cream or Florida’s Natural Lemonade",
@@ -1538,36 +1568,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_8a251ff8"
-    },
-    {
-      "offer_id": "nob_hill:2026w27:7a31439c",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea — Ore-Ida Potatoes",
-      "description": "Ore-Ida Potatoes. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-01",
-      "valid_to": "2026-07-07",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "ore",
-          "ida",
-          "potatoes"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_0c0043e3"
     },
     {
       "offer_id": "nob_hill:2026w27:7a42c7f0",
