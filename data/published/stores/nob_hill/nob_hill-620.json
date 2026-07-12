@@ -2,18 +2,18 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-07-10T19:33:34Z",
+  "generated_at": "2026-07-12T08:18:49Z",
   "valid_through_hint": null,
   "offers": [
     {
-      "offer_id": "nob_hill:2026w28:092072b5",
-      "offer_family": "gen_98b03b68",
+      "offer_id": "nob_hill:2026w28:005f9563",
+      "offer_family": "gen_aa358ffa",
       "route": "auto_apply",
-      "title": "Member Price $4.99/lb — Green, Black or Red Seedless Grapes",
-      "description": "Green, Black or Red Seedless Grapes. Member Price $4.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $2.15 — Dr Pepper, Pepsi or 7•Up",
+      "description": "Dr Pepper, Pepsi or 7•Up. Member Price $2.15. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 4.99,
+        "price": 2.15,
         "regular_price": null
       },
       "valid_from": "2026-07-08",
@@ -26,11 +26,8 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "green",
-          "black",
-          "red",
-          "seedless",
-          "grapes"
+          "pepper",
+          "pepsi"
         ],
         "excludes": []
       },
@@ -38,15 +35,15 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:0a9ff679",
-      "offer_family": "gen_6e269d0c",
+      "offer_id": "nob_hill:2026w28:04326c41",
+      "offer_family": "gen_d5b174f6",
       "route": "auto_apply",
-      "title": "Member Price $1.99/ea (reg. $4.99) — Raley’s Cake Square",
-      "description": "Raley’s Cake Square. Member Price $1.99/ea (reg. $4.99). From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $4.79/ea — Amy’s Organic Refried Beans",
+      "description": "Amy’s Organic Refried Beans. Member Price $4.79/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 1.99,
-        "regular_price": 4.99
+        "price": 4.79,
+        "regular_price": null
       },
       "valid_from": "2026-07-08",
       "valid_to": "2026-07-14",
@@ -58,9 +55,71 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "raley",
-          "cake",
-          "square"
+          "amy",
+          "organic",
+          "refried",
+          "beans"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:0c78e50f",
+      "offer_family": "gen_9265edb5",
+      "route": "auto_apply",
+      "title": "Member Price $17.99/ea — Sun Bum Sun Care or Lip Balm",
+      "description": "Sun Bum Sun Care or Lip Balm. Member Price $17.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 17.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sun",
+          "bum",
+          "care",
+          "lip",
+          "balm"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:0e4c6c4c",
+      "offer_family": "gen_cc490a6b",
+      "route": "auto_apply",
+      "title": "Member Price $2.99/ea — Hass Avocados",
+      "description": "Hass Avocados. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hass",
+          "avocados"
         ],
         "excludes": []
       },
@@ -91,37 +150,6 @@
           "raley",
           "cream",
           "cheese"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:14bf191b",
-      "offer_family": "gen_55f4ae4e",
-      "route": "auto_apply",
-      "title": "Member Price $3.69/lb — Tomatoes on the Vine or Broccoli Crowns",
-      "description": "Tomatoes on the Vine or Broccoli Crowns. Member Price $3.69/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.69,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "tomatoes",
-          "vine",
-          "broccoli",
-          "crowns"
         ],
         "excludes": []
       },
@@ -286,6 +314,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w28:233501b6",
+      "offer_family": "gen_3e639221",
+      "route": "auto_apply",
+      "title": "Member Price $6.49/ea — Cheez-It Family Size Crackers, Planters Cashews or Mighty Spark Chicken Snack Sticks",
+      "description": "Cheez-It Family Size Crackers, Planters Cashews or Mighty Spark Chicken Snack Sticks. Member Price $6.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cheez",
+          "family",
+          "size",
+          "crackers",
+          "planters",
+          "cashews"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w28:253c322a",
       "offer_family": "gen_79fe1e18",
       "route": "auto_apply",
@@ -311,6 +372,68 @@
           "volpi",
           "sliced",
           "meat"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:27f64529",
+      "offer_family": "gen_824f0909",
+      "route": "auto_apply",
+      "title": "Member Price $6.29/ea — Raley’s Butter",
+      "description": "Raley’s Butter. Member Price $6.29/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "butter"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:28c394a0",
+      "offer_family": "gen_d193efdc",
+      "route": "auto_apply",
+      "title": "Member Price $3.69/ea — Ghost Zero Sugar Energy Drink, Bloom Pop Prebiotic Soda or Yerba Madre Organic Yerba Mate",
+      "description": "Ghost Zero Sugar Energy Drink, Bloom Pop Prebiotic Soda or Yerba Madre Organic Yerba Mate. Member Price $3.69/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.69,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "ghost",
+          "zero",
+          "sugar",
+          "energy",
+          "drink",
+          "bloom"
         ],
         "excludes": []
       },
@@ -351,14 +474,44 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:3422a2a6",
-      "offer_family": "gen_4a3423a0",
+      "offer_id": "nob_hill:2026w28:31a86905",
+      "offer_family": "gen_1d7d7167",
       "route": "auto_apply",
-      "title": "Member Price $3.99/ea — Raley’s Butter",
-      "description": "Raley’s Butter. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $1.99/ea (reg. $3.99) — Knudsen Sour Cream",
+      "description": "Knudsen Sour Cream. Member Price $1.99/ea (reg. $3.99). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 3.99,
+        "price": 1.99,
+        "regular_price": 3.99
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "knudsen",
+          "sour",
+          "cream"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:343a28fe",
+      "offer_family": "gen_2c21254d",
+      "route": "auto_apply",
+      "title": "Member Price $2.69/ea — Raley’s French Bread",
+      "description": "Raley’s French Bread. Member Price $2.69/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.69,
         "regular_price": null
       },
       "valid_from": "2026-07-08",
@@ -372,7 +525,8 @@
         "size_max_oz": null,
         "keywords": [
           "raley",
-          "butter"
+          "french",
+          "bread"
         ],
         "excludes": []
       },
@@ -413,15 +567,15 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:360b0283",
-      "offer_family": "gen_03aae5b4",
+      "offer_id": "nob_hill:2026w28:3645bcb6",
+      "offer_family": "gen_3a60369f",
       "route": "auto_apply",
-      "title": "Member Price $2.79/ea — Fritos or Cheetos",
-      "description": "Fritos or Cheetos. Member Price $2.79/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $3.99/ea (reg. $7.99) — Norbest 93% Lean Ground Turkey",
+      "description": "Norbest 93% Lean Ground Turkey. Member Price $3.99/ea (reg. $7.99). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 2.79,
-        "regular_price": null
+        "price": 3.99,
+        "regular_price": 7.99
       },
       "valid_from": "2026-07-08",
       "valid_to": "2026-07-14",
@@ -433,8 +587,10 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "fritos",
-          "cheetos"
+          "norbest",
+          "lean",
+          "ground",
+          "turkey"
         ],
         "excludes": []
       },
@@ -596,71 +752,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:4db1d6b4",
-      "offer_family": "gen_d2f790cd",
-      "route": "auto_apply",
-      "title": "Member Price $6.99/ea — General Mills Cereal or Nature Valley Granola Bars or Biscuits",
-      "description": "General Mills Cereal or Nature Valley Granola Bars or Biscuits. Member Price $6.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "general",
-          "mills",
-          "cereal",
-          "nature",
-          "valley",
-          "granola"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:4e6eff71",
-      "offer_family": "gen_f80db44e",
-      "route": "auto_apply",
-      "title": "Member Price $5.79/ea — 24-Pack Crystal Geyser Spring Water",
-      "description": "24-Pack Crystal Geyser Spring Water. Member Price $5.79/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.79,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "crystal",
-          "geyser",
-          "spring",
-          "water"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:550c3bd1",
       "offer_family": "gen_c694fb53",
       "route": "auto_apply",
@@ -716,6 +807,128 @@
           "cage",
           "free",
           "eggs"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:59f3e421",
+      "offer_family": "gen_f588e1f8",
+      "route": "auto_apply",
+      "title": "Member Price $0.02 — Ménage à Trois",
+      "description": "Ménage à Trois. Member Price $0.02. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.02,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "nage",
+          "trois"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:5e7daaac",
+      "offer_family": "gen_1b9fdabb",
+      "route": "auto_apply",
+      "title": "Member Price $5.29/ea — Sonoma Gourmet Organic Pizza Sauce",
+      "description": "Sonoma Gourmet Organic Pizza Sauce. Member Price $5.29/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sonoma",
+          "gourmet",
+          "organic",
+          "pizza",
+          "sauce"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:623f00f7",
+      "offer_family": "gen_9a487363",
+      "route": "auto_apply",
+      "title": "Member Price $10.99/lb — Raley’s Chuck Roast or Steak",
+      "description": "Raley’s Chuck Roast or Steak. Member Price $10.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 10.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "chuck",
+          "roast",
+          "steak"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:63026254",
+      "offer_family": "gen_b2d0eea0",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea (reg. $5.79) — Greek Gods Yogurt",
+      "description": "Greek Gods Yogurt. Member Price $4.99/ea (reg. $5.79). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": 5.79
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "greek",
+          "gods",
+          "yogurt"
         ],
         "excludes": []
       },
@@ -819,36 +1032,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:68254344",
-      "offer_family": "gen_08e2a0e3",
-      "route": "auto_apply",
-      "title": "Member Price $1.98/ea — Raley’s Canned Fruit",
-      "description": "Raley’s Canned Fruit. Member Price $1.98/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1.98,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "canned",
-          "fruit"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:68ab5166",
       "offer_family": "gen_7b570873",
       "route": "auto_apply",
@@ -908,95 +1091,6 @@
           "smoked",
           "bite",
           "size"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:6ac57a82",
-      "offer_family": "gen_4a1a4eaa",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/ea — Fresh Berries",
-      "description": "Fresh Berries. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "berries"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:6dbe4dd7",
-      "offer_family": "gen_cbde793a",
-      "route": "auto_apply",
-      "title": "Member Price $4.49/ea — Eggo Waffles",
-      "description": "Eggo Waffles. Member Price $4.49/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.49,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "eggo",
-          "waffles"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:713ec87b",
-      "offer_family": "gen_a2337abf",
-      "route": "auto_apply",
-      "title": "Member Price $7.49/ea — Dave’s Killer Bread Thin-Sliced",
-      "description": "Dave’s Killer Bread Thin-Sliced. Member Price $7.49/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 7.49,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "dave",
-          "killer",
-          "bread",
-          "thin",
-          "sliced"
         ],
         "excludes": []
       },
@@ -1121,38 +1215,6 @@
           "water",
           "salad",
           "shrimp"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:7a74716e",
-      "offer_family": "gen_9228b082",
-      "route": "auto_apply",
-      "title": "Member Price $6.89/ea — Aussie Shampoo, Conditioner or Styling Aids",
-      "description": "Aussie Shampoo, Conditioner or Styling Aids. Member Price $6.89/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.89,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "aussie",
-          "shampoo",
-          "conditioner",
-          "styling",
-          "aids"
         ],
         "excludes": []
       },
@@ -1286,37 +1348,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:80300f5b",
-      "offer_family": "gen_7c8c0cf0",
-      "route": "auto_apply",
-      "title": "Member Price $0.04 — Maker’s Mark Bourbon Whisky",
-      "description": "Maker’s Mark Bourbon Whisky. Member Price $0.04. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.04,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "maker",
-          "mark",
-          "bourbon",
-          "whisky"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:810f2a90",
       "offer_family": "gen_d588951d",
       "route": "auto_apply",
@@ -1378,11 +1409,11 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:888d8f22",
-      "offer_family": "gen_9f87bcba",
+      "offer_id": "nob_hill:2026w28:85a4d673",
+      "offer_family": "gen_0c8c0e87",
       "route": "auto_apply",
-      "title": "Member Price $4.99/ea — Quaker Rice Cakes, Siete Chips or Keebler Sandwich Crackers",
-      "description": "Quaker Rice Cakes, Siete Chips or Keebler Sandwich Crackers. Member Price $4.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $4.99/ea — Raley’s Preserves, Marmalade or Jam",
+      "description": "Raley’s Preserves, Marmalade or Jam. Member Price $4.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
         "price": 4.99,
@@ -1398,12 +1429,10 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "quaker",
-          "rice",
-          "cakes",
-          "siete",
-          "chips",
-          "keebler"
+          "raley",
+          "preserves",
+          "marmalade",
+          "jam"
         ],
         "excludes": []
       },
@@ -1436,39 +1465,6 @@
           "gel",
           "disposable",
           "razors"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:89ecd35b",
-      "offer_family": "gen_1dee9f15",
-      "route": "auto_apply",
-      "title": "Member Price $1.07/ea — Vital Farms Pasture-Raised Extra Large Eggs",
-      "description": "Vital Farms Pasture-Raised Extra Large Eggs. Member Price $1.07/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1.07,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "vital",
-          "farms",
-          "pasture",
-          "raised",
-          "extra",
-          "large"
         ],
         "excludes": []
       },
@@ -1537,38 +1533,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:8e13c39e",
-      "offer_family": "gen_358a4fd5",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/lb — Foster Farms Split Chicken Breasts",
-      "description": "Foster Farms Split Chicken Breasts. Member Price $2.99/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "foster",
-          "farms",
-          "split",
-          "chicken",
-          "breasts"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:90fd4652",
       "offer_family": "gen_0311be8e",
       "route": "auto_apply",
@@ -1592,37 +1556,6 @@
           "raley",
           "apple",
           "juice"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:93a68f41",
-      "offer_family": "gen_7c1b166a",
-      "route": "auto_apply",
-      "title": "Member Price $3.00/ea (reg. $5.49) — 8-Pack La Croix Sparkling Water",
-      "description": "8-Pack La Croix Sparkling Water. Member Price $3.00/ea (reg. $5.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3,
-        "regular_price": 5.49
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "croix",
-          "sparkling",
-          "water"
         ],
         "excludes": []
       },
@@ -1662,39 +1595,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:9fbaa57b",
-      "offer_family": "gen_6e0477a9",
-      "route": "auto_apply",
-      "title": "Member Price $8.99/ea (reg. $9.99) — Raley’s Italian Dry Salame, Buitoni Pasta or Sauce or Galbani Mozzarella Cheese",
-      "description": "Raley’s Italian Dry Salame, Buitoni Pasta or Sauce or Galbani Mozzarella Cheese. Member Price $8.99/ea (reg. $9.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 8.99,
-        "regular_price": 9.99
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "italian",
-          "dry",
-          "salame",
-          "buitoni",
-          "pasta"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:a0289cfc",
       "offer_family": "gen_31aa9c11",
       "route": "auto_apply",
@@ -1727,14 +1627,14 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:a4321652",
-      "offer_family": "gen_220f79b5",
+      "offer_id": "nob_hill:2026w28:a476f31a",
+      "offer_family": "gen_c998792d",
       "route": "auto_apply",
-      "title": "Member Price $0.17 — Crest Pro-Health Toothpaste or Mouthwash or Oral-B Toothbrushes",
-      "description": "Crest Pro-Health Toothpaste or Mouthwash or Oral-B Toothbrushes. Member Price $0.17. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $5.29/ea — Herdez Salsa",
+      "description": "Herdez Salsa. Member Price $5.29/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 0.17,
+        "price": 5.29,
         "regular_price": null
       },
       "valid_from": "2026-07-08",
@@ -1747,12 +1647,8 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "crest",
-          "pro",
-          "health",
-          "toothpaste",
-          "mouthwash",
-          "oral"
+          "herdez",
+          "salsa"
         ],
         "excludes": []
       },
@@ -1790,36 +1686,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:a82cda79",
-      "offer_family": "gen_f6b76ded",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea — Knudsen Sour Cream",
-      "description": "Knudsen Sour Cream. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "knudsen",
-          "sour",
-          "cream"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:a9bebdea",
       "offer_family": "gen_67a7ea8b",
       "route": "auto_apply",
@@ -1844,6 +1710,39 @@
           "pepsi",
           "pepper",
           "snapple"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:ae20353e",
+      "offer_family": "gen_1ccc656d",
+      "route": "auto_apply",
+      "title": "Member Price $2.69/ea — La Colombe Draft Latte or Poppi Prebiotic Soda",
+      "description": "La Colombe Draft Latte or Poppi Prebiotic Soda. Member Price $2.69/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.69,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "colombe",
+          "draft",
+          "latte",
+          "poppi",
+          "prebiotic",
+          "soda"
         ],
         "excludes": []
       },
@@ -1977,14 +1876,14 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:b48bd4e9",
-      "offer_family": "gen_52a96a5a",
+      "offer_id": "nob_hill:2026w28:b3725bf0",
+      "offer_family": "gen_fb1e76df",
       "route": "auto_apply",
-      "title": "Member Price $2.99/ea — S&W Organic Beans",
-      "description": "S&W Organic Beans. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $3.99/ea — Tim’s Potato Chips, Hawaiian Kettle Style Potato Chips, Pringles Party Pack Potato Crisps or Pop Secret Popcorn",
+      "description": "Tim’s Potato Chips, Hawaiian Kettle Style Potato Chips, Pringles Party Pack Potato Crisps or Pop Secret Popcorn. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 2.99,
+        "price": 3.99,
         "regular_price": null
       },
       "valid_from": "2026-07-08",
@@ -1997,41 +1896,12 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "organic",
-          "beans"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:b76cfbf4",
-      "offer_family": "gen_7d0c3ecd",
-      "route": "auto_apply",
-      "title": "Member Price $7.99/ea (reg. $8.99) — Hot Pockets, White Castle Burgers or Ajinomoto Gyoza Dumplings",
-      "description": "Hot Pockets, White Castle Burgers or Ajinomoto Gyoza Dumplings. Member Price $7.99/ea (reg. $8.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 7.99,
-        "regular_price": 8.99
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "hot",
-          "pockets",
-          "white",
-          "castle",
-          "burgers",
-          "ajinomoto"
+          "tim",
+          "potato",
+          "chips",
+          "hawaiian",
+          "kettle",
+          "style"
         ],
         "excludes": []
       },
@@ -2069,6 +1939,37 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w28:bc785526",
+      "offer_family": "gen_fec63234",
+      "route": "auto_apply",
+      "title": "Member Price $6.49/ea — Raley’s 100% Pure Honey Bear",
+      "description": "Raley’s 100% Pure Honey Bear. Member Price $6.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "pure",
+          "honey",
+          "bear"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w28:bee3aa14",
       "offer_family": "gen_e0957d61",
       "route": "auto_apply",
@@ -2099,14 +2000,14 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:bee8195c",
-      "offer_family": "gen_ae6fa466",
+      "offer_id": "nob_hill:2026w28:c3bee88b",
+      "offer_family": "gen_3b25c07e",
       "route": "auto_apply",
-      "title": "Member Price $1.25/ea — Raley’s Sandwich Rolls",
-      "description": "Raley’s Sandwich Rolls. Member Price $1.25/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $0.99/ea — Yoplait Yogurt",
+      "description": "Yoplait Yogurt. Member Price $0.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 1.25,
+        "price": 0.99,
         "regular_price": null
       },
       "valid_from": "2026-07-08",
@@ -2119,70 +2020,8 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "raley",
-          "sandwich",
-          "rolls"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:bfb0ebbf",
-      "offer_family": "gen_620464fe",
-      "route": "auto_apply",
-      "title": "Member Price $1.42/ea — Band-Aid Bandages or Neosporin Ointment",
-      "description": "Band-Aid Bandages or Neosporin Ointment. Member Price $1.42/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1.42,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "band",
-          "aid",
-          "bandages",
-          "neosporin",
-          "ointment"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:bfcddf09",
-      "offer_family": "gen_27f612c3",
-      "route": "auto_apply",
-      "title": "Member Price $0.05 — 1800 Silver Tequila",
-      "description": "1800 Silver Tequila. Member Price $0.05. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.05,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "silver",
-          "tequila"
+          "yoplait",
+          "yogurt"
         ],
         "excludes": []
       },
@@ -2215,6 +2054,39 @@
           "deli",
           "lunch",
           "meat"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:cda5bfa1",
+      "offer_family": "gen_307e3f0a",
+      "route": "auto_apply",
+      "title": "Member Price $6.29/ea — Lay’s Potato or Kettle Cooked Chips, SunChips, Blue Diamond Almonds or Juantonio’s Tortilla Chips",
+      "description": "Lay’s Potato or Kettle Cooked Chips, SunChips, Blue Diamond Almonds or Juantonio’s Tortilla Chips. Member Price $6.29/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "lay",
+          "potato",
+          "kettle",
+          "cooked",
+          "chips",
+          "sunchips"
         ],
         "excludes": []
       },
@@ -2490,68 +2362,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w28:dda12ccb",
-      "offer_family": "gen_a5327706",
-      "route": "auto_apply",
-      "title": "Member Price $6.99/ea — Purely Made Organic Salad Mix",
-      "description": "Purely Made Organic Salad Mix. Member Price $6.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "purely",
-          "made",
-          "organic",
-          "salad",
-          "mix"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w28:dee8abb9",
-      "offer_family": "gen_e6e92c7a",
-      "route": "auto_apply",
-      "title": "Member Price $15.99/ea (reg. $21.99) — 12-Pack Firestone Walker 805",
-      "description": "12-Pack Firestone Walker 805. Member Price $15.99/ea (reg. $21.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 15.99,
-        "regular_price": 21.99
-      },
-      "valid_from": "2026-07-08",
-      "valid_to": "2026-07-14",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "firestone",
-          "walker"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w28:e0fe758b",
       "offer_family": "gen_a8bc5023",
       "route": "auto_apply",
@@ -2710,6 +2520,37 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w28:e8adf12d",
+      "offer_family": "gen_41c06f23",
+      "route": "auto_apply",
+      "title": "Member Price $2.89/lb — Yellow, Zucchini or Grey Squash",
+      "description": "Yellow, Zucchini or Grey Squash. Member Price $2.89/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.89,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "yellow",
+          "zucchini",
+          "grey",
+          "squash"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w28:ea21119d",
       "offer_family": "gen_b3457d4b",
       "route": "auto_apply",
@@ -2736,6 +2577,35 @@
           "pork",
           "sausage",
           "roll"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:ef5bc6b0",
+      "offer_family": "gen_8fff6e12",
+      "route": "auto_apply",
+      "title": "Member Price $5.49/ea — Fritos or Cheetos",
+      "description": "Fritos or Cheetos. Member Price $5.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fritos",
+          "cheetos"
         ],
         "excludes": []
       },
@@ -2924,6 +2794,69 @@
         "keywords": [
           "bota",
           "box"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:fa044029",
+      "offer_family": "gen_b74a80e7",
+      "route": "auto_apply",
+      "title": "Member Price $1.49/ea (reg. $1.99) — StarKist Chunk Light Tuna In Water",
+      "description": "StarKist Chunk Light Tuna In Water. Member Price $1.49/ea (reg. $1.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 1.49,
+        "regular_price": 1.99
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "starkist",
+          "chunk",
+          "light",
+          "tuna",
+          "water"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w28:fae0ba49",
+      "offer_family": "gen_2ccae8e4",
+      "route": "auto_apply",
+      "title": "Member Price $6.49/lb — Raley’s Fresh Pork Tenderloin Roast",
+      "description": "Raley’s Fresh Pork Tenderloin Roast. Member Price $6.49/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-08",
+      "valid_to": "2026-07-14",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "pork",
+          "tenderloin",
+          "roast"
         ],
         "excludes": []
       },
