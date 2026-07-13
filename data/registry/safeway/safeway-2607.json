@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "safeway",
   "store_id": "safeway-2607",
-  "generated_at": "2026-07-10T21:05:42Z",
+  "generated_at": "2026-07-13T16:38:04Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -38,44 +38,6 @@
       "offer_family": "silk_cbd07559"
     },
     {
-      "offer_id": "safeway:2026w24:12cece8a",
-      "route": "clip",
-      "title": "$8.00 OFF when you buy 2 — Dove, Dove Men+Care, Axe",
-      "description": "Dove, Dove Men+Care, Axe · $8.00 OFF when you buy TWO(2) FIFA World Cup Branded Dove, Dove Men+Care, Axe Body Wash or Bar items. Any variety. Excludes Dove Men+Care 13.5oz Body Wash, Dove Liquid Hand Wash, core items not listed, trial & travel. Items must appear on the same receipt.",
-      "value": {
-        "type": "amount_off",
-        "amount": 8,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-14",
-      "valid_to": "2026-07-12",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "dove",
-          "axe"
-        ],
-        "category": "body wash",
-        "size_min_oz": 13.5,
-        "size_max_oz": 13.5,
-        "keywords": [
-          "dove",
-          "men",
-          "care",
-          "axe",
-          "fifa",
-          "world"
-        ],
-        "excludes": [
-          "dove men+care 13"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "dove_5f1b8bf2"
-    },
-    {
       "offer_id": "safeway:2026w24:4c7fd444",
       "route": "clip",
       "title": "$1.00 OFF — Quaker",
@@ -109,73 +71,6 @@
       "offer_family": "quaker_77d56aa1"
     },
     {
-      "offer_id": "safeway:2026w24:5ff382bf",
-      "route": "clip",
-      "title": "$1.00 OFF when you buy 2 — Gatorade®, Gatorlyte®, Propel®, or Gatorade Wa",
-      "description": "Gatorade®, Gatorlyte®, Propel®, or Gatorade Wa · $1.00 OFF when you buy TWO(2) Gatorade®, Gatorlyte®, Propel®, or Gatorade Water. Valid on SINGLE SERVE 28oz GATORADE®, 20oz GATORLYTE®, 20oz PROPEL®, or 1L GATORADE WATER. Items must appear on the same receipt.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-14",
-      "valid_to": "2026-07-12",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "gatorade",
-          "propel"
-        ],
-        "category": "beverages",
-        "size_min_oz": 28,
-        "size_max_oz": 28,
-        "keywords": [
-          "gatorade",
-          "gatorlyte",
-          "propel",
-          "water"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gatorade_08d7b3b1"
-    },
-    {
-      "offer_id": "safeway:2026w24:9f929a5c",
-      "route": "clip",
-      "title": "$3.00 OFF when you buy 4 — Pepsi-Cola",
-      "description": "Pepsi-Cola · $3.00 OFF when you buy FOUR(4) PARTICIPATING PEPSI-COLA BEVERAGES. Valid on MULTIPACKS ONLY. Items must appear on the same receipt.",
-      "value": {
-        "type": "amount_off",
-        "amount": 3,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-14",
-      "valid_to": "2026-07-12",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "pepsi-cola"
-        ],
-        "category": "beverages",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pepsi",
-          "cola",
-          "participating",
-          "beverages"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pepsi_cola_8d253747"
-    },
-    {
       "offer_id": "safeway:2026w24:b52cd10e",
       "route": "clip",
       "title": "$1.00 OFF — Oatly",
@@ -206,41 +101,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "oatly_a9abb754"
-    },
-    {
-      "offer_id": "safeway:2026w25:3fa5ba52",
-      "route": "clip",
-      "title": "$3.00 OFF — NEUTROGENA® SUN",
-      "description": "NEUTROGENA® SUN · $3.00 OFF when you buy ONE(1) NEUTROGENA® SUN. Any variety. Excludes travel & trial sizes.",
-      "value": {
-        "type": "amount_off",
-        "amount": 3,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-21",
-      "valid_to": "2026-07-26",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "neutrogena"
-        ],
-        "category": "sunscreen",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "neutrogena",
-          "sun",
-          "any",
-          "variety"
-        ],
-        "excludes": [
-          "travel & trial sizes"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "neutrogena_3de9342d"
     },
     {
       "offer_id": "safeway:2026w25:bf2fc347",
@@ -278,38 +138,6 @@
       "offer_family": "fancy_feast_69478b60"
     },
     {
-      "offer_id": "safeway:2026w25:e2240d1c",
-      "route": "clip",
-      "title": "$1.50 OFF — LUNA Berry Bar",
-      "description": "LUNA Berry Bar · Limit 3. $1.50 OFF when you buy ONE(1) LUNA Berry Bar. Valid on Mixed Berry or Strawberry Banana.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1.5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-15",
-      "valid_to": "2026-07-13",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "luna"
-        ],
-        "category": "energy bar",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "luna",
-          "berry",
-          "bar"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "luna_9d141b5d"
-    },
-    {
       "offer_id": "safeway:2026w25:ec95d523",
       "route": "clip",
       "title": "$2.00 OFF — Fancy Feast®",
@@ -343,43 +171,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "fancy_feast_cee43e05"
-    },
-    {
-      "offer_id": "safeway:2026w26:10add2e7",
-      "route": "clip",
-      "title": "$5.00 OFF — Pampers (Boxed Pampers Baby Wipes $17.99 value or more)",
-      "description": "Pampers · $5.00 OFF when you buy ONE(1) Boxed Pampers Baby Wipes $17.99 value or more. Valid on 336 ct to 1008 ct. Excludes Baby Clean Fresh Scent 432 ct, 1X, 2X, 3X, 4X Wipes Packs, and trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-25",
-      "valid_to": "2026-07-29",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "baby wipes",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "boxed",
-          "baby",
-          "wipes",
-          "value",
-          "more"
-        ],
-        "excludes": [
-          "baby clean fresh scent 432 ct, 1x, 2x, 3x, 4x wipes packs, and trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_1aa9dd9f"
     },
     {
       "offer_id": "safeway:2026w26:1739c9dc",
@@ -453,74 +244,41 @@
       "offer_family": "fancy_feast_94cf1dac"
     },
     {
-      "offer_id": "safeway:2026w26:6866a3f4",
+      "offer_id": "safeway:2026w26:77fe394f",
       "route": "clip",
-      "title": "$1.00 OFF — BAND-AID®",
-      "description": "BAND-AID® · $1.00 OFF when you buy ONE(1) BAND-AID® Brand Adhesive Bandages, BAND-AID® Brand of First Aid or NEOSPORIN®. Any variety. Excludes trial and travel sizes.",
+      "title": "$5.00 OFF — Pampers",
+      "description": "Pampers · $5.00 OFF when you buy ONE(1) Boxed Pampers Baby Wipes $17.99 value or more. Valid on 336 ct to 1008 ct. Excludes Baby Clean Fresh Scent 432 ct, 1X, 2X, 3X, 4X Wipes Packs, and trial/travel size.",
       "value": {
         "type": "amount_off",
-        "amount": 1,
+        "amount": 5,
         "currency": "USD"
       },
-      "valid_from": "2026-06-28",
-      "valid_to": "2026-07-26",
+      "valid_from": "2026-06-25",
+      "valid_to": "2026-07-29",
       "deeplink": null,
       "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
       "hints": {
         "brands": [
-          "band-aid",
-          "neosporin"
+          "pampers"
         ],
-        "category": "personal care",
+        "category": "baby wipes",
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "band",
-          "aid",
-          "brand",
-          "adhesive",
-          "bandages",
-          "first"
+          "pampers",
+          "boxed",
+          "baby",
+          "wipes",
+          "value",
+          "more"
         ],
         "excludes": [
-          "trial and travel sizes"
+          "baby clean fresh scent 432 ct, 1x, 2x, 3x, 4x wipes packs, and trial/travel size"
         ]
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "band_aid_953a3642"
-    },
-    {
-      "offer_id": "safeway:2026w26:820adcd6",
-      "route": "clip",
-      "title": "$1.50 OFF — Huggies® (Huggies® Little Swimmers®)",
-      "description": "Huggies® · $1.50 OFF when you buy ONE(1) Huggies® Little Swimmers®. Valid on 10ct. or larger.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1.5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-28",
-      "valid_to": "2026-07-26",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "huggies"
-        ],
-        "category": "diapers",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "huggies",
-          "little",
-          "swimmers"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "huggies_352cfe03"
+      "offer_family": "pampers_30143590"
     },
     {
       "offer_id": "safeway:2026w26:8ecf4bfb",
@@ -552,36 +310,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "colgate_ac357833"
-    },
-    {
-      "offer_id": "safeway:2026w26:b14fdf2c",
-      "route": "clip",
-      "title": "$1.00 OFF — Scott",
-      "description": "Scott · $1.00 OFF when you buy ONE(1) Scott®. Valid on Scott® 1000 12ct or larger or Scott® ComfortPlus 12 Family Roles or larger.",
-      "value": {
-        "type": "amount_off",
-        "amount": 1,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-28",
-      "valid_to": "2026-07-12",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "scott"
-        ],
-        "category": "toilet paper",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "scott"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "scott_962822df"
     },
     {
       "offer_id": "safeway:2026w26:b97cab7b",
@@ -797,39 +525,40 @@
       "offer_family": "always_2e6ee975"
     },
     {
-      "offer_id": "safeway:2026w27:1317b0a5",
+      "offer_id": "safeway:2026w27:111b12b6",
       "route": "clip",
-      "title": "$1.50 OFF — Huggies® (Huggies® Diapers, Little Movers®, Little Movers® HuggFit™ 360, Little Snugglers®, Overnites, Snug & Dry™, and Skin Essen)",
-      "description": "Huggies® · $1.50 OFF when you buy ONE(1) Huggies® Diapers, Little Movers®, Little Movers® HuggFit™ 360, Little Snugglers®, Overnites, Snug & Dry™, and Skin Essentials™. Valid on 10ct. or larger.",
+      "title": "$5.00 OFF — Dove",
+      "description": "Dove · $5.00 OFF when you buy ONE(1) Dove Clinical Deodorant. Any variety. Excludes Trial & Travel and Dove Men+Care.",
       "value": {
         "type": "amount_off",
-        "amount": 1.5,
+        "amount": 5,
         "currency": "USD"
       },
       "valid_from": "2026-07-05",
-      "valid_to": "2026-08-02",
+      "valid_to": "2026-07-19",
       "deeplink": null,
       "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
       "hints": {
         "brands": [
-          "huggies"
+          "dove"
         ],
-        "category": "diaper",
+        "category": "deodorant",
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "huggies",
-          "diapers",
-          "little",
-          "movers",
-          "huggfit",
-          "snugglers"
+          "dove",
+          "clinical",
+          "deodorant",
+          "any",
+          "variety"
         ],
-        "excludes": []
+        "excludes": [
+          "trial & travel and dove men+care"
+        ]
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "huggies_d1e36cdf"
+      "offer_family": "dove_58c9a6e1"
     },
     {
       "offer_id": "safeway:2026w27:14a352c4",
@@ -964,6 +693,41 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_e875d6f8"
+    },
+    {
+      "offer_id": "safeway:2026w27:222e8e50",
+      "route": "clip",
+      "title": "$1.50 OFF — Huggies®",
+      "description": "Huggies® · $1.50 OFF when you buy ONE(1) Huggies® Diapers, Little Movers®, Little Movers® HuggFit™ 360, Little Snugglers®, Overnites, Snug & Dry™, and Skin Essentials™. Valid on 10ct. or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "huggies"
+        ],
+        "category": "diaper",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "huggies",
+          "diapers",
+          "little",
+          "movers",
+          "huggfit",
+          "snugglers"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "huggies_065f5aa2"
     },
     {
       "offer_id": "safeway:2026w27:25a53a2d",
@@ -1176,42 +940,6 @@
       "offer_family": "tide_cda45eed"
     },
     {
-      "offer_id": "safeway:2026w27:3ff56949",
-      "route": "clip",
-      "title": "$8.00 OFF — Pampers",
-      "description": "Pampers · $8.00 OFF when you buy ONE(1) Pampers Swaddlers Diapers Enormous Packs . Any variety. Excludes Swaddlers360 and trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 8,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-29",
-      "valid_to": "2026-07-13",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "diaper",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "swaddlers",
-          "diapers",
-          "enormous",
-          "packs"
-        ],
-        "excludes": [
-          "swaddlers360 and trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_43f4c0f3"
-    },
-    {
       "offer_id": "safeway:2026w27:48021191",
       "route": "clip",
       "title": "$1.50 OFF — ZEVO (Zevo On-Body Insect Repellent Aerosol)",
@@ -1353,42 +1081,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "kotex_f8774627"
-    },
-    {
-      "offer_id": "safeway:2026w27:540c274b",
-      "route": "clip",
-      "title": "$2.00 OFF — Covergirl (COVERGIRL® Face Product. Any variety)",
-      "description": "Covergirl · $2.00 OFF when you buy ONE(1) COVERGIRL® Face Product. Any variety. Excludes Cheekers, accessories and travel/trial size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-05",
-      "valid_to": "2026-07-19",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "covergirl"
-        ],
-        "category": "makeup",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "covergirl",
-          "face",
-          "product",
-          "any",
-          "variety"
-        ],
-        "excludes": [
-          "cheekers, accessories and travel/trial size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "covergirl_3d196468"
     },
     {
       "offer_id": "safeway:2026w27:5a041e41",
@@ -1719,42 +1411,6 @@
       "offer_family": "tide_9373f4d9"
     },
     {
-      "offer_id": "safeway:2026w27:7c0c8de4",
-      "route": "clip",
-      "title": "$5.00 OFF — Pampers (Pampers Cruisers 360 Diapers Enormous Pack)",
-      "description": "Pampers · $5.00 OFF when you buy ONE(1) Pampers Cruisers 360 Diapers Enormous Pack . Any variety. Excludes trial/travel size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 5,
-        "currency": "USD"
-      },
-      "valid_from": "2026-06-29",
-      "valid_to": "2026-07-13",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "pampers"
-        ],
-        "category": "diaper",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pampers",
-          "cruisers",
-          "diapers",
-          "enormous",
-          "pack"
-        ],
-        "excludes": [
-          "trial/travel size"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "pampers_8c84df1f"
-    },
-    {
       "offer_id": "safeway:2026w27:7cb53a8c",
       "route": "clip",
       "title": "$0.50 OFF when you buy 2 — General Mills Fruit Snacks",
@@ -2037,42 +1693,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "always_235669fe"
-    },
-    {
-      "offer_id": "safeway:2026w27:90a667f3",
-      "route": "clip",
-      "title": "$2.00 OFF — Covergirl (COVERGIRL® Eye Product. Any variety)",
-      "description": "Covergirl · $2.00 OFF when you buy ONE(1) COVERGIRL® Eye Product. Any variety. Excludes Eye Enhancer Palettes, Easy Breezy Brow Fill + Define, Perfect Blend, accessories and travel/trial size.",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-05",
-      "valid_to": "2026-07-19",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "covergirl"
-        ],
-        "category": "makeup",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "covergirl",
-          "eye",
-          "product",
-          "any",
-          "variety"
-        ],
-        "excludes": [
-          "eye enhancer palettes, easy breezy brow fill + define, perfect blend, accessorie"
-        ]
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "covergirl_0cd72db0"
     },
     {
       "offer_id": "safeway:2026w27:92c23dff",
@@ -2532,6 +2152,78 @@
       "offer_family": "gain_2775c585"
     },
     {
+      "offer_id": "safeway:2026w27:ce1f98de",
+      "route": "clip",
+      "title": "$2.00 OFF — Vicks (PainQuil Liquid product)",
+      "description": "Vicks · $2.00 OFF when you buy ONE(1) PainQuil Liquid product. Valid on PainQuil Liquid product. Excludes trial/travel size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "vicks"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "vicks",
+          "painquil",
+          "liquid",
+          "product"
+        ],
+        "excludes": [
+          "trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "vicks_0badd321"
+    },
+    {
+      "offer_id": "safeway:2026w27:d8a02986",
+      "route": "clip",
+      "title": "$2.00 OFF — Olly",
+      "description": "Olly · $2.00 OFF when you buy ONE(1) Olly Body Wash or Serum product. Any variety. Excludes Olly products 3oz and smaller.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "olly"
+        ],
+        "category": "body wash",
+        "size_min_oz": 3,
+        "size_max_oz": 3,
+        "keywords": [
+          "olly",
+          "body",
+          "wash",
+          "serum",
+          "product",
+          "any"
+        ],
+        "excludes": [
+          "olly products 3oz and smaller"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "olly_a07e510a"
+    },
+    {
       "offer_id": "safeway:2026w27:d8f6a065",
       "route": "clip",
       "title": "$6.00 OFF when you buy 2 — BOOST®",
@@ -2814,6 +2506,43 @@
       "offer_family": "general_mills_c2a3d8fb"
     },
     {
+      "offer_id": "safeway:2026w28:01693ac9",
+      "route": "clip",
+      "title": "$3.50 OFF — PRECISE®",
+      "description": "PRECISE® · $3.50 OFF when you buy ONE(1) TYLENOL® PRECISE ™ Pain Relieving Patches or Cream. Any variety. Excludes Adult TYLENOL®, TYLENOL® PM, TYLENOL® Cold & Sinus, and travel & trial sizes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "tylenol"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "precise",
+          "tylenol",
+          "pain",
+          "relieving",
+          "patches",
+          "cream"
+        ],
+        "excludes": [
+          "adult tylenol®, tylenol® pm, tylenol® cold & sinus, and travel & trial sizes"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tylenol_47b48f1d"
+    },
+    {
       "offer_id": "safeway:2026w28:02a53ac5",
       "route": "auto_apply",
       "title": "Member Price $2.99 — Strawberries 1-lb. Blueberries Pint. Raspberries or Blackberries 6-oz.",
@@ -3008,6 +2737,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "bounce_c88458ff"
+    },
+    {
+      "offer_id": "safeway:2026w28:0490ccf2",
+      "route": "clip",
+      "title": "$4.00 OFF — TYLENOL®",
+      "description": "TYLENOL® · $4.00 OFF when you buy ONE(1) Adult TYLENOL®. Valid on 200ct or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "tylenol"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tylenol",
+          "adult"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tylenol_550c2966"
     },
     {
       "offer_id": "safeway:2026w28:072d8855",
@@ -3538,6 +3298,39 @@
       "offer_family": "gen_d3919847"
     },
     {
+      "offer_id": "safeway:2026w28:146718f3",
+      "route": "clip",
+      "title": "$2.00 OFF — CLEAN & CLEAR®",
+      "description": "CLEAN & CLEAR® · $2.00 OFF when you buy ONE(1) CLEAN & CLEAR®. Any variety. Excludes single use masks & travel/trial sizes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [],
+        "category": "skin care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "clean",
+          "clear",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "single use masks & travel/trial sizes"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_f1e4ae33"
+    },
+    {
       "offer_id": "safeway:2026w28:14d17c49",
       "route": "auto_apply",
       "title": "Member Price $3.99 — On-Cor Entrée",
@@ -3763,6 +3556,37 @@
       "offer_family": "gen_43de5ae3"
     },
     {
+      "offer_id": "safeway:2026w28:1c8a53b7",
+      "route": "clip",
+      "title": "$2.00 OFF — GATORADE® WATER",
+      "description": "GATORADE® WATER · $2.00 OFF when you buy ONE(1) GATORADE® WATER. Valid on SINGLE SERVE.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "gatorade"
+        ],
+        "category": "water",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gatorade",
+          "water"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gatorade_b0bd684c"
+    },
+    {
       "offer_id": "safeway:2026w28:1cebfdaa",
       "route": "clip",
       "title": "$3.00 OFF when you buy 2 — NATIVE",
@@ -3962,6 +3786,41 @@
       "offer_family": "sargento_1ab3d65f"
     },
     {
+      "offer_id": "safeway:2026w28:23f9ac8a",
+      "route": "clip",
+      "title": "$2.00 OFF — Schick® Men's Razor,Refill",
+      "description": "Schick® Men's Razor,Refill · $2.00 OFF when you buy ONE(1) Schick® Men's Razor,Refill. Valid on Schick® Hydro® or Schick® Quattro® Titanium* Razor or Refill. Excludes Schick® Disposables (coated blades).",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "schick"
+        ],
+        "category": "razors",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "schick",
+          "men",
+          "razor",
+          "refill"
+        ],
+        "excludes": [
+          "schick® disposables (coated blades)"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "schick_2507864f"
+    },
+    {
       "offer_id": "safeway:2026w28:24aa69a9",
       "route": "auto_apply",
       "title": "4 for $5.00 Member Price — Large Mango",
@@ -4061,6 +3920,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "newmans_own_3298979e"
+    },
+    {
+      "offer_id": "safeway:2026w28:28e6121b",
+      "route": "clip",
+      "title": "$3.00 OFF — SYSTANE®",
+      "description": "SYSTANE® · $3.00 OFF when you buy ONE(1) SYSTANE® Lubricant Eye Drops. Valid on 10 mL or Larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "systane"
+        ],
+        "category": "eye drops",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "systane",
+          "lubricant",
+          "eye",
+          "drops"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "systane_1407d505"
     },
     {
       "offer_id": "safeway:2026w28:2d41969b",
@@ -4263,6 +4155,42 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "capri_sun_countr_45c6dff5"
+    },
+    {
+      "offer_id": "safeway:2026w28:378600e1",
+      "route": "clip",
+      "title": "$1.00 OFF — Sensodyne or Pronamel",
+      "description": "Sensodyne or Pronamel · $1.00 OFF when you buy ONE(1) Sensodyne or Pronamel. Any variety. Excludes 0.8oz.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-13",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "sensodyne",
+          "pronamel"
+        ],
+        "category": "toothpaste",
+        "size_min_oz": 0.8,
+        "size_max_oz": 0.8,
+        "keywords": [
+          "sensodyne",
+          "pronamel",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "0"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "sensodyne_501e4dc0"
     },
     {
       "offer_id": "safeway:2026w28:386a3295",
@@ -4899,6 +4827,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "pampers_8bc3b7b5"
+    },
+    {
+      "offer_id": "safeway:2026w28:4670aee9",
+      "route": "clip",
+      "title": "$2.00 OFF — COTTONELLE®",
+      "description": "COTTONELLE® · $2.00 OFF when you buy ONE(1) Cottonelle® Toilet Paper. Valid on 12 mega roll pack or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "cottonelle"
+        ],
+        "category": "toilet paper",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "cottonelle",
+          "toilet",
+          "paper"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "cottonelle_fff6d7f8"
     },
     {
       "offer_id": "safeway:2026w28:46790b99",
@@ -5926,6 +5886,72 @@
       "offer_family": "signature_select_1ecb870c"
     },
     {
+      "offer_id": "safeway:2026w28:6062bb9a",
+      "route": "clip",
+      "title": "$5.00 OFF — FIRST RESPONSE™",
+      "description": "FIRST RESPONSE™ · $5.00 OFF when you buy ONE(1) FIRST RESPONSE™ Pregnancy Result Kit. Valid on 2 ct or greater.",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-16",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "first response"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "first",
+          "response",
+          "pregnancy",
+          "result",
+          "kit"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "first_response_8a2f8d8f"
+    },
+    {
+      "offer_id": "safeway:2026w28:614bd6e8",
+      "route": "clip",
+      "title": "$3.00 OFF — TYLENOL®/ TYLENOL® PM",
+      "description": "TYLENOL®/ TYLENOL® PM · $3.00 OFF when you buy ONE(1) TYLENOL® or TYLENOL® PM . Any variety. Excludes 200 ct. or larger, TYLENOL® Precise, TYLENOL® Proactive, TYLENOL® Cold & Sinus and travel & trial sizes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "tylenol"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tylenol"
+        ],
+        "excludes": [
+          "200 ct"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "tylenol_56e44303"
+    },
+    {
       "offer_id": "safeway:2026w28:61ad29c0",
       "route": "clip",
       "title": "$3.00 OFF when you buy 2 — Head & Shoulders Hair Care",
@@ -6089,6 +6115,75 @@
       "offer_family": "gen_0786bb36"
     },
     {
+      "offer_id": "safeway:2026w28:64823fac",
+      "route": "clip",
+      "title": "$4.00 OFF when you buy 2 — NEUTROGENA®",
+      "description": "NEUTROGENA® · $4.00 OFF when you buy TWO(2) NEUTROGENA® Cleansing Wipes. Valid on 20ct singles OR 25ct and larger. Items must appear on the same receipt.",
+      "value": {
+        "type": "amount_off",
+        "amount": 4,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-16",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "neutrogena"
+        ],
+        "category": "personal care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "neutrogena",
+          "cleansing",
+          "wipes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "neutrogena_eb796e16"
+    },
+    {
+      "offer_id": "safeway:2026w28:6671057d",
+      "route": "clip",
+      "title": "$3.50 OFF — NEUTROGENA®",
+      "description": "NEUTROGENA® · $3.50 OFF when you buy ONE(1) NEUTROGENA® ACNE & EVENLY CLEAR. Any variety. Excludes trial/travel & bar soaps.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "neutrogena"
+        ],
+        "category": "skin care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "neutrogena",
+          "acne",
+          "evenly",
+          "clear",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "trial/travel & bar soaps"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "neutrogena_7449d199"
+    },
+    {
       "offer_id": "safeway:2026w28:673e79a1",
       "route": "auto_apply",
       "title": "25% Off Member Price — Fast Forward Kids Backpack",
@@ -6150,6 +6245,43 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "krusteaz_14ac7506"
+    },
+    {
+      "offer_id": "safeway:2026w28:68d63ea6",
+      "route": "clip",
+      "title": "$5.00 OFF — NEUTROGENA®",
+      "description": "NEUTROGENA® · $5.00 OFF when you buy ONE(1) NEUTROGENA® Facial Moisturizer, Serum or Treatment. Any variety. Excludes Acne, Clearance, Masks, & Trial & Travel sizes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "neutrogena"
+        ],
+        "category": "skin care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "neutrogena",
+          "facial",
+          "moisturizer",
+          "serum",
+          "treatment",
+          "any"
+        ],
+        "excludes": [
+          "acne, clearance, masks, & trial & travel sizes"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "neutrogena_91cc8798"
     },
     {
       "offer_id": "safeway:2026w28:69358a89",
@@ -6351,6 +6483,42 @@
       "offer_family": "pampers_bfab6091"
     },
     {
+      "offer_id": "safeway:2026w28:6d114fe4",
+      "route": "clip",
+      "title": "$1.00 OFF when you buy 2 — Chobani® (Chobani® Creamer or La Colombe Multi-Serve Cold Brew. Any variety. Items must appear on the same receipt)",
+      "description": "Chobani® · $1.00 OFF when you buy TWO(2) Chobani® Creamer or La Colombe Multi-Serve Cold Brew. Any variety. Items must appear on the same receipt.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "chobani",
+          "la colombe"
+        ],
+        "category": "creamer",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "chobani",
+          "creamer",
+          "colombe",
+          "multi",
+          "serve",
+          "cold"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "chobani_d0030a85"
+    },
+    {
       "offer_id": "safeway:2026w28:6d6280f0",
       "route": "clip",
       "title": "$3.49 — Land O'Lakes Butter 16-oz. Spread 13 to 15-oz",
@@ -6413,6 +6581,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "belgioioso_12f2eee1"
+    },
+    {
+      "offer_id": "safeway:2026w28:72541fc2",
+      "route": "clip",
+      "title": "$1.00 OFF — Gatorade and Propel",
+      "description": "Gatorade and Propel · $1.00 OFF when you buy ONE(1) GATORADE®, PROPEL®, or GATORADE WATER. Valid on MULTIPACK.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "gatorade",
+          "propel"
+        ],
+        "category": "beverages",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gatorade",
+          "propel",
+          "water"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gatorade_027cd3e3"
     },
     {
       "offer_id": "safeway:2026w28:736d056f",
@@ -6703,6 +6904,42 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "rana_80d35442"
+    },
+    {
+      "offer_id": "safeway:2026w28:793a7918",
+      "route": "clip",
+      "title": "$2.50 OFF — NEUTROGENA®",
+      "description": "NEUTROGENA® · $2.50 OFF when you buy ONE(1) NEUTROGENA® Liquid Cleanser. Any variety. Excludes Acne Cleansers, Bars, Concentrate Refill Packs, Trial/Travel sizes & Wipes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-16",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "neutrogena"
+        ],
+        "category": "skin care",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "neutrogena",
+          "liquid",
+          "cleanser",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "acne cleansers, bars, concentrate refill packs, trial/travel sizes & wipes"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "neutrogena_3378b8c5"
     },
     {
       "offer_id": "safeway:2026w28:7b853e39",
@@ -7750,6 +7987,41 @@
       "offer_family": "graza_a09eada0"
     },
     {
+      "offer_id": "safeway:2026w28:a3344486",
+      "route": "clip",
+      "title": "$1.00 OFF when you buy 5 — Chobani®",
+      "description": "Chobani® · $1.00 OFF when you buy FIVE(5) Chobani® Single Serve Yogurt. Any variety. Items must appear on the same receipt.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "chobani"
+        ],
+        "category": "yogurt",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "chobani",
+          "single",
+          "serve",
+          "yogurt",
+          "any",
+          "variety"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "chobani_9212dd9c"
+    },
+    {
       "offer_id": "safeway:2026w28:a3833485",
       "route": "auto_apply",
       "title": "3 for $5.00 Member Price — Cryo Ice Rod or Icy Cool Pack",
@@ -7879,6 +8151,39 @@
       "offer_family": "gen_9de660f0"
     },
     {
+      "offer_id": "safeway:2026w28:a93b40c4",
+      "route": "clip",
+      "title": "$2.00 OFF — Schick® Women's",
+      "description": "Schick® Women's · $2.00 OFF when you buy ONE(1) Schick® Women's. Valid on Schick® Hydro Silk®, Intuition® or Quattro for Women® Razor or Refill or Schick Hydro Silk® Wax or Dermaplaning Wand or Refill. Excludes Schick® Disposables.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "schick"
+        ],
+        "category": "razors",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "schick",
+          "women"
+        ],
+        "excludes": [
+          "schick® disposables"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "schick_7bb32ff7"
+    },
+    {
       "offer_id": "safeway:2026w28:a9963207",
       "route": "auto_apply",
       "title": "Buy 1 Get 1 Free — Ben & Jerry's Ice Cream or Talenti Gelato Pint. Signature SELECT® Ice Cream 1.5-qt.",
@@ -7911,6 +8216,41 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "ben_jerrys_talen_7ffdca13"
+    },
+    {
+      "offer_id": "safeway:2026w28:a9c37441",
+      "route": "clip",
+      "title": "$2.00 OFF — MOTRIN®",
+      "description": "MOTRIN® · $2.00 OFF when you buy ONE(1) Adult MOTRIN®. Any variety. Excludes trial & travel sizes.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "motrin"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "motrin",
+          "adult",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "trial & travel sizes"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "motrin_82df8091"
     },
     {
       "offer_id": "safeway:2026w28:ace75098",
@@ -8876,6 +9216,43 @@
       "offer_family": "cedars_8453ecbd"
     },
     {
+      "offer_id": "safeway:2026w28:c36a7611",
+      "route": "clip",
+      "title": "$1.50 OFF — Always",
+      "description": "Always · $1.50 OFF when you buy ONE(1) Always Infinity, Radiant, Pure Cotton or Pocket Flexfoam Pads . Any variety. Excludes trial/travel size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1.5,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-11",
+      "valid_to": "2026-09-01",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "always"
+        ],
+        "category": "pads",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "always",
+          "infinity",
+          "radiant",
+          "pure",
+          "cotton",
+          "pocket"
+        ],
+        "excludes": [
+          "trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "always_cf388fb7"
+    },
+    {
       "offer_id": "safeway:2026w28:c44ae4fc",
       "route": "clip",
       "title": "$3.49 — Dannon Greek Yogurt 4-pack, 5.3-oz. Chobani 20G Protein Yogurt 4-pack, 6.7-oz.",
@@ -9076,6 +9453,42 @@
       "offer_family": "foster_farms_del_3f59d1ac"
     },
     {
+      "offer_id": "safeway:2026w28:c655958f",
+      "route": "clip",
+      "title": "$2.00 OFF — Covergirl (COVERGIRL® Eye Product. Any variety)",
+      "description": "Covergirl · $2.00 OFF when you buy ONE(1) COVERGIRL® Eye Product. Any variety. Excludes Eye Enhancer Palettes, Easy Breezy Brow Fill + Define, Perfect Blend, accessories and travel/trial size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "covergirl"
+        ],
+        "category": "makeup",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "covergirl",
+          "eye",
+          "product",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "eye enhancer palettes, easy breezy brow fill + define, perfect blend, accessorie"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "covergirl_0cd72db0"
+    },
+    {
       "offer_id": "safeway:2026w28:ca328bf9",
       "route": "auto_apply",
       "title": "Buy 2 Get 2 Free — 7UP or Pepsi 10-pack, 7.5-oz. cans or 6-pack, 16.9-oz. bottles. Coca-Cola 10-pack, 7.5-oz. cans.",
@@ -9143,6 +9556,111 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "digiorno_f9a2078b"
+    },
+    {
+      "offer_id": "safeway:2026w28:ce209c66",
+      "route": "clip",
+      "title": "$3.00 OFF — IMODIUM®, LACTAID® & PEPCID®",
+      "description": "IMODIUM®, LACTAID® & PEPCID® · $3.00 OFF when you buy ONE(1) PEPCID® , IMODIUM® or LACTAID® Supplement. Valid on PEPCID® (20ct or higher), IMODIUM® or LACTAID® Supplement. Excludes IMODIUM® (6ct) or Trial and travel.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-02",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "pepcid",
+          "imodium",
+          "lactaid"
+        ],
+        "category": "medicine",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "imodium",
+          "lactaid",
+          "pepcid",
+          "supplement"
+        ],
+        "excludes": [
+          "imodium® (6ct) or trial and travel"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "pepcid_5ffa0d5f"
+    },
+    {
+      "offer_id": "safeway:2026w28:cefdc61f",
+      "route": "clip",
+      "title": "$2.00 OFF — Covergirl (COVERGIRL® Face Product. Any variety)",
+      "description": "Covergirl · $2.00 OFF when you buy ONE(1) COVERGIRL® Face Product. Any variety. Excludes Cheekers, accessories and travel/trial size.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "covergirl"
+        ],
+        "category": "makeup",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "covergirl",
+          "face",
+          "product",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "cheekers, accessories and travel/trial size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "covergirl_3d196468"
+    },
+    {
+      "offer_id": "safeway:2026w28:cffbd5f6",
+      "route": "clip",
+      "title": "$2.00 OFF — Brawny®",
+      "description": "Brawny® · $2.00 OFF when you buy ONE(1) Brawny® Paper Towels. Valid on 6 Roll or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-24",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "brawny"
+        ],
+        "category": "paper towel",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "brawny",
+          "paper",
+          "towels"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "brawny_105a60b6"
     },
     {
       "offer_id": "safeway:2026w28:d0a5d7b4",
@@ -9363,6 +9881,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "hot_wheels_6686418b"
+    },
+    {
+      "offer_id": "safeway:2026w28:d86aa8be",
+      "route": "clip",
+      "title": "$2.00 OFF — Scott®",
+      "description": "Scott® · $2.00 OFF when you buy ONE(1) Scott® ComfortPlus. Valid on Scott® 1000 18ct or larger or Scott® ComfortPlus 18 mega roll or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "scott"
+        ],
+        "category": "toilet paper",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "scott",
+          "comfortplus"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "scott_c2e4e0ce"
     },
     {
       "offer_id": "safeway:2026w28:d87e74ab",
@@ -9676,6 +10225,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_5cca7442"
+    },
+    {
+      "offer_id": "safeway:2026w28:e02e5673",
+      "route": "clip",
+      "title": "$2.00 OFF — Quilted Northern®",
+      "description": "Quilted Northern® · $2.00 OFF when you buy ONE(1) Quilted Northern® Bath Tissue. Valid on 8 Super Mega or 12 Mega roll or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 2,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-24",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "quilted northern"
+        ],
+        "category": "household",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "quilted",
+          "northern",
+          "bath",
+          "tissue"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "quilted_northern_1e4ff71c"
     },
     {
       "offer_id": "safeway:2026w28:e0cd7712",
@@ -10128,6 +10710,41 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_db103e86"
+    },
+    {
+      "offer_id": "safeway:2026w28:f0251eb5",
+      "route": "clip",
+      "title": "$1.00 OFF when you buy 2 — Chobani® (Chobani® Multipack or Multi-Serve Yogurt. Any variety. Items must appear on the same receipt)",
+      "description": "Chobani® · $1.00 OFF when you buy TWO(2) Chobani® Multipack or Multi-Serve Yogurt. Any variety. Items must appear on the same receipt.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-08-09",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "chobani"
+        ],
+        "category": "yogurt",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "chobani",
+          "multipack",
+          "multi",
+          "serve",
+          "yogurt",
+          "any"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "chobani_6b342c0d"
     },
     {
       "offer_id": "safeway:2026w28:f07eae08",
@@ -10624,6 +11241,41 @@
       "offer_family": "healthy_choice_m_e8438421"
     },
     {
+      "offer_id": "safeway:2026w28:ff6774aa",
+      "route": "clip",
+      "title": "$3.00 OFF — Schick® Disposable",
+      "description": "Schick® Disposable · $3.00 OFF when you buy ONE(1) Schick® Disposable. Any variety. Excludes Schick® Xtreme® & Skintimate® 1 & 2 ct. Disposable & Hydro Silk® Touch Up.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "schick"
+        ],
+        "category": "razors",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "schick",
+          "disposable",
+          "any",
+          "variety"
+        ],
+        "excludes": [
+          "schick® xtreme® & skintimate® 1 & 2 ct"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "schick_daf55747"
+    },
+    {
       "offer_id": "safeway:2026w28:ff877280",
       "route": "clip",
       "title": "$3.00 OFF — Pampers (Super Pack Pampers Baby Dry Diapers)",
@@ -10659,6 +11311,37 @@
       "offer_family": "pampers_deef9482"
     },
     {
+      "offer_id": "safeway:2026w29:0754339b",
+      "route": "clip",
+      "title": "$1.00 OFF — Ithaca Hummus",
+      "description": "Ithaca Hummus · $1.00 OFF when you buy ONE(1) Ithaca Hummus. Any variety.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-13",
+      "valid_to": "2026-08-24",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [],
+        "category": "grocery",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "ithaca",
+          "hummus",
+          "any",
+          "variety"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_a7ce68a3"
+    },
+    {
       "offer_id": "safeway:2026w29:c1bef81d",
       "route": "auto_apply",
       "title": "Member Price $5.99 — 8-PIECE FRIED OR ROASTED CHICKEN",
@@ -10688,6 +11371,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_6af5bf3e"
+    },
+    {
+      "offer_id": "safeway:2026w29:fc0ed678",
+      "route": "clip",
+      "title": "$1.00 OFF — Taste Salud Water Enhancer",
+      "description": "Taste Salud Water Enhancer · 1.27-oz.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-13",
+      "valid_to": "2026-07-27",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "taste salud"
+        ],
+        "category": "beverages",
+        "size_min_oz": 1.27,
+        "size_max_oz": 1.27,
+        "keywords": [
+          "taste",
+          "salud",
+          "water",
+          "enhancer"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "taste_salud_1d65d3d9"
     }
   ]
 }
