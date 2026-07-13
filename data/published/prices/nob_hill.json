@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-12T11:59:33Z",
+  "generated_at": "2026-07-13T17:01:14Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_003305c6": {
@@ -406,6 +406,20 @@
           "week": "2026-W28",
           "price": 0.17,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_2545d5b7": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 7.99,
+          "kind": "regular"
         }
       ]
     },
@@ -831,6 +845,15 @@
         {
           "week": "2026-W27",
           "price": 1.99,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_49a9f0fe": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
           "kind": "member"
         }
       ]
@@ -1261,6 +1284,20 @@
         }
       ]
     },
+    "gen_66960e3a": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 11.99,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_66d25f6d": {
       "series": [
         {
@@ -1408,6 +1445,15 @@
         {
           "week": "2026-W28",
           "price": 11.99,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_6f14d9bc": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 3.69,
           "kind": "member"
         }
       ]
@@ -2373,6 +2419,20 @@
         }
       ]
     },
+    "gen_b414d7e7": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 5.99,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_b417befa": {
       "series": [
         {
@@ -2424,6 +2484,15 @@
         }
       ]
     },
+    "gen_b559b888": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_b61cf1b2": {
       "series": [
         {
@@ -2462,6 +2531,20 @@
           "week": "2026-W28",
           "price": 0.73,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_b906ae47": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 8.99,
+          "kind": "regular"
         }
       ]
     },
@@ -2544,6 +2627,20 @@
           "week": "2026-W27",
           "price": 10.49,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_c46a3bba": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 7.99,
+          "kind": "regular"
         }
       ]
     },
@@ -2820,6 +2917,15 @@
         }
       ]
     },
+    "gen_d39a639a": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 0.39,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_d3dc08a7": {
       "series": [
         {
@@ -2916,6 +3022,20 @@
           "week": "2026-W27",
           "price": 0.33,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_dab6df3b": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 7.99,
+          "kind": "regular"
         }
       ]
     },
@@ -3161,6 +3281,20 @@
           "week": "2026-W27",
           "price": 0.48,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_ec7c565d": {
+      "series": [
+        {
+          "week": "2026-W28",
+          "price": 5,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W28",
+          "price": 6.49,
+          "kind": "regular"
         }
       ]
     },
