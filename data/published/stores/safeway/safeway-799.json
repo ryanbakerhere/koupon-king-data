@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "safeway",
   "store_id": "safeway-799",
-  "generated_at": "2026-07-13T16:37:58Z",
+  "generated_at": "2026-07-14T08:41:40Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -1864,6 +1864,40 @@
         ],
         "excludes": [
           "essential floss, satin floss, oral-b fresh mint picks and trial/travel size"
+        ]
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "safeway:2026w27:af6251ee",
+      "offer_family": "revlon_a2dfe126",
+      "route": "clip",
+      "title": "$3.00 OFF — Revlon",
+      "description": "Revlon · $3.00 OFF when you buy ONE(1) Revlon Color Cosmetics. Valid on Revlon Color Cosmetics. Excludes Beauty Tools, Nail Polish, and Kiss Balms.",
+      "value": {
+        "type": "amount_off",
+        "amount": 3,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-05",
+      "valid_to": "2026-07-19",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "revlon"
+        ],
+        "category": "makeup",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "revlon",
+          "color",
+          "cosmetics"
+        ],
+        "excludes": [
+          "beauty tools, nail polish, and kiss balms"
         ]
       },
       "upcs_verified": [],
@@ -3781,41 +3815,6 @@
           "cheese"
         ],
         "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "safeway:2026w28:23f9ac8a",
-      "offer_family": "schick_2507864f",
-      "route": "clip",
-      "title": "$2.00 OFF — Schick® Men's Razor,Refill",
-      "description": "Schick® Men's Razor,Refill · $2.00 OFF when you buy ONE(1) Schick® Men's Razor,Refill. Valid on Schick® Hydro® or Schick® Quattro® Titanium* Razor or Refill. Excludes Schick® Disposables (coated blades).",
-      "value": {
-        "type": "amount_off",
-        "amount": 2,
-        "currency": "USD"
-      },
-      "valid_from": "2026-07-12",
-      "valid_to": "2026-07-26",
-      "deeplink": null,
-      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
-      "hints": {
-        "brands": [
-          "schick"
-        ],
-        "category": "razors",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "schick",
-          "men",
-          "razor",
-          "refill"
-        ],
-        "excludes": [
-          "schick® disposables (coated blades)"
-        ]
       },
       "upcs_verified": [],
       "insert_ref": null
@@ -8320,6 +8319,37 @@
       "insert_ref": null
     },
     {
+      "offer_id": "safeway:2026w28:ae1b61cc",
+      "offer_family": "scott_962822df",
+      "route": "clip",
+      "title": "$1.00 OFF — Scott®",
+      "description": "Scott® · $1.00 OFF when you buy ONE(1) Scott® Towels. Valid on 6 ct or larger.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-12",
+      "valid_to": "2026-07-26",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "scott"
+        ],
+        "category": "paper towel",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "scott",
+          "towels"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "safeway:2026w28:ae54640f",
       "offer_family": "softsoap_6ac3f451",
       "route": "clip",
@@ -11333,6 +11363,41 @@
         "keywords": [
           "ithaca",
           "hummus",
+          "any",
+          "variety"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "safeway:2026w29:b3b4ad61",
+      "offer_family": "authentic_asia_7e662e68",
+      "route": "clip",
+      "title": "$1.00 OFF — Authentic Asia",
+      "description": "Authentic Asia · $1.00 OFF when you buy ONE(1) Authentic Asia Frozen Meal. Any variety.",
+      "value": {
+        "type": "amount_off",
+        "amount": 1,
+        "currency": "USD"
+      },
+      "valid_from": "2026-07-13",
+      "valid_to": "2026-08-11",
+      "deeplink": null,
+      "batch_clip_hint": "https://www.safeway.com/loyalty/coupons-deals",
+      "hints": {
+        "brands": [
+          "authentic asia"
+        ],
+        "category": "frozen",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "authentic",
+          "asia",
+          "frozen",
+          "meal",
           "any",
           "variety"
         ],

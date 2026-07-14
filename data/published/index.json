@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-13T17:01:14Z",
+  "generated_at": "2026-07-14T13:03:46Z",
   "chains": [
     {
       "chain_id": "cvs",
@@ -109,8 +109,8 @@
           "lng": -121.95651,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-615.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 8003
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 9012
         },
         {
           "store_id": "nob_hill-617",
@@ -119,8 +119,8 @@
           "lng": -121.78058,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-617.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 8003
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 9012
         },
         {
           "store_id": "nob_hill-620",
@@ -129,8 +129,8 @@
           "lng": -122.02665,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-620.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 8003
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 9012
         }
       ]
     },
@@ -145,8 +145,8 @@
           "lng": -121.96324,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-1929.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39350
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39527
         },
         {
           "store_id": "safeway-2607",
@@ -155,8 +155,8 @@
           "lng": -122.04505,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2607.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39373
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39533
         },
         {
           "store_id": "safeway-2840",
@@ -165,8 +165,8 @@
           "lng": -121.77544,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2840.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39398
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39578
         },
         {
           "store_id": "safeway-300",
@@ -175,8 +175,8 @@
           "lng": -122.0314,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-300.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39349
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39526
         },
         {
           "store_id": "safeway-640",
@@ -185,8 +185,8 @@
           "lng": -121.90861,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-640.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39349
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39526
         },
         {
           "store_id": "safeway-786",
@@ -195,8 +195,8 @@
           "lng": -122.06873,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-786.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39349
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39526
         },
         {
           "store_id": "safeway-799",
@@ -205,8 +205,8 @@
           "lng": -122.00752,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-799.json",
-          "snapshot_version": "2026-07-13",
-          "snapshot_bytes_gz": 39372
+          "snapshot_version": "2026-07-14",
+          "snapshot_bytes_gz": 39532
         }
       ]
     }
