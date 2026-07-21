@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-617",
-  "generated_at": "2026-07-16T05:31:06Z",
+  "generated_at": "2026-07-21T05:58:54Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -36,36 +36,6 @@
       "offer_family": "gen_49ab1d47"
     },
     {
-      "offer_id": "nob_hill:2026w29:02f23e73",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea (reg. $8.39) — Breyers Ice Cream",
-      "description": "Breyers Ice Cream. Member Price $3.99/ea (reg. $8.39). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": 8.39
-      },
-      "valid_from": "2026-07-15",
-      "valid_to": "2026-07-21",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "breyers",
-          "ice",
-          "cream"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_2458e7f4"
-    },
-    {
       "offer_id": "nob_hill:2026w29:03a5fbbd",
       "route": "auto_apply",
       "title": "Member Price $16.99/ea — 12-Pack Budweiser, Montucky Cold Snacks Lager, Coors or Sapporo",
@@ -97,6 +67,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_943ab617"
+    },
+    {
+      "offer_id": "nob_hill:2026w29:03f348f8",
+      "route": "auto_apply",
+      "title": "Member Price $7.99 — 4-Pack South Norte Tequila Cocktails",
+      "description": "4-Pack South Norte Tequila Cocktails. Member Price $7.99. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-15",
+      "valid_to": "2026-07-21",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pack",
+          "south",
+          "norte",
+          "tequila",
+          "cocktails"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_f31af1fe"
     },
     {
       "offer_id": "nob_hill:2026w29:0497e89b",
@@ -625,6 +627,35 @@
       "offer_family": "gen_5f27058d"
     },
     {
+      "offer_id": "nob_hill:2026w29:29a997a8",
+      "route": "auto_apply",
+      "title": "Member Price $0.97/ea — Hass Avocados",
+      "description": "Hass Avocados. Member Price $0.97/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.97,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-15",
+      "valid_to": "2026-07-21",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hass",
+          "avocados"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_1e5ccfff"
+    },
+    {
       "offer_id": "nob_hill:2026w29:2fc36345",
       "route": "auto_apply",
       "title": "Member Price $2.49/lb — Raley’s Fresh Chicken Thighs or Drumsticks",
@@ -686,38 +717,6 @@
       "offer_family": "gen_337522df"
     },
     {
-      "offer_id": "nob_hill:2026w29:34f5d96e",
-      "route": "auto_apply",
-      "title": "Member Price $0.01 — 4-Pack South Norte Tequila Cocktails",
-      "description": "4-Pack South Norte Tequila Cocktails. Member Price $0.01. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.01,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-15",
-      "valid_to": "2026-07-21",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "south",
-          "norte",
-          "tequila",
-          "cocktails"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_11be7024"
-    },
-    {
       "offer_id": "nob_hill:2026w29:3711a60f",
       "route": "auto_apply",
       "title": "Member Price $5.99/ea — Assorted Poms",
@@ -745,37 +744,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_f02a4c36"
-    },
-    {
-      "offer_id": "nob_hill:2026w29:388c082d",
-      "route": "auto_apply",
-      "title": "Member Price $6.99/ea (reg. $10.49) — 8-Pack Topo Chico Sabores",
-      "description": "8-Pack Topo Chico Sabores. Member Price $6.99/ea (reg. $10.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.99,
-        "regular_price": 10.49
-      },
-      "valid_from": "2026-07-15",
-      "valid_to": "2026-07-21",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "topo",
-          "chico",
-          "sabores"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_c66ce3a1"
     },
     {
       "offer_id": "nob_hill:2026w29:39924372",
@@ -896,35 +864,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_92bd6330"
-    },
-    {
-      "offer_id": "nob_hill:2026w29:40c006f5",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/ea — Hass Avocados",
-      "description": "Hass Avocados. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-15",
-      "valid_to": "2026-07-21",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "hass",
-          "avocados"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_cc490a6b"
     },
     {
       "offer_id": "nob_hill:2026w29:41941b18",
@@ -1336,6 +1275,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_a1e92733"
+    },
+    {
+      "offer_id": "nob_hill:2026w29:6dce3cb8",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/ea (reg. $7.99) — Breyers Ice Cream",
+      "description": "Breyers Ice Cream. Member Price $3.99/ea (reg. $7.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": 7.99
+      },
+      "valid_from": "2026-07-15",
+      "valid_to": "2026-07-21",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "breyers",
+          "ice",
+          "cream"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_b0ec7b93"
     },
     {
       "offer_id": "nob_hill:2026w29:71d405e6",
@@ -2905,6 +2874,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_d349fa74"
+    },
+    {
+      "offer_id": "nob_hill:2026w29:c7370228",
+      "route": "auto_apply",
+      "title": "Member Price $6.99/ea (reg. $11.49) — 8-Pack Topo Chico Sabores",
+      "description": "8-Pack Topo Chico Sabores. Member Price $6.99/ea (reg. $11.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.99,
+        "regular_price": 11.49
+      },
+      "valid_from": "2026-07-15",
+      "valid_to": "2026-07-21",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pack",
+          "topo",
+          "chico",
+          "sabores"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_7f2beaa4"
     },
     {
       "offer_id": "nob_hill:2026w29:c7da4ffd",
