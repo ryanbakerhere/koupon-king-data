@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-07-23T05:45:40Z",
+  "generated_at": "2026-07-24T08:11:26Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -95,39 +95,6 @@
           "whole",
           "fryer",
           "chicken"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w30:0d1b7709",
-      "offer_family": "gen_d9af5a42",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea — Kit Kat Fudge Bars, Baskin Robbins Ice Cream or Bars or Drumstick Cones",
-      "description": "Kit Kat Fudge Bars, Baskin Robbins Ice Cream or Bars or Drumstick Cones. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "kit",
-          "kat",
-          "fudge",
-          "bars",
-          "baskin",
-          "robbins"
         ],
         "excludes": []
       },
@@ -965,38 +932,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w30:39624d84",
-      "offer_family": "gen_dd72b8f7",
-      "route": "auto_apply",
-      "title": "Member Price $0.42/ea — Raley’s Large Cage Free Eggs",
-      "description": "Raley’s Large Cage Free Eggs. Member Price $0.42/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.42,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "large",
-          "cage",
-          "free",
-          "eggs"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w30:3c2e5c91",
       "offer_family": "gen_0fe51f47",
       "route": "auto_apply",
@@ -1400,6 +1335,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w30:6feb8227",
+      "offer_family": "gen_a77d68f4",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/lb — Yellow Peaches or Nectarines or Red or Black Plums",
+      "description": "Yellow Peaches or Nectarines or Red or Black Plums. Member Price $3.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-07-22",
+      "valid_to": "2026-07-28",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "yellow",
+          "peaches",
+          "nectarines",
+          "red",
+          "black",
+          "plums"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w30:72367b86",
       "offer_family": "gen_37262df3",
       "route": "auto_apply",
@@ -1641,37 +1609,6 @@
           "kellogg",
           "eggo",
           "waffles"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w30:78838b0a",
-      "offer_family": "gen_406c74c3",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/ea — Coffeemate Creamer or Cold Foam Creamer",
-      "description": "Coffeemate Creamer or Cold Foam Creamer. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "coffeemate",
-          "creamer",
-          "cold",
-          "foam"
         ],
         "excludes": []
       },
@@ -2119,34 +2056,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w30:961139f6",
-      "offer_family": "gen_4716bece",
-      "route": "auto_apply",
-      "title": "Member Price $0.02 — Bogle",
-      "description": "Bogle. Member Price $0.02. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 0.02,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "bogle"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w30:9cfa653e",
       "offer_family": "gen_703c472f",
       "route": "auto_apply",
@@ -2301,39 +2210,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w30:a34b19b0",
-      "offer_family": "gen_00257fe7",
-      "route": "auto_apply",
-      "title": "Member Price $14.99 — 18-Pack Michelob Ultra or 12-Pack Blue Moon, Sierra Nevada, Lagunitas, Elysian or Firestone Walker 805",
-      "description": "18-Pack Michelob Ultra or 12-Pack Blue Moon, Sierra Nevada, Lagunitas, Elysian or Firestone Walker 805. Member Price $14.99. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 14.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "michelob",
-          "ultra",
-          "blue",
-          "moon",
-          "sierra"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w30:a7fadc4e",
       "offer_family": "gen_5b93e544",
       "route": "auto_apply",
@@ -2461,38 +2337,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w30:b0e481f1",
-      "offer_family": "gen_208b8d58",
-      "route": "auto_apply",
-      "title": "Member Price $5.99/ea — De Cecco Pasta or Classico Pasta or Alfredo Sauce",
-      "description": "De Cecco Pasta or Classico Pasta or Alfredo Sauce. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "cecco",
-          "pasta",
-          "classico",
-          "alfredo",
-          "sauce"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w30:b1a05160",
       "offer_family": "gen_91acced5",
       "route": "auto_apply",
@@ -2548,6 +2392,38 @@
           "dreyer",
           "ice",
           "cream"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w30:b3b71f54",
+      "offer_family": "gen_0d7166d1",
+      "route": "auto_apply",
+      "title": "Member Price $1.49/ea (reg. $4.99) — Raley’s Large Cage Free Eggs",
+      "description": "Raley’s Large Cage Free Eggs. Member Price $1.49/ea (reg. $4.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 1.49,
+        "regular_price": 4.99
+      },
+      "valid_from": "2026-07-22",
+      "valid_to": "2026-07-28",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "large",
+          "cage",
+          "free",
+          "eggs"
         ],
         "excludes": []
       },
@@ -3023,39 +2899,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w30:dd273fd8",
-      "offer_family": "gen_52af326a",
-      "route": "auto_apply",
-      "title": "Member Price $14.99/lb — Raley’s Tri Tip or Nob Hill Trading Co. Sliced to Order Turkey",
-      "description": "Raley’s Tri Tip or Nob Hill Trading Co. Sliced to Order Turkey. Member Price $14.99/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 14.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "tri",
-          "tip",
-          "nob",
-          "hill",
-          "trading"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w30:de27ef59",
       "offer_family": "gen_61ab6ab1",
       "route": "auto_apply",
@@ -3282,6 +3125,35 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w30:ea427cde",
+      "offer_family": "gen_ce850067",
+      "route": "auto_apply",
+      "title": "Member Price $0.25/ea (reg. $1.19) — Sweet Corn",
+      "description": "Sweet Corn. Member Price $0.25/ea (reg. $1.19). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.25,
+        "regular_price": 1.19
+      },
+      "valid_from": "2026-07-22",
+      "valid_to": "2026-07-28",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sweet",
+          "corn"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w30:ebc0ddcb",
       "offer_family": "gen_75ef7abb",
       "route": "auto_apply",
@@ -3340,35 +3212,6 @@
           "booty",
           "puffs",
           "skinnypop"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w30:f15b8fdc",
-      "offer_family": "gen_4f19a571",
-      "route": "auto_apply",
-      "title": "Member Price $1.19/ea — Sweet Corn",
-      "description": "Sweet Corn. Member Price $1.19/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1.19,
-        "regular_price": null
-      },
-      "valid_from": "2026-07-22",
-      "valid_to": "2026-07-28",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "sweet",
-          "corn"
         ],
         "excludes": []
       },
