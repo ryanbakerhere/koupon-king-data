@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-25T12:15:36Z",
+  "generated_at": "2026-07-27T16:42:23Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -3916,6 +3916,11 @@
     {
       "offer_id": "nob_hill:2026w30:2a6e8cb2",
       "offer_family": "gen_141140c6",
+      "valid_to": "2026-07-28"
+    },
+    {
+      "offer_id": "nob_hill:2026w30:2b6b5591",
+      "offer_family": "gen_4332b39f",
       "valid_to": "2026-07-28"
     },
     {

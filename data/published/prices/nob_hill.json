@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-24T13:13:13Z",
+  "generated_at": "2026-07-27T16:42:23Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_001b7dc6": {
@@ -1416,6 +1416,15 @@
         {
           "week": "2026-W28",
           "price": 2.89,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_4332b39f": {
+      "series": [
+        {
+          "week": "2026-W30",
+          "price": 4.99,
           "kind": "member"
         }
       ]
