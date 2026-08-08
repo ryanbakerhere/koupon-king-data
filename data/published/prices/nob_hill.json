@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T09:18:00Z",
+  "generated_at": "2026-08-08T09:13:25Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_001b7dc6": {
@@ -58,6 +58,15 @@
         {
           "week": "2026-W32",
           "price": 4.79,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_0211accf": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 5.98,
           "kind": "member"
         }
       ]
@@ -551,6 +560,11 @@
       "series": [
         {
           "week": "2026-W28",
+          "price": 4.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
           "price": 4.99,
           "kind": "member"
         }
@@ -1376,6 +1390,11 @@
           "week": "2026-W31",
           "price": 9.99,
           "kind": "member"
+        },
+        {
+          "week": "2026-W32",
+          "price": 9.99,
+          "kind": "member"
         }
       ]
     },
@@ -1724,10 +1743,29 @@
         }
       ]
     },
+    "gen_37905138": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 2.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
+          "price": 5.49,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_383a9119": {
       "series": [
         {
           "week": "2026-W29",
+          "price": 4.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
           "price": 4.99,
           "kind": "member"
         }
@@ -1752,6 +1790,15 @@
         {
           "week": "2026-W31",
           "price": 7.99,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_393a5180": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 8.49,
           "kind": "member"
         }
       ]
@@ -2364,6 +2411,15 @@
         {
           "week": "2026-W31",
           "price": 7.99,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_4df5ddae": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 16.99,
           "kind": "member"
         }
       ]
@@ -4766,6 +4822,15 @@
         }
       ]
     },
+    "gen_96b25a14": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 11.99,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_96cd4065": {
       "series": [
         {
@@ -4788,6 +4853,11 @@
       "series": [
         {
           "week": "2026-W30",
+          "price": 0.42,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
           "price": 0.42,
           "kind": "member"
         }
@@ -4982,6 +5052,15 @@
         }
       ]
     },
+    "gen_9c338002": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 7.99,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_9de0ed33": {
       "series": [
         {
@@ -5157,6 +5236,15 @@
         {
           "week": "2026-W27",
           "price": 0.73,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_a24eb12f": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 11.99,
           "kind": "member"
         }
       ]
@@ -5469,6 +5557,11 @@
           "week": "2026-W31",
           "price": 4.59,
           "kind": "member"
+        },
+        {
+          "week": "2026-W32",
+          "price": 4.59,
+          "kind": "member"
         }
       ]
     },
@@ -5661,6 +5754,15 @@
         }
       ]
     },
+    "gen_b2eed0b4": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 5.49,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_b31c7f72": {
       "series": [
         {
@@ -5740,6 +5842,20 @@
         {
           "week": "2026-W27",
           "price": 7.49,
+          "kind": "regular"
+        }
+      ]
+    },
+    "gen_b45a630b": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 5.49,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
+          "price": 6.29,
           "kind": "regular"
         }
       ]
@@ -6111,6 +6227,15 @@
         }
       ]
     },
+    "gen_c1efa3b8": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 14.28,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_c21eee4a": {
       "series": [
         {
@@ -6142,6 +6267,11 @@
       "series": [
         {
           "week": "2026-W27",
+          "price": 8.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
           "price": 8.99,
           "kind": "member"
         }
@@ -6518,6 +6648,11 @@
         },
         {
           "week": "2026-W31",
+          "price": 2.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W32",
           "price": 2.99,
           "kind": "member"
         }
@@ -7182,6 +7317,11 @@
           "week": "2026-W29",
           "price": 10.99,
           "kind": "member"
+        },
+        {
+          "week": "2026-W32",
+          "price": 10.99,
+          "kind": "member"
         }
       ]
     },
@@ -7798,6 +7938,15 @@
         {
           "week": "2026-W31",
           "price": 18.85,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_f3703a94": {
+      "series": [
+        {
+          "week": "2026-W32",
+          "price": 0.02,
           "kind": "member"
         }
       ]
