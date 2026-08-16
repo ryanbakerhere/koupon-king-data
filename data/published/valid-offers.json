@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T08:55:21Z",
+  "generated_at": "2026-08-16T08:49:31Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -2894,6 +2894,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:291f97b5",
+      "offer_family": "gen_57903c2b",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:29a46b96",
       "offer_family": "gen_31e0d6e0",
       "valid_to": "2026-08-18"
@@ -2921,6 +2926,11 @@
     {
       "offer_id": "nob_hill:2026w33:2ee95abb",
       "offer_family": "gen_7f57c5e1",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:322ad9c0",
+      "offer_family": "gen_957e983c",
       "valid_to": "2026-08-18"
     },
     {
@@ -3039,6 +3049,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:677319e6",
+      "offer_family": "gen_be543fef",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:681cb306",
       "offer_family": "gen_09eef89f",
       "valid_to": "2026-08-18"
@@ -3114,6 +3129,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:81a924d3",
+      "offer_family": "gen_bdaecc77",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:850d3c36",
       "offer_family": "gen_0162c3b5",
       "valid_to": "2026-08-18"
@@ -3121,6 +3141,11 @@
     {
       "offer_id": "nob_hill:2026w33:8679151a",
       "offer_family": "gen_14650c6e",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:875f280d",
+      "offer_family": "gen_5ab812cb",
       "valid_to": "2026-08-18"
     },
     {
@@ -3184,6 +3209,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:a8ae94aa",
+      "offer_family": "gen_41a078b5",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:ada39ca7",
       "offer_family": "gen_3ef0cd8a",
       "valid_to": "2026-08-18"
@@ -3209,8 +3239,18 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:b9440705",
+      "offer_family": "gen_5565f710",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:ba559111",
       "offer_family": "gen_851c5715",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:bdacb6d0",
+      "offer_family": "gen_7c41cd3d",
       "valid_to": "2026-08-18"
     },
     {
@@ -3266,6 +3306,11 @@
     {
       "offer_id": "nob_hill:2026w33:cff0e56b",
       "offer_family": "gen_aaa26e07",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:d09d9513",
+      "offer_family": "gen_5ffa1886",
       "valid_to": "2026-08-18"
     },
     {
@@ -4634,11 +4679,6 @@
       "valid_to": "2026-08-05"
     },
     {
-      "offer_id": "safeway:2026w28:420c51a5",
-      "offer_family": "herbal_essences_a4ccc792",
-      "valid_to": "2026-07-25"
-    },
-    {
       "offer_id": "safeway:2026w28:4670aee9",
       "offer_family": "cottonelle_fff6d7f8",
       "valid_to": "2026-07-26"
@@ -4649,11 +4689,6 @@
       "valid_to": "2026-08-15"
     },
     {
-      "offer_id": "safeway:2026w28:53ec5330",
-      "offer_family": "aussie_4eaa89a6",
-      "valid_to": "2026-07-25"
-    },
-    {
       "offer_id": "safeway:2026w28:6062bb9a",
       "offer_family": "first_response_8a2f8d8f",
       "valid_to": "2026-08-16"
@@ -4662,11 +4697,6 @@
       "offer_id": "safeway:2026w28:614bd6e8",
       "offer_family": "tylenol_56e44303",
       "valid_to": "2026-08-02"
-    },
-    {
-      "offer_id": "safeway:2026w28:61ad29c0",
-      "offer_family": "gen_b8edb61e",
-      "valid_to": "2026-07-25"
     },
     {
       "offer_id": "safeway:2026w28:64823fac",
@@ -4702,11 +4732,6 @@
       "offer_id": "safeway:2026w28:88ae0916",
       "offer_family": "don_julio_a98d5f0f",
       "valid_to": "2026-08-05"
-    },
-    {
-      "offer_id": "safeway:2026w28:9838a1f0",
-      "offer_family": "pantene_b544c4b2",
-      "valid_to": "2026-07-25"
     },
     {
       "offer_id": "safeway:2026w28:9b637b4e",
@@ -4807,11 +4832,6 @@
       "offer_id": "safeway:2026w28:d86aa8be",
       "offer_family": "scott_c2e4e0ce",
       "valid_to": "2026-07-26"
-    },
-    {
-      "offer_id": "safeway:2026w28:da150552",
-      "offer_family": "pantene_991a96d5",
-      "valid_to": "2026-07-25"
     },
     {
       "offer_id": "safeway:2026w28:dad9276f",
