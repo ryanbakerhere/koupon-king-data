@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T08:49:31Z",
+  "generated_at": "2026-08-17T09:14:54Z",
   "chains": [
     {
       "chain_id": "cvs",
@@ -146,7 +146,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-1929.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36779
+          "snapshot_bytes_gz": 36771
         },
         {
           "store_id": "safeway-2607",
@@ -156,7 +156,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2607.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36961
+          "snapshot_bytes_gz": 36952
         },
         {
           "store_id": "safeway-2840",
@@ -166,7 +166,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-2840.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36966
+          "snapshot_bytes_gz": 36955
         },
         {
           "store_id": "safeway-300",
@@ -176,7 +176,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-300.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36776
+          "snapshot_bytes_gz": 36768
         },
         {
           "store_id": "safeway-640",
@@ -186,7 +186,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-640.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36776
+          "snapshot_bytes_gz": 36768
         },
         {
           "store_id": "safeway-786",
@@ -196,7 +196,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-786.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36776
+          "snapshot_bytes_gz": 36768
         },
         {
           "store_id": "safeway-799",
@@ -206,7 +206,7 @@
           "geofence_radius_m": 800,
           "snapshot_url": "stores/safeway/safeway-799.json",
           "snapshot_version": "2026-07-15",
-          "snapshot_bytes_gz": 36961
+          "snapshot_bytes_gz": 36951
         }
       ]
     }
