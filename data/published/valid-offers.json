@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T09:10:49Z",
+  "generated_at": "2026-08-21T09:02:00Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -637,11 +637,6 @@
       "offer_id": "cvs:2026w28:e982e21a",
       "offer_family": "colgate_toothpas_86c72529",
       "valid_to": "2026-08-02"
-    },
-    {
-      "offer_id": "cvs:2026w28:ea50337b",
-      "offer_family": "hellmanns_or_bes_7d032b1e",
-      "valid_to": "2026-07-30"
     },
     {
       "offer_id": "cvs:2026w28:eb08b371",
@@ -2264,6 +2259,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:2cc517a8",
+      "offer_family": "gen_5e128a1f",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:2d2a2120",
       "offer_family": "gen_2bda1971",
       "valid_to": "2026-08-18"
@@ -2304,6 +2304,16 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:375374dc",
+      "offer_family": "gen_b714c7dc",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:37da278d",
+      "offer_family": "gen_8df1632f",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:38edd527",
       "offer_family": "gen_e320a1ed",
       "valid_to": "2026-08-18"
@@ -2339,6 +2349,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:45d163cd",
+      "offer_family": "gen_a1f8bfd8",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:486f6958",
       "offer_family": "gen_a349c5c9",
       "valid_to": "2026-08-18"
@@ -2364,8 +2379,23 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:4f87e492",
+      "offer_family": "gen_af6144da",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:5471a959",
+      "offer_family": "gen_24271190",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:54a7dcf7",
       "offer_family": "gen_0b06f36b",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:57541f4c",
+      "offer_family": "gen_723dd9b1",
       "valid_to": "2026-08-18"
     },
     {
@@ -2376,6 +2406,11 @@
     {
       "offer_id": "nob_hill:2026w33:5b4e943e",
       "offer_family": "gen_ed3597b1",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:5c4c5e85",
+      "offer_family": "gen_e29da395",
       "valid_to": "2026-08-18"
     },
     {
@@ -2434,6 +2469,11 @@
       "valid_to": "2026-08-18"
     },
     {
+      "offer_id": "nob_hill:2026w33:7559a2c2",
+      "offer_family": "gen_f345c7af",
+      "valid_to": "2026-08-18"
+    },
+    {
       "offer_id": "nob_hill:2026w33:7674fd18",
       "offer_family": "gen_1da707e0",
       "valid_to": "2026-08-18"
@@ -2441,6 +2481,11 @@
     {
       "offer_id": "nob_hill:2026w33:7714ac41",
       "offer_family": "gen_4407e034",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:781005d1",
+      "offer_family": "gen_866b59a0",
       "valid_to": "2026-08-18"
     },
     {
@@ -2556,6 +2601,11 @@
     {
       "offer_id": "nob_hill:2026w33:a6842b3c",
       "offer_family": "gen_6e7efaa7",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:a6b6a6fd",
+      "offer_family": "gen_062e8adf",
       "valid_to": "2026-08-18"
     },
     {
@@ -2681,6 +2731,11 @@
     {
       "offer_id": "nob_hill:2026w33:d34bceba",
       "offer_family": "gen_56f36438",
+      "valid_to": "2026-08-18"
+    },
+    {
+      "offer_id": "nob_hill:2026w33:d8300a21",
+      "offer_family": "gen_f5db37a8",
       "valid_to": "2026-08-18"
     },
     {
@@ -2914,19 +2969,9 @@
       "valid_to": "2026-08-02"
     },
     {
-      "offer_id": "safeway:2026w27:22bc711b",
-      "offer_family": "tidy_cats_2dfd677e",
-      "valid_to": "2026-07-30"
-    },
-    {
       "offer_id": "safeway:2026w27:275db433",
       "offer_family": "boost_90bd6d3f",
       "valid_to": "2026-08-02"
-    },
-    {
-      "offer_id": "safeway:2026w27:2f73ef02",
-      "offer_family": "tidy_cats_f355e027",
-      "valid_to": "2026-07-30"
     },
     {
       "offer_id": "safeway:2026w27:41765947",
