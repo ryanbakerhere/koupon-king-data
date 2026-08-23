@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T08:50:13Z",
+  "generated_at": "2026-08-23T08:56:06Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -2829,8 +2829,18 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:0a9ce463",
+      "offer_family": "gen_dc508682",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:0b351928",
       "offer_family": "gen_a0392357",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:0e7f8a6d",
+      "offer_family": "gen_a6ed2083",
       "valid_to": "2026-08-25"
     },
     {
@@ -2851,6 +2861,11 @@
     {
       "offer_id": "nob_hill:2026w34:15328576",
       "offer_family": "gen_f787cca1",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:1607628c",
+      "offer_family": "gen_db1d9e4f",
       "valid_to": "2026-08-25"
     },
     {
@@ -2924,8 +2939,28 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:35c98c2a",
+      "offer_family": "gen_5ebe902a",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:36afd49d",
+      "offer_family": "gen_25cc1f60",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:3afc9464",
+      "offer_family": "gen_a79adf67",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:3c23222c",
       "offer_family": "gen_18d1a25c",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:3cee0497",
+      "offer_family": "gen_c2e92731",
       "valid_to": "2026-08-25"
     },
     {
@@ -2949,6 +2984,21 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:4c7d1d4e",
+      "offer_family": "gen_3a11dcc2",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:4e195fb1",
+      "offer_family": "gen_7d7f46e8",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:4f49b53b",
+      "offer_family": "gen_b06411cf",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:4fe94b1a",
       "offer_family": "gen_abdfa512",
       "valid_to": "2026-08-25"
@@ -2966,6 +3016,21 @@
     {
       "offer_id": "nob_hill:2026w34:5b855040",
       "offer_family": "gen_c39379a9",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:5d00b708",
+      "offer_family": "gen_e29da395",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:60a41c46",
+      "offer_family": "gen_1130da56",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:621649d9",
+      "offer_family": "gen_29fc189c",
       "valid_to": "2026-08-25"
     },
     {
@@ -3014,6 +3079,11 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:77fe44bd",
+      "offer_family": "gen_aa7db64f",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:7d0d3413",
       "offer_family": "gen_a0d4a17c",
       "valid_to": "2026-08-25"
@@ -3021,6 +3091,11 @@
     {
       "offer_id": "nob_hill:2026w34:802300a2",
       "offer_family": "gen_754c392b",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:81655790",
+      "offer_family": "gen_c58b8e86",
       "valid_to": "2026-08-25"
     },
     {
@@ -3034,8 +3109,43 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:8685886f",
+      "offer_family": "gen_276e0099",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:86c096a4",
+      "offer_family": "gen_95801387",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:883112ae",
+      "offer_family": "gen_806dd747",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:8a5b4f46",
+      "offer_family": "gen_a8c4bf93",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:8a8f1f31",
+      "offer_family": "gen_c84c2812",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:8b34022b",
+      "offer_family": "gen_510af5d9",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:8d0f5bc8",
       "offer_family": "gen_18665ba9",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:8f104590",
+      "offer_family": "gen_b1c89a86",
       "valid_to": "2026-08-25"
     },
     {
@@ -3046,6 +3156,11 @@
     {
       "offer_id": "nob_hill:2026w34:937a4a47",
       "offer_family": "gen_9115093c",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:97b625ca",
+      "offer_family": "gen_4716bece",
       "valid_to": "2026-08-25"
     },
     {
@@ -3086,6 +3201,11 @@
     {
       "offer_id": "nob_hill:2026w34:a2ccbcd4",
       "offer_family": "gen_a146d48a",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:a41f48ed",
+      "offer_family": "gen_c1eba3eb",
       "valid_to": "2026-08-25"
     },
     {
@@ -3134,13 +3254,28 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:ba86d721",
+      "offer_family": "gen_35425ff6",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:bd82956f",
       "offer_family": "gen_6d203500",
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:be6f9d7d",
+      "offer_family": "gen_0ca7fefe",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:bec0ba1e",
       "offer_family": "gen_837d8cff",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:c013735e",
+      "offer_family": "gen_b670ed73",
       "valid_to": "2026-08-25"
     },
     {
@@ -3169,6 +3304,11 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:d8ebdb80",
+      "offer_family": "gen_519a6ea6",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:d8fcb759",
       "offer_family": "gen_647384cf",
       "valid_to": "2026-08-25"
@@ -3176,6 +3316,11 @@
     {
       "offer_id": "nob_hill:2026w34:da37b42a",
       "offer_family": "gen_87d49309",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:dda783b8",
+      "offer_family": "gen_093f4a0f",
       "valid_to": "2026-08-25"
     },
     {
@@ -3194,6 +3339,11 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:e6a407e9",
+      "offer_family": "gen_825a5410",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:e7f30f84",
       "offer_family": "gen_a3da17f5",
       "valid_to": "2026-08-25"
@@ -3204,6 +3354,11 @@
       "valid_to": "2026-08-25"
     },
     {
+      "offer_id": "nob_hill:2026w34:ede0a515",
+      "offer_family": "gen_743fd8a3",
+      "valid_to": "2026-08-25"
+    },
+    {
       "offer_id": "nob_hill:2026w34:edff56f0",
       "offer_family": "gen_9a487363",
       "valid_to": "2026-08-25"
@@ -3211,6 +3366,11 @@
     {
       "offer_id": "nob_hill:2026w34:ef879799",
       "offer_family": "gen_ffed2248",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:f0127bee",
+      "offer_family": "gen_27c14ce7",
       "valid_to": "2026-08-25"
     },
     {
@@ -3236,6 +3396,21 @@
     {
       "offer_id": "nob_hill:2026w34:fd61962c",
       "offer_family": "gen_935240cd",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:fe87b4c9",
+      "offer_family": "gen_00b96a9c",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:ff340f77",
+      "offer_family": "gen_c3990e66",
+      "valid_to": "2026-08-25"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:ffe1e771",
+      "offer_family": "gen_3c29ff94",
       "valid_to": "2026-08-25"
     },
     {
