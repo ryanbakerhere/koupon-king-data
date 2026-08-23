@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-08-23T02:51:58Z",
+  "generated_at": "2026-08-23T04:52:23Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -496,6 +496,34 @@
       "offer_family": "gen_67fc1fea"
     },
     {
+      "offer_id": "nob_hill:2026w34:23e0537f",
+      "route": "auto_apply",
+      "title": "Member Price $5.99/ea — Fresh Berries",
+      "description": "Fresh Berries. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "berries"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_9aca526c"
+    },
+    {
       "offer_id": "nob_hill:2026w34:255a90a5",
       "route": "auto_apply",
       "title": "Member Price $5.79/ea — Planters Peanuts",
@@ -523,6 +551,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_27ebfa85"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:2924d97e",
+      "route": "auto_apply",
+      "title": "Member Price $2.39/ea — Chobani Core, Less Sugar or Zero Sugar Yogurt",
+      "description": "Chobani Core, Less Sugar or Zero Sugar Yogurt. Member Price $2.39/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.39,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "chobani",
+          "core",
+          "less",
+          "sugar",
+          "zero",
+          "yogurt"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_43da67bd"
     },
     {
       "offer_id": "nob_hill:2026w34:293dcade",
@@ -586,6 +647,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_f220f708"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:2ec18c28",
+      "route": "auto_apply",
+      "title": "Member Price $0.06 — Sonoma-Cutrer Chardonnay",
+      "description": "Sonoma-Cutrer Chardonnay. Member Price $0.06. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.06,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sonoma",
+          "cutrer",
+          "chardonnay"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_cea54a3d"
     },
     {
       "offer_id": "nob_hill:2026w34:2f10f02a",
@@ -1175,6 +1266,68 @@
       "offer_family": "gen_4c6ba155"
     },
     {
+      "offer_id": "nob_hill:2026w34:5b855040",
+      "route": "auto_apply",
+      "title": "Member Price $12.99/ea — Harris Ranch USDA Prime Ground Beef",
+      "description": "Harris Ranch USDA Prime Ground Beef. Member Price $12.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "harris",
+          "ranch",
+          "usda",
+          "prime",
+          "ground",
+          "beef"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_c39379a9"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:5d00b708",
+      "route": "auto_apply",
+      "title": "Member Price $0.97 — Hass Avocados",
+      "description": "Hass Avocados. Member Price $0.97. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.97,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hass",
+          "avocados"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_e29da395"
+    },
+    {
       "offer_id": "nob_hill:2026w34:60a41c46",
       "route": "auto_apply",
       "title": "Member Price $0.05 — Aperol Aperitivo Liqueur",
@@ -1236,6 +1389,68 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_29fc189c"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:6a453b1a",
+      "route": "auto_apply",
+      "title": "Member Price $7.99 — Gallo Family",
+      "description": "Gallo Family. Member Price $7.99. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "gallo",
+          "family"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_fa94e2fa"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:6d4f347a",
+      "route": "auto_apply",
+      "title": "Member Price $25.99/ea — 30-Pack Pabst Blue Ribbon or Natural Light or 15-Miller Lite, Coors, Budweiser or Bud Light",
+      "description": "30-Pack Pabst Blue Ribbon or Natural Light or 15-Miller Lite, Coors, Budweiser or Bud Light. Member Price $25.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 25.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pack",
+          "pabst",
+          "blue",
+          "ribbon",
+          "natural",
+          "light"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_4eb0f1e6"
     },
     {
       "offer_id": "nob_hill:2026w34:6eac4cae",
@@ -1956,6 +2171,34 @@
       "offer_family": "gen_9115093c"
     },
     {
+      "offer_id": "nob_hill:2026w34:97b625ca",
+      "route": "auto_apply",
+      "title": "Member Price $0.02 — Bogle",
+      "description": "Bogle. Member Price $0.02. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.02,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "bogle"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_4716bece"
+    },
+    {
       "offer_id": "nob_hill:2026w34:9aebf61a",
       "route": "auto_apply",
       "title": "Member Price $2.99/lb — Fuji Apples",
@@ -2078,6 +2321,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_41c06f23"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:9ebe1816",
+      "route": "auto_apply",
+      "title": "Member Price $7.99/ea — Jennie-O Fresh Ground Turkey",
+      "description": "Jennie-O Fresh Ground Turkey. Member Price $7.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "jennie",
+          "ground",
+          "turkey"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_d4d17295"
     },
     {
       "offer_id": "nob_hill:2026w34:9f608f19",
@@ -2365,6 +2638,39 @@
       "offer_family": "gen_1b2be199"
     },
     {
+      "offer_id": "nob_hill:2026w34:b06df3ca",
+      "route": "auto_apply",
+      "title": "Member Price $12.99/ea — 6-Pack Karl Strauss Brewing Company or Blue Moon or 4-Pack Fall River or Golden State Cider",
+      "description": "6-Pack Karl Strauss Brewing Company or Blue Moon or 4-Pack Fall River or Golden State Cider. Member Price $12.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pack",
+          "karl",
+          "strauss",
+          "brewing",
+          "company",
+          "blue"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_3afa0bab"
+    },
+    {
       "offer_id": "nob_hill:2026w34:b349b935",
       "route": "auto_apply",
       "title": "Member Price $14.99/ea — Rose Alstro Bouquet",
@@ -2610,6 +2916,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_b670ed73"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:c11c19e0",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/lb — Raley’s Fresh Chicken Wings",
+      "description": "Raley’s Fresh Chicken Wings. Member Price $4.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "chicken",
+          "wings"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_8d87a592"
     },
     {
       "offer_id": "nob_hill:2026w34:d0cbaf9f",
@@ -3053,6 +3389,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_743fd8a3"
+    },
+    {
+      "offer_id": "nob_hill:2026w34:edff56f0",
+      "route": "auto_apply",
+      "title": "Member Price $10.99/lb — Raley’s Chuck Roast or Steak",
+      "description": "Raley’s Chuck Roast or Steak. Member Price $10.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 10.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "chuck",
+          "roast",
+          "steak"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_9a487363"
     },
     {
       "offer_id": "nob_hill:2026w34:ef879799",
