@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-08-23T04:52:23Z",
+  "generated_at": "2026-08-24T04:52:06Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -280,35 +280,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_d5a92a1b"
-    },
-    {
-      "offer_id": "nob_hill:2026w34:1397e682",
-      "route": "auto_apply",
-      "title": "Member Price $1.99/ea (reg. $6.99) — Kellogg's Cereal",
-      "description": "Kellogg's Cereal. Member Price $1.99/ea (reg. $6.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 1.99,
-        "regular_price": 6.99
-      },
-      "valid_from": "2026-08-19",
-      "valid_to": "2026-08-25",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "kellogg",
-          "cereal"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_696e552d"
     },
     {
       "offer_id": "nob_hill:2026w34:14a39bf6",
@@ -1048,6 +1019,39 @@
       "offer_family": "gen_866b59a0"
     },
     {
+      "offer_id": "nob_hill:2026w34:48279a3d",
+      "route": "auto_apply",
+      "title": "Member Price $7.99/ea (reg. $9.49) — Hot Pockets, Ajinomoto Gyoza Dumplings or José Olé Snacks",
+      "description": "Hot Pockets, Ajinomoto Gyoza Dumplings or José Olé Snacks. Member Price $7.99/ea (reg. $9.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 7.99,
+        "regular_price": 9.49
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hot",
+          "pockets",
+          "ajinomoto",
+          "gyoza",
+          "dumplings",
+          "jos"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_975fea52"
+    },
+    {
       "offer_id": "nob_hill:2026w34:499d21f9",
       "route": "auto_apply",
       "title": "Member Price $5.29/lb — Organic Figs",
@@ -1710,6 +1714,35 @@
       "offer_family": "gen_aa7db64f"
     },
     {
+      "offer_id": "nob_hill:2026w34:79b496f7",
+      "route": "auto_apply",
+      "title": "Member Price $6.99/ea — Kellogg's Cereal",
+      "description": "Kellogg's Cereal. Member Price $6.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-08-19",
+      "valid_to": "2026-08-25",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kellogg",
+          "cereal"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_339770ca"
+    },
+    {
       "offer_id": "nob_hill:2026w34:7d0d3413",
       "route": "auto_apply",
       "title": "Member Price $5.99/ea — Raley’s Peanut Butter",
@@ -2351,39 +2384,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_d4d17295"
-    },
-    {
-      "offer_id": "nob_hill:2026w34:9f608f19",
-      "route": "auto_apply",
-      "title": "Member Price $7.99/ea (reg. $8.99) — Hot Pockets, Ajinomoto Gyoza Dumplings or José Olé Snacks",
-      "description": "Hot Pockets, Ajinomoto Gyoza Dumplings or José Olé Snacks. Member Price $7.99/ea (reg. $8.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 7.99,
-        "regular_price": 8.99
-      },
-      "valid_from": "2026-08-19",
-      "valid_to": "2026-08-25",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "hot",
-          "pockets",
-          "ajinomoto",
-          "gyoza",
-          "dumplings",
-          "jos"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_4bb52e97"
     },
     {
       "offer_id": "nob_hill:2026w34:a1632ab9",
