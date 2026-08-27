@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T09:11:55Z",
+  "generated_at": "2026-08-27T19:05:26Z",
   "chains": [
     {
       "chain_id": "cvs",
@@ -109,8 +109,8 @@
           "lng": -121.95651,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-615.json",
-          "snapshot_version": "2026-08-25",
-          "snapshot_bytes_gz": 9440
+          "snapshot_version": "2026-08-27",
+          "snapshot_bytes_gz": 9605
         },
         {
           "store_id": "nob_hill-617",
@@ -119,8 +119,8 @@
           "lng": -121.78058,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-617.json",
-          "snapshot_version": "2026-08-25",
-          "snapshot_bytes_gz": 9441
+          "snapshot_version": "2026-08-27",
+          "snapshot_bytes_gz": 9605
         },
         {
           "store_id": "nob_hill-620",
@@ -129,8 +129,8 @@
           "lng": -122.02665,
           "geofence_radius_m": 800,
           "snapshot_url": "stores/nob_hill/nob_hill-620.json",
-          "snapshot_version": "2026-08-25",
-          "snapshot_bytes_gz": 9441
+          "snapshot_version": "2026-08-27",
+          "snapshot_bytes_gz": 9605
         }
       ]
     },
