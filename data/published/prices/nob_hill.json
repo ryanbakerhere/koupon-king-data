@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T14:05:02Z",
+  "generated_at": "2026-09-02T12:59:19Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_001b7dc6": {
@@ -1651,6 +1651,15 @@
         }
       ]
     },
+    "gen_2589c934": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 7.99,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_25cc1f60": {
       "series": [
         {
@@ -2602,6 +2611,20 @@
         }
       ]
     },
+    "gen_38036415": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 8.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W35",
+          "price": 10.49,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_383a9119": {
       "series": [
         {
@@ -2861,6 +2884,15 @@
         {
           "week": "2026-W27",
           "price": 5.99,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_3d031895": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 9.49,
           "kind": "member"
         }
       ]
@@ -3606,6 +3638,15 @@
         {
           "week": "2026-W32",
           "price": 1.19,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_4f5d7f7c": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 5.49,
           "kind": "member"
         }
       ]
@@ -5953,6 +5994,15 @@
           "week": "2026-W34",
           "price": 4.99,
           "kind": "regular"
+        }
+      ]
+    },
+    "gen_7da8aeae": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 7.99,
+          "kind": "member"
         }
       ]
     },
@@ -11399,6 +11449,20 @@
           "week": "2026-W27",
           "price": 2.99,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_f4976536": {
+      "series": [
+        {
+          "week": "2026-W35",
+          "price": 4.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W35",
+          "price": 5.49,
+          "kind": "regular"
         }
       ]
     },
