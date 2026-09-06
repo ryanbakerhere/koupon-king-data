@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T12:54:56Z",
+  "generated_at": "2026-09-06T12:11:14Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_001b7dc6": {
@@ -1536,6 +1536,20 @@
         }
       ]
     },
+    "gen_20dc5aba": {
+      "series": [
+        {
+          "week": "2026-W36",
+          "price": 8.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W36",
+          "price": 9.69,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_214c438d": {
       "series": [
         {
@@ -1916,6 +1930,15 @@
         {
           "week": "2026-W28",
           "price": 0.05,
+          "kind": "member"
+        }
+      ]
+    },
+    "gen_27fdd553": {
+      "series": [
+        {
+          "week": "2026-W36",
+          "price": 5.99,
           "kind": "member"
         }
       ]
@@ -2392,6 +2415,20 @@
           "week": "2026-W36",
           "price": 7.19,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_2f6aed72": {
+      "series": [
+        {
+          "week": "2026-W36",
+          "price": 5.49,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W36",
+          "price": 6.29,
+          "kind": "regular"
         }
       ]
     },
@@ -4911,6 +4948,15 @@
           "week": "2026-W33",
           "price": 24.99,
           "kind": "regular"
+        }
+      ]
+    },
+    "gen_5d612fe9": {
+      "series": [
+        {
+          "week": "2026-W36",
+          "price": 1.99,
+          "kind": "member"
         }
       ]
     },
@@ -11011,6 +11057,11 @@
           "week": "2026-W31",
           "price": 3.99,
           "kind": "member"
+        },
+        {
+          "week": "2026-W36",
+          "price": 3.99,
+          "kind": "member"
         }
       ]
     },
@@ -12345,6 +12396,20 @@
           "week": "2026-W33",
           "price": 0.06,
           "kind": "member"
+        }
+      ]
+    },
+    "gen_f2b64ba3": {
+      "series": [
+        {
+          "week": "2026-W36",
+          "price": 9.97,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W36",
+          "price": 19.99,
+          "kind": "regular"
         }
       ]
     },
