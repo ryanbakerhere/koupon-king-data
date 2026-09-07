@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T12:11:14Z",
+  "generated_at": "2026-09-07T14:17:19Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -9,44 +9,9 @@
       "valid_to": "2026-08-30"
     },
     {
-      "offer_id": "cvs:2026w28:04a9a826",
-      "offer_family": "dulcolax_d1ac1d94",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:07519cda",
-      "offer_family": "durex_dd3c2da5",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:093b74d0",
-      "offer_family": "pull_ups_19b648a1",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:11b1b421",
-      "offer_family": "rogaine_a3070747",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "cvs:2026w28:12aa0fd2",
       "offer_family": "welchs_fruit_sna_b0cdef0f",
       "valid_to": "2026-08-23"
-    },
-    {
-      "offer_id": "cvs:2026w28:1321fd01",
-      "offer_family": "huggies_wipes_8e1f426c",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:1550b213",
-      "offer_family": "nivea_shower_pro_adc46a45",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:1fa27188",
-      "offer_family": "excedrin_a7196d2d",
-      "valid_to": "2026-08-16"
     },
     {
       "offer_id": "cvs:2026w28:27ffd220",
@@ -59,11 +24,6 @@
       "valid_to": "2026-08-24"
     },
     {
-      "offer_id": "cvs:2026w28:32a06717",
-      "offer_family": "gold_bond_ad849053",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "cvs:2026w28:44cd0863",
       "offer_family": "always_a9e85dae",
       "valid_to": "2026-08-23"
@@ -72,11 +32,6 @@
       "offer_id": "cvs:2026w28:481b9c8c",
       "offer_family": "refresh_1dde48e4",
       "valid_to": "2026-08-29"
-    },
-    {
-      "offer_id": "cvs:2026w28:493fb701",
-      "offer_family": "huggies_diapers_978dc7b1",
-      "valid_to": "2026-08-16"
     },
     {
       "offer_id": "cvs:2026w28:6af82ed7",
@@ -104,11 +59,6 @@
       "valid_to": "2026-08-25"
     },
     {
-      "offer_id": "cvs:2026w28:b01e2c56",
-      "offer_family": "cortizone_10_2260afb2",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "cvs:2026w28:bab7e9aa",
       "offer_family": "k_y_a0d7d67c",
       "valid_to": "2026-08-23"
@@ -124,24 +74,9 @@
       "valid_to": "2026-08-29"
     },
     {
-      "offer_id": "cvs:2026w28:d7fb938d",
-      "offer_family": "poise_or_depend_e2cb3970",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "cvs:2026w28:e45a44d5",
       "offer_family": "general_mills_ce_c5bfbdf7",
       "valid_to": "2026-08-29"
-    },
-    {
-      "offer_id": "cvs:2026w28:e5008c70",
-      "offer_family": "boost_3f02ad22",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "cvs:2026w28:ee49a017",
-      "offer_family": "cantu_16c269d4",
-      "valid_to": "2026-08-16"
     },
     {
       "offer_id": "nob_hill:2026w33:012e510d",
@@ -2209,6 +2144,11 @@
       "valid_to": "2026-09-08"
     },
     {
+      "offer_id": "nob_hill:2026w36:164ec230",
+      "offer_family": "gen_2ccca08f",
+      "valid_to": "2026-09-08"
+    },
+    {
       "offer_id": "nob_hill:2026w36:16ad4a35",
       "offer_family": "gen_b0d06dc2",
       "valid_to": "2026-09-08"
@@ -2386,6 +2326,11 @@
     {
       "offer_id": "nob_hill:2026w36:59a6e1de",
       "offer_family": "gen_dad9a133",
+      "valid_to": "2026-09-08"
+    },
+    {
+      "offer_id": "nob_hill:2026w36:5d43b7e2",
+      "offer_family": "gen_a84cfc6c",
       "valid_to": "2026-09-08"
     },
     {
@@ -2644,6 +2589,11 @@
       "valid_to": "2026-09-08"
     },
     {
+      "offer_id": "nob_hill:2026w36:c3636529",
+      "offer_family": "gen_8ba38c0d",
+      "valid_to": "2026-09-08"
+    },
+    {
       "offer_id": "nob_hill:2026w36:c54d985f",
       "offer_family": "gen_9aca526c",
       "valid_to": "2026-09-08"
@@ -2749,6 +2699,11 @@
       "valid_to": "2026-09-08"
     },
     {
+      "offer_id": "nob_hill:2026w36:f3975083",
+      "offer_family": "gen_88a0a3a5",
+      "valid_to": "2026-09-08"
+    },
+    {
       "offer_id": "nob_hill:2026w36:f42395dd",
       "offer_family": "gen_33403e86",
       "valid_to": "2026-09-08"
@@ -2804,21 +2759,6 @@
       "valid_to": "2026-09-30"
     },
     {
-      "offer_id": "safeway:2026w24:b52cd10e",
-      "offer_family": "oatly_a9abb754",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "safeway:2026w24:d6cfbd0a",
-      "offer_family": "oatly_09353de8",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "safeway:2026w26:06fb34fc",
-      "offer_family": "milk_bone_3133afb6",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "safeway:2026w26:3f7b55e6",
       "offer_family": "preservision_8084d44a",
       "valid_to": "2026-08-26"
@@ -2839,16 +2779,6 @@
       "valid_to": "2026-08-26"
     },
     {
-      "offer_id": "safeway:2026w26:d28ca486",
-      "offer_family": "milk_bone_14c8934d",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "safeway:2026w27:0a5f614c",
-      "offer_family": "oikos_63d0890e",
-      "valid_to": "2026-08-16"
-    },
-    {
       "offer_id": "safeway:2026w27:54536a6c",
       "offer_family": "kim_crawford_a5580ef3",
       "valid_to": "2026-08-30"
@@ -2867,21 +2797,6 @@
       "offer_id": "safeway:2026w27:f11da9d4",
       "offer_family": "deschutes_54ac6f24",
       "valid_to": "2026-08-19"
-    },
-    {
-      "offer_id": "safeway:2026w28:6062bb9a",
-      "offer_family": "first_response_8a2f8d8f",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "safeway:2026w28:64823fac",
-      "offer_family": "neutrogena_eb796e16",
-      "valid_to": "2026-08-16"
-    },
-    {
-      "offer_id": "safeway:2026w28:793a7918",
-      "offer_family": "neutrogena_3378b8c5",
-      "valid_to": "2026-08-16"
     },
     {
       "offer_id": "safeway:2026w28:c36a7611",
