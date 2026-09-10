@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T12:59:33Z",
+  "generated_at": "2026-09-10T13:02:49Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -2084,6 +2084,11 @@
       "valid_to": "2026-09-15"
     },
     {
+      "offer_id": "nob_hill:2026w37:07a1304b",
+      "offer_family": "gen_90de4d55",
+      "valid_to": "2026-09-15"
+    },
+    {
       "offer_id": "nob_hill:2026w37:090a2a7c",
       "offer_family": "gen_a146d48a",
       "valid_to": "2026-09-15"
@@ -2214,6 +2219,11 @@
       "valid_to": "2026-09-15"
     },
     {
+      "offer_id": "nob_hill:2026w37:3e5f0c38",
+      "offer_family": "gen_f63e7293",
+      "valid_to": "2026-09-15"
+    },
+    {
       "offer_id": "nob_hill:2026w37:3f571f7a",
       "offer_family": "gen_d1a08dc0",
       "valid_to": "2026-09-15"
@@ -2299,6 +2309,11 @@
       "valid_to": "2026-09-15"
     },
     {
+      "offer_id": "nob_hill:2026w37:5d0ed4fe",
+      "offer_family": "gen_33b65323",
+      "valid_to": "2026-09-15"
+    },
+    {
       "offer_id": "nob_hill:2026w37:68e1f99b",
       "offer_family": "gen_33c24c56",
       "valid_to": "2026-09-15"
@@ -2356,6 +2371,11 @@
     {
       "offer_id": "nob_hill:2026w37:7c2003bd",
       "offer_family": "gen_bc7adae0",
+      "valid_to": "2026-09-15"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:7ddd99cf",
+      "offer_family": "gen_7fee69d2",
       "valid_to": "2026-09-15"
     },
     {
@@ -2544,6 +2564,11 @@
       "valid_to": "2026-09-15"
     },
     {
+      "offer_id": "nob_hill:2026w37:cb44a245",
+      "offer_family": "gen_d191c75b",
+      "valid_to": "2026-09-15"
+    },
+    {
       "offer_id": "nob_hill:2026w37:cc5e243c",
       "offer_family": "gen_56f36438",
       "valid_to": "2026-09-15"
@@ -2586,6 +2611,11 @@
     {
       "offer_id": "nob_hill:2026w37:d7c40009",
       "offer_family": "gen_5fbdb634",
+      "valid_to": "2026-09-15"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:d9016e5f",
+      "offer_family": "gen_98d62536",
       "valid_to": "2026-09-15"
     },
     {
@@ -2664,16 +2694,6 @@
       "valid_to": "2026-08-26"
     },
     {
-      "offer_id": "safeway:2026w26:7019d254",
-      "offer_family": "clif_4569e0cf",
-      "valid_to": "2026-08-19"
-    },
-    {
-      "offer_id": "safeway:2026w26:8f5147db",
-      "offer_family": "clif_57ac60b0",
-      "valid_to": "2026-08-19"
-    },
-    {
       "offer_id": "safeway:2026w26:bc4d6f97",
       "offer_family": "preservision_c234fa4f",
       "valid_to": "2026-08-26"
@@ -2692,11 +2712,6 @@
       "offer_id": "safeway:2026w27:cc797c29",
       "offer_family": "kim_crawford_fd064747",
       "valid_to": "2026-08-30"
-    },
-    {
-      "offer_id": "safeway:2026w27:f11da9d4",
-      "offer_family": "deschutes_54ac6f24",
-      "valid_to": "2026-08-19"
     },
     {
       "offer_id": "safeway:2026w28:c36a7611",

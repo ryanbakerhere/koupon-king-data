@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T12:59:33Z",
+  "generated_at": "2026-09-10T13:02:49Z",
   "chain_id": "nob_hill",
   "families": {
     "gen_001b7dc6": {
@@ -2885,6 +2885,11 @@
         },
         {
           "week": "2026-W36",
+          "price": 15.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W37",
           "price": 15.99,
           "kind": "member"
         }
@@ -7134,6 +7139,20 @@
         }
       ]
     },
+    "gen_7fee69d2": {
+      "series": [
+        {
+          "week": "2026-W37",
+          "price": 4.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W37",
+          "price": 6.99,
+          "kind": "regular"
+        }
+      ]
+    },
     "gen_80176258": {
       "series": [
         {
@@ -7920,6 +7939,11 @@
           "week": "2026-W36",
           "price": 3.79,
           "kind": "member"
+        },
+        {
+          "week": "2026-W37",
+          "price": 3.79,
+          "kind": "member"
         }
       ]
     },
@@ -8555,6 +8579,16 @@
         },
         {
           "week": "2026-W36",
+          "price": 10.49,
+          "kind": "regular"
+        },
+        {
+          "week": "2026-W37",
+          "price": 8.99,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W37",
           "price": 10.49,
           "kind": "regular"
         }
@@ -11678,6 +11712,15 @@
         }
       ]
     },
+    "gen_d191c75b": {
+      "series": [
+        {
+          "week": "2026-W37",
+          "price": 1.98,
+          "kind": "member"
+        }
+      ]
+    },
     "gen_d193efdc": {
       "series": [
         {
@@ -13537,6 +13580,16 @@
         },
         {
           "week": "2026-W32",
+          "price": 3.19,
+          "kind": "regular"
+        },
+        {
+          "week": "2026-W37",
+          "price": 2.49,
+          "kind": "member"
+        },
+        {
+          "week": "2026-W37",
           "price": 3.19,
           "kind": "regular"
         }
