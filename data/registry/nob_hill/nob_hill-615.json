@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-09-09T10:38:01Z",
+  "generated_at": "2026-09-10T07:49:32Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -36,36 +36,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_f84a6c8e"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:03c84cf3",
-      "route": "auto_apply",
-      "title": "Member Price $2.79/ea — Raley’s Pineapple in Juice",
-      "description": "Raley’s Pineapple in Juice. Member Price $2.79/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.79,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "pineapple",
-          "juice"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_23b98590"
     },
     {
       "offer_id": "nob_hill:2026w37:03ce1108",
@@ -134,14 +104,14 @@
       "offer_family": "gen_0699cdf9"
     },
     {
-      "offer_id": "nob_hill:2026w37:07584e23",
+      "offer_id": "nob_hill:2026w37:07a1304b",
       "route": "auto_apply",
-      "title": "Member Price $4.99/ea (reg. $7.39) — Florida’s Natural Orange or Grapefruit Juice",
-      "description": "Florida’s Natural Orange or Grapefruit Juice. Member Price $4.99/ea (reg. $7.39). From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $3.79/ea — Ruffles, Doritos or Tostitos",
+      "description": "Ruffles, Doritos or Tostitos. Member Price $3.79/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 4.99,
-        "regular_price": 7.39
+        "price": 3.79,
+        "regular_price": null
       },
       "valid_from": "2026-09-09",
       "valid_to": "2026-09-15",
@@ -153,17 +123,15 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "florida",
-          "natural",
-          "orange",
-          "grapefruit",
-          "juice"
+          "ruffles",
+          "doritos",
+          "tostitos"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_a870ea3a"
+      "offer_family": "gen_90de4d55"
     },
     {
       "offer_id": "nob_hill:2026w37:090a2a7c",
@@ -539,36 +507,6 @@
       "offer_family": "gen_7da8aeae"
     },
     {
-      "offer_id": "nob_hill:2026w37:1cd0cdb8",
-      "route": "auto_apply",
-      "title": "Member Price $5.49/ea — Ruffles, Doritos or Tostitos",
-      "description": "Ruffles, Doritos or Tostitos. Member Price $5.49/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.49,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "ruffles",
-          "doritos",
-          "tostitos"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_040aabca"
-    },
-    {
       "offer_id": "nob_hill:2026w37:20be32cd",
       "route": "auto_apply",
       "title": "Member Price $7.99/ea (reg. $8.49) — Raley’s Italian Dry Salame, DelGrosso Pasta Sauce or Buitoni Pasta or Sauce",
@@ -844,37 +782,6 @@
       "offer_family": "gen_cc490a6b"
     },
     {
-      "offer_id": "nob_hill:2026w37:34836e94",
-      "route": "auto_apply",
-      "title": "Member Price $8.99/ea (reg. $9.69) — Sonoma Gourmet Pasta Sauce",
-      "description": "Sonoma Gourmet Pasta Sauce. Member Price $8.99/ea (reg. $9.69). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 8.99,
-        "regular_price": 9.69
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "sonoma",
-          "gourmet",
-          "pasta",
-          "sauce"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_20dc5aba"
-    },
-    {
       "offer_id": "nob_hill:2026w37:35bb9413",
       "route": "auto_apply",
       "title": "Member Price $5.99/ea — Carnations or Spray Carnations",
@@ -934,14 +841,14 @@
       "offer_family": "gen_0c37d337"
     },
     {
-      "offer_id": "nob_hill:2026w37:3c3c134c",
+      "offer_id": "nob_hill:2026w37:3e5f0c38",
       "route": "auto_apply",
-      "title": "Member Price $0.03 — La Crema Monterey",
-      "description": "La Crema Monterey. Member Price $0.03. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $2.49/ea (reg. $3.19) — Cacique Chorizo",
+      "description": "Cacique Chorizo. Member Price $2.49/ea (reg. $3.19). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 0.03,
-        "regular_price": null
+        "price": 2.49,
+        "regular_price": 3.19
       },
       "valid_from": "2026-09-09",
       "valid_to": "2026-09-15",
@@ -953,14 +860,14 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "crema",
-          "monterey"
+          "cacique",
+          "chorizo"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_1819b6bb"
+      "offer_family": "gen_f63e7293"
     },
     {
       "offer_id": "nob_hill:2026w37:3f571f7a",
@@ -1486,13 +1393,13 @@
       "offer_family": "gen_903587f4"
     },
     {
-      "offer_id": "nob_hill:2026w37:68e1f99b",
+      "offer_id": "nob_hill:2026w37:5d0ed4fe",
       "route": "auto_apply",
-      "title": "Member Price $11.33 — Woodbridge",
-      "description": "Woodbridge. Member Price $11.33. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $15.99/ea — Foster Farms Fresh Chicken Leg Quarters",
+      "description": "Foster Farms Fresh Chicken Leg Quarters. Member Price $15.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 11.33,
+        "price": 15.99,
         "regular_price": null
       },
       "valid_from": "2026-09-09",
@@ -1505,13 +1412,17 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "woodbridge"
+          "foster",
+          "farms",
+          "chicken",
+          "leg",
+          "quarters"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_33c24c56"
+      "offer_family": "gen_33b65323"
     },
     {
       "offer_id": "nob_hill:2026w37:6c32ee57",
@@ -1703,35 +1614,6 @@
       "offer_family": "gen_50063803"
     },
     {
-      "offer_id": "nob_hill:2026w37:75be132a",
-      "route": "auto_apply",
-      "title": "Member Price $2.49/ea (reg. $2.99) — Cacique Chorizo",
-      "description": "Cacique Chorizo. Member Price $2.49/ea (reg. $2.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.49,
-        "regular_price": 2.99
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "cacique",
-          "chorizo"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_4a71ffad"
-    },
-    {
       "offer_id": "nob_hill:2026w37:78cf575b",
       "route": "auto_apply",
       "title": "Member Price $3.39/ea (reg. $3.99) — Hostess Donettes",
@@ -1854,6 +1736,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_bc7adae0"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:7ddd99cf",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea (reg. $6.99) — Florida’s Natural Orange or Grapefruit Juice",
+      "description": "Florida’s Natural Orange or Grapefruit Juice. Member Price $4.99/ea (reg. $6.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": 6.99
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "florida",
+          "natural",
+          "orange",
+          "grapefruit",
+          "juice"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_7fee69d2"
     },
     {
       "offer_id": "nob_hill:2026w37:7de8a03d",
@@ -2379,36 +2293,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_2240b559"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:a49d07db",
-      "route": "auto_apply",
-      "title": "Member Price $4.49/ea — Raley’s Tortilla Chips",
-      "description": "Raley’s Tortilla Chips. Member Price $4.49/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.49,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "tortilla",
-          "chips"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_950ecce0"
     },
     {
       "offer_id": "nob_hill:2026w37:a59f8bf7",
@@ -2993,6 +2877,36 @@
       "offer_family": "gen_5d6a8475"
     },
     {
+      "offer_id": "nob_hill:2026w37:cb44a245",
+      "route": "auto_apply",
+      "title": "Member Price $1.98/ea — Raley’s Pineapple in Juice",
+      "description": "Raley’s Pineapple in Juice. Member Price $1.98/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 1.98,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "pineapple",
+          "juice"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_d191c75b"
+    },
+    {
       "offer_id": "nob_hill:2026w37:cc5e243c",
       "route": "auto_apply",
       "title": "Member Price $0.01 — Yellow Tail",
@@ -3051,39 +2965,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_d3b02b34"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:cee3ba32",
-      "route": "auto_apply",
-      "title": "Member Price $13.99/ea — 8-Pack Sierra Nevada Pilsner or 6-Pack Lagunitas, Deschutes, Sierra Nevada, Cali Squeeze or Firestone Walker",
-      "description": "8-Pack Sierra Nevada Pilsner or 6-Pack Lagunitas, Deschutes, Sierra Nevada, Cali Squeeze or Firestone Walker. Member Price $13.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 13.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "sierra",
-          "nevada",
-          "pilsner",
-          "lagunitas",
-          "deschutes"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_3bb1bb49"
     },
     {
       "offer_id": "nob_hill:2026w37:cf1fb73e",
@@ -3267,6 +3148,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_5fbdb634"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:d9016e5f",
+      "route": "auto_apply",
+      "title": "Member Price $8.99/ea (reg. $10.49) — Sonoma Gourmet Pasta Sauce",
+      "description": "Sonoma Gourmet Pasta Sauce. Member Price $8.99/ea (reg. $10.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 8.99,
+        "regular_price": 10.49
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "sonoma",
+          "gourmet",
+          "pasta",
+          "sauce"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_98d62536"
     },
     {
       "offer_id": "nob_hill:2026w37:da213975",
@@ -3583,39 +3495,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_32a54da9"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:eef2c5ae",
-      "route": "auto_apply",
-      "title": "Member Price $8.99/ea — Volpi Sliced Meat or Marin French Petite Brie",
-      "description": "Volpi Sliced Meat or Marin French Petite Brie. Member Price $8.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 8.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "volpi",
-          "sliced",
-          "meat",
-          "marin",
-          "french",
-          "petite"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_1c928a66"
     },
     {
       "offer_id": "nob_hill:2026w37:fcfe029b",
