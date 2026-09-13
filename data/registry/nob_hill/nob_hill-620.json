@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-09-12T08:55:00Z",
+  "generated_at": "2026-09-13T08:40:17Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -256,6 +256,37 @@
       "offer_family": "gen_631acdc7"
     },
     {
+      "offer_id": "nob_hill:2026w37:0fe28c6a",
+      "route": "auto_apply",
+      "title": "Member Price $3.69/ea — Yerba Madre Organic Yerba Mate",
+      "description": "Yerba Madre Organic Yerba Mate. Member Price $3.69/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.69,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "yerba",
+          "madre",
+          "organic",
+          "mate"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_dac0610e"
+    },
+    {
       "offer_id": "nob_hill:2026w37:101c8aee",
       "route": "auto_apply",
       "title": "Member Price $12.99/lb — Fresh Coho Salmon Fillets",
@@ -317,6 +348,39 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_219bf487"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:18d6a9a3",
+      "route": "auto_apply",
+      "title": "Member Price $0.06 — Woodford Reserve, Four Roses Small Batch or Penelope Wheated Bourbon",
+      "description": "Woodford Reserve, Four Roses Small Batch or Penelope Wheated Bourbon. Member Price $0.06. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.06,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "woodford",
+          "reserve",
+          "four",
+          "roses",
+          "small",
+          "batch"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_3255e618"
     },
     {
       "offer_id": "nob_hill:2026w37:1a3b8bc7",
@@ -601,6 +665,35 @@
       "offer_family": "gen_54d6aad7"
     },
     {
+      "offer_id": "nob_hill:2026w37:2caca2a6",
+      "route": "auto_apply",
+      "title": "Member Price $0.97 — Hass Avocados",
+      "description": "Hass Avocados. Member Price $0.97. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.97,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hass",
+          "avocados"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_e29da395"
+    },
+    {
       "offer_id": "nob_hill:2026w37:2e326bfa",
       "route": "auto_apply",
       "title": "Member Price $0.04 — Tanqueray Dry Gin",
@@ -629,39 +722,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_25cc1f60"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:2e4e1bc4",
-      "route": "auto_apply",
-      "title": "Member Price $5.99/ea — Oroweat Bread or Thomas’ Bread, English Muffins or Bagels",
-      "description": "Oroweat Bread or Thomas’ Bread, English Muffins or Bagels. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "oroweat",
-          "bread",
-          "thomas",
-          "english",
-          "muffins",
-          "bagels"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_adb0c469"
     },
     {
       "offer_id": "nob_hill:2026w37:30ef9cd3",
@@ -811,6 +871,37 @@
       "offer_family": "gen_1819b6bb"
     },
     {
+      "offer_id": "nob_hill:2026w37:3f571f7a",
+      "route": "auto_apply",
+      "title": "Member Price $0.05 — Daou Discovery Cabernet Sauvignon",
+      "description": "Daou Discovery Cabernet Sauvignon. Member Price $0.05. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.05,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "daou",
+          "discovery",
+          "cabernet",
+          "sauvignon"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_d1a08dc0"
+    },
+    {
       "offer_id": "nob_hill:2026w37:4545a8b3",
       "route": "auto_apply",
       "title": "Member Price $2.49/ea — Raley’s Tomato Sauce",
@@ -935,6 +1026,34 @@
       "offer_family": "gen_8e48c457"
     },
     {
+      "offer_id": "nob_hill:2026w37:4fe3bb5e",
+      "route": "auto_apply",
+      "title": "Member Price $0.02 — Seaglass",
+      "description": "Seaglass. Member Price $0.02. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.02,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "seaglass"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_dcb2798b"
+    },
+    {
       "offer_id": "nob_hill:2026w37:50fcd043",
       "route": "auto_apply",
       "title": "Member Price $12.99/ea — Schweid & Sons Signature Blend Smashburgers",
@@ -1056,13 +1175,13 @@
       "offer_family": "gen_daa6d2b6"
     },
     {
-      "offer_id": "nob_hill:2026w37:593280e7",
+      "offer_id": "nob_hill:2026w37:55e1a5cf",
       "route": "auto_apply",
-      "title": "Member Price $2.99/ea — Nabisco Chips Ahoy! Cookies",
-      "description": "Nabisco Chips Ahoy! Cookies. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $5.99/ea — Nob Hill Trading Co. Cake or Cheesecake Slice",
+      "description": "Nob Hill Trading Co. Cake or Cheesecake Slice. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 2.99,
+        "price": 5.99,
         "regular_price": null
       },
       "valid_from": "2026-09-09",
@@ -1075,16 +1194,18 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "nabisco",
-          "chips",
-          "ahoy",
-          "cookies"
+          "nob",
+          "hill",
+          "trading",
+          "cake",
+          "cheesecake",
+          "slice"
         ],
         "excludes": []
       },
       "upcs_verified": [],
       "insert_ref": null,
-      "offer_family": "gen_a646b0ed"
+      "offer_family": "gen_45e69857"
     },
     {
       "offer_id": "nob_hill:2026w37:5b081b82",
@@ -1148,6 +1269,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_eb74fbec"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:5b7a8018",
+      "route": "auto_apply",
+      "title": "Member Price $4.49/ea — Fairlife Core Power Protein Shake",
+      "description": "Fairlife Core Power Protein Shake. Member Price $4.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fairlife",
+          "core",
+          "power",
+          "protein",
+          "shake"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_0b8c25cd"
     },
     {
       "offer_id": "nob_hill:2026w37:5bc51ba8",
@@ -2015,37 +2168,6 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_b3e966a5"
-    },
-    {
-      "offer_id": "nob_hill:2026w37:9df5a886",
-      "route": "auto_apply",
-      "title": "Member Price $4.99/ea — Pepperidge Farm Goldfish Crackers",
-      "description": "Pepperidge Farm Goldfish Crackers. Member Price $4.99/ea. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-09-09",
-      "valid_to": "2026-09-15",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pepperidge",
-          "farm",
-          "goldfish",
-          "crackers"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null,
-      "offer_family": "gen_620ef4d2"
     },
     {
       "offer_id": "nob_hill:2026w37:9f557a77",
@@ -2969,6 +3091,37 @@
       "offer_family": "gen_3ad2acff"
     },
     {
+      "offer_id": "nob_hill:2026w37:d0be1046",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/ea — GT’s Synergy Kombucha or Alive Elixir",
+      "description": "GT’s Synergy Kombucha or Alive Elixir. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "synergy",
+          "kombucha",
+          "alive",
+          "elixir"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_6ffb3286"
+    },
+    {
       "offer_id": "nob_hill:2026w37:d3fda311",
       "route": "auto_apply",
       "title": "Member Price $5.49/ea — Suja Organic Juice",
@@ -3341,6 +3494,36 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_2bb556a4"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:e4ed6134",
+      "route": "auto_apply",
+      "title": "Member Price $6.29/ea — Philadelphia Cream Cheese",
+      "description": "Philadelphia Cream Cheese. Member Price $6.29/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.29,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-09",
+      "valid_to": "2026-09-15",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "philadelphia",
+          "cream",
+          "cheese"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_8af544a1"
     },
     {
       "offer_id": "nob_hill:2026w37:e77c680f",
