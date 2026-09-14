@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T13:33:16Z",
+  "generated_at": "2026-09-14T15:04:35Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
@@ -9,19 +9,9 @@
       "valid_to": "2026-08-30"
     },
     {
-      "offer_id": "cvs:2026w28:12aa0fd2",
-      "offer_family": "welchs_fruit_sna_b0cdef0f",
-      "valid_to": "2026-08-23"
-    },
-    {
       "offer_id": "cvs:2026w28:2a396291",
       "offer_family": "mylanta_d187edc5",
       "valid_to": "2026-08-24"
-    },
-    {
-      "offer_id": "cvs:2026w28:44cd0863",
-      "offer_family": "always_a9e85dae",
-      "valid_to": "2026-08-23"
     },
     {
       "offer_id": "cvs:2026w28:481b9c8c",
@@ -44,19 +34,9 @@
       "valid_to": "2026-08-29"
     },
     {
-      "offer_id": "cvs:2026w28:9e44cde1",
-      "offer_family": "resolve_a523d1f0",
-      "valid_to": "2026-08-23"
-    },
-    {
       "offer_id": "cvs:2026w28:a1dd2397",
       "offer_family": "waterwipes_06b6e79b",
       "valid_to": "2026-08-25"
-    },
-    {
-      "offer_id": "cvs:2026w28:bab7e9aa",
-      "offer_family": "k_y_a0d7d67c",
-      "valid_to": "2026-08-23"
     },
     {
       "offer_id": "cvs:2026w28:d4c758a5",
@@ -2479,6 +2459,11 @@
       "valid_to": "2026-09-15"
     },
     {
+      "offer_id": "nob_hill:2026w37:8fa5c558",
+      "offer_family": "gen_15632d2d",
+      "valid_to": "2026-09-15"
+    },
+    {
       "offer_id": "nob_hill:2026w37:90aae177",
       "offer_family": "gen_2e0ec2d2",
       "valid_to": "2026-09-15"
@@ -2601,6 +2586,11 @@
     {
       "offer_id": "nob_hill:2026w37:ba6952b0",
       "offer_family": "gen_9f313fb1",
+      "valid_to": "2026-09-15"
+    },
+    {
+      "offer_id": "nob_hill:2026w37:bc9e1db8",
+      "offer_family": "gen_a0c37fee",
       "valid_to": "2026-09-15"
     },
     {
