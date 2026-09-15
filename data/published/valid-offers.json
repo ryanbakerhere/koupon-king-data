@@ -1,17 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T15:04:35Z",
+  "generated_at": "2026-09-15T13:45:25Z",
   "retain_days_past_valid_to": 21,
   "offers": [
     {
       "offer_id": "cvs:2026w28:0262c96f",
       "offer_family": "milk_bone_38afeaf4",
       "valid_to": "2026-08-30"
-    },
-    {
-      "offer_id": "cvs:2026w28:2a396291",
-      "offer_family": "mylanta_d187edc5",
-      "valid_to": "2026-08-24"
     },
     {
       "offer_id": "cvs:2026w28:481b9c8c",
@@ -2787,21 +2782,6 @@
       "offer_id": "safeway:2026w28:c36a7611",
       "offer_family": "always_cf388fb7",
       "valid_to": "2026-09-01"
-    },
-    {
-      "offer_id": "safeway:2026w28:cffbd5f6",
-      "offer_family": "brawny_105a60b6",
-      "valid_to": "2026-08-24"
-    },
-    {
-      "offer_id": "safeway:2026w28:e02e5673",
-      "offer_family": "quilted_northern_1e4ff71c",
-      "valid_to": "2026-08-24"
-    },
-    {
-      "offer_id": "safeway:2026w29:0754339b",
-      "offer_family": "gen_a7ce68a3",
-      "valid_to": "2026-08-24"
     }
   ]
 }
