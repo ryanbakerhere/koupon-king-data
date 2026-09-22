@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-09-22T07:48:09Z",
+  "generated_at": "2026-09-22T10:00:50Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -102,6 +102,69 @@
       "offer_family": "gen_0c83e47a"
     },
     {
+      "offer_id": "nob_hill:2026w38:77f8a973",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/ea — Breyers Ice Cream",
+      "description": "Breyers Ice Cream. Member Price $3.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-16",
+      "valid_to": "2026-09-22",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "breyers",
+          "ice",
+          "cream"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_595d7d65"
+    },
+    {
+      "offer_id": "nob_hill:2026w38:7ad6f22e",
+      "route": "auto_apply",
+      "title": "Member Price $0.04 — Skyy Vodka, Buffalo Trace Bourbon or Elijah Craig Whiskey",
+      "description": "Skyy Vodka, Buffalo Trace Bourbon or Elijah Craig Whiskey. Member Price $0.04. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.04,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-16",
+      "valid_to": "2026-09-22",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "skyy",
+          "vodka",
+          "buffalo",
+          "trace",
+          "bourbon",
+          "elijah"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_23b3dcac"
+    },
+    {
       "offer_id": "nob_hill:2026w38:7ecb7837",
       "route": "auto_apply",
       "title": "Member Price $2.48/ea — Rosarita Refried Beans",
@@ -162,6 +225,34 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_ae6f2205"
+    },
+    {
+      "offer_id": "nob_hill:2026w38:930fe8c5",
+      "route": "auto_apply",
+      "title": "Member Price $0.04 — Meiomi",
+      "description": "Meiomi. Member Price $0.04. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 0.04,
+        "regular_price": null
+      },
+      "valid_from": "2026-09-16",
+      "valid_to": "2026-09-22",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "meiomi"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_41f7e615"
     },
     {
       "offer_id": "nob_hill:2026w38:997c6af8",
