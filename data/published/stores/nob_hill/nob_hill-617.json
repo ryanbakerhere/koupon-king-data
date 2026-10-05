@@ -429,7 +429,7 @@
       "baseline_price": 13.99,
       "baseline_confidence": {
         "kind": "member",
-        "observations": 6,
+        "observations": 5,
         "window_weeks": 8
       },
       "valid_from": "2026-09-23",
@@ -592,12 +592,6 @@
         "type": "member_price",
         "price": 4.79,
         "regular_price": null
-      },
-      "baseline_price": 4.79,
-      "baseline_confidence": {
-        "kind": "member",
-        "observations": 3,
-        "window_weeks": 8
       },
       "valid_from": "2026-09-23",
       "valid_to": "2026-09-29",
@@ -1443,7 +1437,7 @@
       "baseline_price": 5.49,
       "baseline_confidence": {
         "kind": "member",
-        "observations": 4,
+        "observations": 3,
         "window_weeks": 8
       },
       "valid_from": "2026-09-23",
@@ -1669,7 +1663,7 @@
       "baseline_price": 2.99,
       "baseline_confidence": {
         "kind": "member",
-        "observations": 5,
+        "observations": 4,
         "window_weeks": 8
       },
       "valid_from": "2026-09-23",
@@ -2348,7 +2342,7 @@
       "baseline_price": 0.03,
       "baseline_confidence": {
         "kind": "member",
-        "observations": 4,
+        "observations": 3,
         "window_weeks": 8
       },
       "valid_from": "2026-09-23",
