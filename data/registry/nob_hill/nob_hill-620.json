@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-620",
-  "generated_at": "2026-11-08T07:35:06Z",
+  "generated_at": "2026-11-09T05:52:55Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -1014,6 +1014,38 @@
       "offer_family": "gen_ee916941"
     },
     {
+      "offer_id": "nob_hill:2026w45:45c36aa7",
+      "route": "auto_apply",
+      "title": "Member Price $9.99/ea — Pantene or Head & Shoulders Shampoo or Conditioner",
+      "description": "Pantene or Head & Shoulders Shampoo or Conditioner. Member Price $9.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 9.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pantene",
+          "head",
+          "shoulders",
+          "shampoo",
+          "conditioner"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_e710851e"
+    },
+    {
       "offer_id": "nob_hill:2026w45:4617b69c",
       "route": "auto_apply",
       "title": "Member Price $6.99/ea (reg. $8.99) — Hatfield Dry Rubbed Pork",
@@ -1043,6 +1075,100 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_78a00751"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:4654492a",
+      "route": "auto_apply",
+      "title": "Member Price $5.99/ea — Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers",
+      "description": "Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "count",
+          "finger",
+          "strudels",
+          "braided",
+          "apple"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_047f4ca9"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:470a088a",
+      "route": "auto_apply",
+      "title": "Member Price $12.99/ea — Patriotic Daisies",
+      "description": "Patriotic Daisies. Member Price $12.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "patriotic",
+          "daisies"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_9b96b4e5"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:48d8d015",
+      "route": "auto_apply",
+      "title": "Member Price $2.79/ea — Raley’s Graham Cracker Pie Crust",
+      "description": "Raley’s Graham Cracker Pie Crust. Member Price $2.79/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.79,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "graham",
+          "cracker",
+          "pie",
+          "crust"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_64b1ad0a"
     },
     {
       "offer_id": "nob_hill:2026w45:49ab933e",
@@ -1356,6 +1482,39 @@
       "offer_family": "gen_66ae64ea"
     },
     {
+      "offer_id": "nob_hill:2026w45:5a901d8e",
+      "route": "auto_apply",
+      "title": "Member Price $9.49/ea — Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas",
+      "description": "Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas. Member Price $9.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 9.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "string",
+          "cheese",
+          "foster",
+          "farms",
+          "chicken"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_60a531aa"
+    },
+    {
       "offer_id": "nob_hill:2026w45:5af2a48f",
       "route": "auto_apply",
       "title": "Member Price $6.99/ea (reg. $8.39) — Oscar Mayer Deli Fresh Lunch Meat",
@@ -1386,6 +1545,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_72a657eb"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:62cac565",
+      "route": "auto_apply",
+      "title": "Member Price $2.99/lb — Navel Oranges or Fuji or Opal Apples",
+      "description": "Navel Oranges or Fuji or Opal Apples. Member Price $2.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "navel",
+          "oranges",
+          "fuji",
+          "opal",
+          "apples"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_9be8c7fd"
     },
     {
       "offer_id": "nob_hill:2026w45:673cd56c",
@@ -1573,6 +1764,37 @@
       "offer_family": "gen_663ed4a4"
     },
     {
+      "offer_id": "nob_hill:2026w45:72a14817",
+      "route": "auto_apply",
+      "title": "Member Price $6.99/ea (reg. $7.99) — Pom Wonderful Pomegranate Arils",
+      "description": "Pom Wonderful Pomegranate Arils. Member Price $6.99/ea (reg. $7.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 6.99,
+        "regular_price": 7.99
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pom",
+          "wonderful",
+          "pomegranate",
+          "arils"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_7a7cbf64"
+    },
+    {
       "offer_id": "nob_hill:2026w45:7502fb07",
       "route": "auto_apply",
       "title": "Member Price $0.03 — Butter Wines",
@@ -1633,6 +1855,35 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_be7fe2c0"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:7cae5876",
+      "route": "auto_apply",
+      "title": "Member Price $16.99/ea — Butterfly Bouquet",
+      "description": "Butterfly Bouquet. Member Price $16.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 16.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "butterfly",
+          "bouquet"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_fefbbd82"
     },
     {
       "offer_id": "nob_hill:2026w45:7fe15eec",
@@ -1698,6 +1949,38 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_940cf5be"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:85885648",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/lb — Green, Black or Red Seedless Grapes",
+      "description": "Green, Black or Red Seedless Grapes. Member Price $4.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "green",
+          "black",
+          "red",
+          "seedless",
+          "grapes"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_98b03b68"
     },
     {
       "offer_id": "nob_hill:2026w45:888eda35",
@@ -2159,6 +2442,37 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_33bc5aea"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:a4560f1f",
+      "route": "auto_apply",
+      "title": "Member Price $14.99/ea — Fall Duet Alstro & Pom",
+      "description": "Fall Duet Alstro & Pom. Member Price $14.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 14.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "fall",
+          "duet",
+          "alstro",
+          "pom"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_ece1f277"
     },
     {
       "offer_id": "nob_hill:2026w45:a526e638",
@@ -2917,6 +3231,34 @@
       "upcs_verified": [],
       "insert_ref": null,
       "offer_family": "gen_87ccd9c7"
+    },
+    {
+      "offer_id": "nob_hill:2026w45:ed2a3712",
+      "route": "auto_apply",
+      "title": "Member Price $2.99/ea — Pomegranates",
+      "description": "Pomegranates. Member Price $2.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 2.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pomegranates"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null,
+      "offer_family": "gen_5ef6d6a9"
     },
     {
       "offer_id": "nob_hill:2026w45:eeddf80d",
