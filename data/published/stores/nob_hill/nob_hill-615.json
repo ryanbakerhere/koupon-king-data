@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-615",
-  "generated_at": "2026-11-10T05:51:44Z",
+  "generated_at": "2026-11-11T05:52:38Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -638,38 +638,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w45:28baac5a",
-      "offer_family": "gen_358a4fd5",
-      "route": "auto_apply",
-      "title": "Member Price $2.99/lb — Foster Farms Split Chicken Breasts",
-      "description": "Foster Farms Split Chicken Breasts. Member Price $2.99/lb. From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 2.99,
-        "regular_price": null
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "foster",
-          "farms",
-          "split",
-          "chicken",
-          "breasts"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w45:29490d0f",
       "offer_family": "gen_ed0882b0",
       "route": "auto_apply",
@@ -856,6 +824,38 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:34274526",
+      "offer_family": "gen_1a56f0bc",
+      "route": "auto_apply",
+      "title": "Member Price $9.99/lb — Raley’s Virginia Ham or Ham Off the Bone",
+      "description": "Raley’s Virginia Ham or Ham Off the Bone. Member Price $9.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 9.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "virginia",
+          "ham",
+          "off",
+          "bone"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:38ea7a35",
       "offer_family": "gen_e0d33c70",
       "route": "auto_apply",
@@ -949,15 +949,15 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w45:42791d5b",
-      "offer_family": "gen_08d6d4f6",
+      "offer_id": "nob_hill:2026w45:441aef83",
+      "offer_family": "gen_ee916941",
       "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $8.99) — Hot Pockets, Amy’s Snacks or Kellogg’s Eggo Waffles",
-      "description": "Hot Pockets, Amy’s Snacks or Kellogg’s Eggo Waffles. Member Price $5.00/ea (reg. $8.99). From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $6.99/ea — Kevin’s Natural Paleo Chicken Entrée or Acme Smoked Salmon",
+      "description": "Kevin’s Natural Paleo Chicken Entrée or Acme Smoked Salmon. Member Price $6.99/ea. From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 5,
-        "regular_price": 8.99
+        "price": 6.99,
+        "regular_price": null
       },
       "valid_from": "2026-11-04",
       "valid_to": "2026-11-10",
@@ -969,12 +969,12 @@
         "size_min_oz": null,
         "size_max_oz": null,
         "keywords": [
-          "hot",
-          "pockets",
-          "amy",
-          "snacks",
-          "kellogg",
-          "eggo"
+          "kevin",
+          "natural",
+          "paleo",
+          "chicken",
+          "entr",
+          "acme"
         ],
         "excludes": []
       },
@@ -1038,6 +1038,39 @@
           "dry",
           "rubbed",
           "pork"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w45:4654492a",
+      "offer_family": "gen_047f4ca9",
+      "route": "auto_apply",
+      "title": "Member Price $5.99/ea — Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers",
+      "description": "Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers. Member Price $5.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "count",
+          "finger",
+          "strudels",
+          "braided",
+          "apple"
         ],
         "excludes": []
       },
@@ -1417,6 +1450,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:5a901d8e",
+      "offer_family": "gen_60a531aa",
+      "route": "auto_apply",
+      "title": "Member Price $9.49/ea — Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas",
+      "description": "Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas. Member Price $9.49/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 9.49,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "string",
+          "cheese",
+          "foster",
+          "farms",
+          "chicken"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:5af2a48f",
       "offer_family": "gen_72a657eb",
       "route": "auto_apply",
@@ -1612,38 +1678,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w45:6c1dc885",
-      "offer_family": "gen_1117e956",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/lb (reg. $9.99) — Raley’s Virginia Ham or Ham Off the Bone",
-      "description": "Raley’s Virginia Ham or Ham Off the Bone. Member Price $5.00/lb (reg. $9.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 9.99
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "virginia",
-          "ham",
-          "off",
-          "bone"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w45:6ceb1a5a",
       "offer_family": "gen_8963ed31",
       "route": "auto_apply",
@@ -1797,6 +1831,38 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:7b9e9f5e",
+      "offer_family": "gen_1c3b28bb",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/lb — Foster Farms Split Chicken Breasts",
+      "description": "Foster Farms Split Chicken Breasts. Member Price $3.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "foster",
+          "farms",
+          "split",
+          "chicken",
+          "breasts"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:7cae5876",
       "offer_family": "gen_fefbbd82",
       "route": "auto_apply",
@@ -1819,39 +1885,6 @@
         "keywords": [
           "butterfly",
           "bouquet"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:7d5c1dc6",
-      "offer_family": "gen_655393f7",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $6.99) — Kevin’s Natural Paleo Chicken Entrée or Acme Smoked Salmon",
-      "description": "Kevin’s Natural Paleo Chicken Entrée or Acme Smoked Salmon. Member Price $5.00/ea (reg. $6.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 6.99
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "kevin",
-          "natural",
-          "paleo",
-          "chicken",
-          "entr",
-          "acme"
         ],
         "excludes": []
       },
@@ -1924,14 +1957,44 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w45:882a1b7f",
-      "offer_family": "gen_666fcf98",
+      "offer_id": "nob_hill:2026w45:85236dd9",
+      "offer_family": "gen_3920ca1a",
       "route": "auto_apply",
-      "title": "Member Price $5.00 — Green, Black or Red Seedless Grapes",
-      "description": "Green, Black or Red Seedless Grapes. Member Price $5.00. From the Raley's/Nob Hill weekly ad.",
+      "title": "Member Price $6.49/ea (reg. $9.19) — El Monterey Burritos or Chimichangas",
+      "description": "El Monterey Burritos or Chimichangas. Member Price $6.49/ea (reg. $9.19). From the Raley's/Nob Hill weekly ad.",
       "value": {
         "type": "member_price",
-        "price": 5,
+        "price": 6.49,
+        "regular_price": 9.19
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "monterey",
+          "burritos",
+          "chimichangas"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w45:85885648",
+      "offer_family": "gen_98b03b68",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/lb — Green, Black or Red Seedless Grapes",
+      "description": "Green, Black or Red Seedless Grapes. Member Price $4.99/lb. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
         "regular_price": null
       },
       "valid_from": "2026-11-04",
@@ -2078,6 +2141,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:8dd2681a",
+      "offer_family": "gen_a22838bc",
+      "route": "auto_apply",
+      "title": "Member Price $5.78/ea (reg. $6.29) — Mauna Loa Macadamia Nuts, Karma Nuts or Sunnyside Farms Greek Yogurt",
+      "description": "Mauna Loa Macadamia Nuts, Karma Nuts or Sunnyside Farms Greek Yogurt. Member Price $5.78/ea (reg. $6.29). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.78,
+        "regular_price": 6.29
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "mauna",
+          "loa",
+          "macadamia",
+          "nuts",
+          "karma",
+          "sunnyside"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:8f3f28e6",
       "offer_family": "gen_f8fb229a",
       "route": "auto_apply",
@@ -2163,39 +2259,6 @@
           "tampax",
           "pearl",
           "tampons"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:93119720",
-      "offer_family": "gen_0058ef45",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $5.99) — Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers",
-      "description": "Raley’s 8-Count Finger Strudels or 4-Count Braided Strudels or Apple or Cherry Turnovers. Member Price $5.00/ea (reg. $5.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 5.99
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "count",
-          "finger",
-          "strudels",
-          "braided",
-          "apple"
         ],
         "excludes": []
       },
@@ -2542,6 +2605,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:ac415240",
+      "offer_family": "gen_d1cb557a",
+      "route": "auto_apply",
+      "title": "Member Price $5.39/ea (reg. $5.49) — Tostitos or La Fortaleza Tortilla Chips or Skinny Dipped Almonds",
+      "description": "Tostitos or La Fortaleza Tortilla Chips or Skinny Dipped Almonds. Member Price $5.39/ea (reg. $5.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.39,
+        "regular_price": 5.49
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "tostitos",
+          "fortaleza",
+          "tortilla",
+          "chips",
+          "skinny",
+          "dipped"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:ace1476b",
       "offer_family": "gen_d0bb2d9d",
       "route": "auto_apply",
@@ -2566,39 +2662,6 @@
           "chips",
           "ahoy",
           "cookies"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:afae4b9c",
-      "offer_family": "gen_06acd669",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $9.49) — 30-Pack Crystal Geyser Spring Water, 12-Pack Lipton Tea or Ocean Spray Juice Cocktail",
-      "description": "30-Pack Crystal Geyser Spring Water, 12-Pack Lipton Tea or Ocean Spray Juice Cocktail. Member Price $5.00/ea (reg. $9.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 9.49
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "pack",
-          "crystal",
-          "geyser",
-          "spring",
-          "water",
-          "lipton"
         ],
         "excludes": []
       },
@@ -2632,39 +2695,6 @@
           "favorites",
           "lunch",
           "meat"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:b7421208",
-      "offer_family": "gen_344dd456",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $9.49) — Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas",
-      "description": "Raley’s String Cheese, Foster Farms Chicken Breast or Mission Soft Taco Tortillas. Member Price $5.00/ea (reg. $9.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 9.49
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "string",
-          "cheese",
-          "foster",
-          "farms",
-          "chicken"
         ],
         "excludes": []
       },
@@ -2792,6 +2822,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w45:c748d583",
+      "offer_family": "gen_d7f010a3",
+      "route": "auto_apply",
+      "title": "Member Price $8.99/ea — Hot Pockets, Amy’s Snacks or Kellogg’s Eggo Waffles",
+      "description": "Hot Pockets, Amy’s Snacks or Kellogg’s Eggo Waffles. Member Price $8.99/ea. From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 8.99,
+        "regular_price": null
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "hot",
+          "pockets",
+          "amy",
+          "snacks",
+          "kellogg",
+          "eggo"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w45:c8d12fa2",
       "offer_family": "gen_604a8b87",
       "route": "auto_apply",
@@ -2848,6 +2911,39 @@
           "bag",
           "cuties",
           "mandarins"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w45:cc849905",
+      "offer_family": "gen_9fe7c174",
+      "route": "auto_apply",
+      "title": "Member Price $9.49/ea (reg. $10.99) — 30-Pack Crystal Geyser Spring Water, 12-Pack Lipton Tea or Ocean Spray Juice Cocktail",
+      "description": "30-Pack Crystal Geyser Spring Water, 12-Pack Lipton Tea or Ocean Spray Juice Cocktail. Member Price $9.49/ea (reg. $10.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 9.49,
+        "regular_price": 10.99
+      },
+      "valid_from": "2026-11-04",
+      "valid_to": "2026-11-10",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "pack",
+          "crystal",
+          "geyser",
+          "spring",
+          "water",
+          "lipton"
         ],
         "excludes": []
       },
@@ -3045,39 +3141,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w45:db0e5578",
-      "offer_family": "gen_721b9232",
-      "route": "auto_apply",
-      "title": "Member Price $5.00/ea (reg. $5.78) — Mauna Loa Macadamia Nuts, Karma Nuts or Sunnyside Farms Greek Yogurt",
-      "description": "Mauna Loa Macadamia Nuts, Karma Nuts or Sunnyside Farms Greek Yogurt. Member Price $5.00/ea (reg. $5.78). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 5.78
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "mauna",
-          "loa",
-          "macadamia",
-          "nuts",
-          "karma",
-          "sunnyside"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w45:dd7f467e",
       "offer_family": "gen_2d016856",
       "route": "auto_apply",
@@ -3166,39 +3229,6 @@
           "miller",
           "beef",
           "franks"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:e4aa00c0",
-      "offer_family": "gen_0309708c",
-      "route": "auto_apply",
-      "title": "Member Price $5.00 (reg. $5.39) — Tostitos or La Fortaleza Tortilla Chips or Skinny Dipped Almonds",
-      "description": "Tostitos or La Fortaleza Tortilla Chips or Skinny Dipped Almonds. Member Price $5.00 (reg. $5.39). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5,
-        "regular_price": 5.39
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "tostitos",
-          "fortaleza",
-          "tortilla",
-          "chips",
-          "skinny",
-          "dipped"
         ],
         "excludes": []
       },
@@ -3484,36 +3514,6 @@
           "fried",
           "roasted",
           "chicken"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w45:f85e3edf",
-      "offer_family": "gen_6e5735f0",
-      "route": "auto_apply",
-      "title": "Member Price $6.49/ea (reg. $7.99) — El Monterey Burritos or Chimichangas",
-      "description": "El Monterey Burritos or Chimichangas. Member Price $6.49/ea (reg. $7.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 6.49,
-        "regular_price": 7.99
-      },
-      "valid_from": "2026-11-04",
-      "valid_to": "2026-11-10",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "monterey",
-          "burritos",
-          "chimichangas"
         ],
         "excludes": []
       },
