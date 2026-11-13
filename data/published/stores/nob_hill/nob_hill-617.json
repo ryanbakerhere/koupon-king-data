@@ -2,7 +2,7 @@
   "schema_version": 1,
   "chain_id": "nob_hill",
   "store_id": "nob_hill-617",
-  "generated_at": "2026-11-12T05:51:42Z",
+  "generated_at": "2026-11-13T05:52:15Z",
   "valid_through_hint": null,
   "offers": [
     {
@@ -94,6 +94,39 @@
           "pugliese",
           "bread",
           "better"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w46:0831f28e",
+      "offer_family": "gen_c4998b79",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea (reg. $5.49) — Kraft Deluxe Macaroni & Cheese or Velveeta Shells & Cheese",
+      "description": "Kraft Deluxe Macaroni & Cheese or Velveeta Shells & Cheese. Member Price $4.99/ea (reg. $5.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": 5.49
+      },
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-17",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kraft",
+          "deluxe",
+          "macaroni",
+          "cheese",
+          "velveeta",
+          "shells"
         ],
         "excludes": []
       },
@@ -842,6 +875,36 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w46:3b150bf8",
+      "offer_family": "gen_0c036832",
+      "route": "auto_apply",
+      "title": "Member Price $3.99/ea (reg. $5.29) — Barilla Pasta Sauce",
+      "description": "Barilla Pasta Sauce. Member Price $3.99/ea (reg. $5.29). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 3.99,
+        "regular_price": 5.29
+      },
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-17",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "barilla",
+          "pasta",
+          "sauce"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w46:3b825058",
       "offer_family": "gen_2f84115a",
       "route": "auto_apply",
@@ -901,39 +964,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w46:3d6288a7",
-      "offer_family": "gen_4d0c3116",
-      "route": "auto_apply",
-      "title": "Member Price $4.99/ea (reg. $5.79) — Kraft Deluxe Macaroni & Cheese or Velveeta Shells & Cheese",
-      "description": "Kraft Deluxe Macaroni & Cheese or Velveeta Shells & Cheese. Member Price $4.99/ea (reg. $5.79). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.99,
-        "regular_price": 5.79
-      },
-      "valid_from": "2026-11-11",
-      "valid_to": "2026-11-17",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "kraft",
-          "deluxe",
-          "macaroni",
-          "cheese",
-          "velveeta",
-          "shells"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w46:42666db7",
       "offer_family": "gen_98af7962",
       "route": "auto_apply",
@@ -965,6 +995,39 @@
       "insert_ref": null
     },
     {
+      "offer_id": "nob_hill:2026w46:46c11ecc",
+      "offer_family": "gen_3bbabcde",
+      "route": "auto_apply",
+      "title": "Member Price $5.99/ea (reg. $7.39) — Raley’s Salame, Hormel Pepperoni or Claussen Pickles or Sauerkraut",
+      "description": "Raley’s Salame, Hormel Pepperoni or Claussen Pickles or Sauerkraut. Member Price $5.99/ea (reg. $7.39). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 5.99,
+        "regular_price": 7.39
+      },
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-17",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "raley",
+          "salame",
+          "hormel",
+          "pepperoni",
+          "claussen",
+          "pickles"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
       "offer_id": "nob_hill:2026w46:4ab03984",
       "offer_family": "gen_f0a153dd",
       "route": "auto_apply",
@@ -988,6 +1051,36 @@
           "premium",
           "brownie",
           "tray"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w46:4ca388c6",
+      "offer_family": "gen_3127a2c5",
+      "route": "auto_apply",
+      "title": "Member Price $12.99/ea (reg. $14.49) — Kraft Velveeta Cheese",
+      "description": "Kraft Velveeta Cheese. Member Price $12.99/ea (reg. $14.49). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 12.99,
+        "regular_price": 14.49
+      },
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-17",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "kraft",
+          "velveeta",
+          "cheese"
         ],
         "excludes": []
       },
@@ -1795,38 +1888,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w46:7ea56bfb",
-      "offer_family": "gen_0abc40a4",
-      "route": "auto_apply",
-      "title": "Member Price $4.99/ea (reg. $8.39) — José Olé Taquitos or Athens Spanakopita Bites",
-      "description": "José Olé Taquitos or Athens Spanakopita Bites. Member Price $4.99/ea (reg. $8.39). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 4.99,
-        "regular_price": 8.39
-      },
-      "valid_from": "2026-11-11",
-      "valid_to": "2026-11-17",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "jos",
-          "taquitos",
-          "athens",
-          "spanakopita",
-          "bites"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w46:8280bf5d",
       "offer_family": "gen_9950e561",
       "route": "auto_apply",
@@ -2128,36 +2189,6 @@
       "insert_ref": null
     },
     {
-      "offer_id": "nob_hill:2026w46:8fed010c",
-      "offer_family": "gen_94322f6a",
-      "route": "auto_apply",
-      "title": "Member Price $3.99/ea (reg. $4.99) — Barilla Pasta Sauce",
-      "description": "Barilla Pasta Sauce. Member Price $3.99/ea (reg. $4.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 3.99,
-        "regular_price": 4.99
-      },
-      "valid_from": "2026-11-11",
-      "valid_to": "2026-11-17",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "barilla",
-          "pasta",
-          "sauce"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
       "offer_id": "nob_hill:2026w46:93e609ce",
       "offer_family": "gen_3092828e",
       "route": "auto_apply",
@@ -2216,39 +2247,6 @@
           "dough",
           "pastry",
           "sheets"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w46:98ab9c6f",
-      "offer_family": "gen_954dbaa7",
-      "route": "auto_apply",
-      "title": "Member Price $5.99/ea (reg. $6.99) — Raley’s Salame, Hormel Pepperoni or Claussen Pickles or Sauerkraut",
-      "description": "Raley’s Salame, Hormel Pepperoni or Claussen Pickles or Sauerkraut. Member Price $5.99/ea (reg. $6.99). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 5.99,
-        "regular_price": 6.99
-      },
-      "valid_from": "2026-11-11",
-      "valid_to": "2026-11-17",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "raley",
-          "salame",
-          "hormel",
-          "pepperoni",
-          "claussen",
-          "pickles"
         ],
         "excludes": []
       },
@@ -2535,36 +2533,6 @@
         "keywords": [
           "hass",
           "avocados"
-        ],
-        "excludes": []
-      },
-      "upcs_verified": [],
-      "insert_ref": null
-    },
-    {
-      "offer_id": "nob_hill:2026w46:ae6e4006",
-      "offer_family": "gen_ba4b1022",
-      "route": "auto_apply",
-      "title": "Member Price $12.99/ea (reg. $15.49) — Kraft Velveeta Cheese",
-      "description": "Kraft Velveeta Cheese. Member Price $12.99/ea (reg. $15.49). From the Raley's/Nob Hill weekly ad.",
-      "value": {
-        "type": "member_price",
-        "price": 12.99,
-        "regular_price": 15.49
-      },
-      "valid_from": "2026-11-11",
-      "valid_to": "2026-11-17",
-      "deeplink": null,
-      "batch_clip_hint": null,
-      "hints": {
-        "brands": [],
-        "category": "general",
-        "size_min_oz": null,
-        "size_max_oz": null,
-        "keywords": [
-          "kraft",
-          "velveeta",
-          "cheese"
         ],
         "excludes": []
       },
@@ -3350,6 +3318,38 @@
           "carnation",
           "evaporated",
           "milk"
+        ],
+        "excludes": []
+      },
+      "upcs_verified": [],
+      "insert_ref": null
+    },
+    {
+      "offer_id": "nob_hill:2026w46:ed36b2e4",
+      "offer_family": "gen_674f43bc",
+      "route": "auto_apply",
+      "title": "Member Price $4.99/ea (reg. $7.99) — José Olé Taquitos or Athens Spanakopita Bites",
+      "description": "José Olé Taquitos or Athens Spanakopita Bites. Member Price $4.99/ea (reg. $7.99). From the Raley's/Nob Hill weekly ad.",
+      "value": {
+        "type": "member_price",
+        "price": 4.99,
+        "regular_price": 7.99
+      },
+      "valid_from": "2026-11-11",
+      "valid_to": "2026-11-17",
+      "deeplink": null,
+      "batch_clip_hint": null,
+      "hints": {
+        "brands": [],
+        "category": "general",
+        "size_min_oz": null,
+        "size_max_oz": null,
+        "keywords": [
+          "jos",
+          "taquitos",
+          "athens",
+          "spanakopita",
+          "bites"
         ],
         "excludes": []
       },
